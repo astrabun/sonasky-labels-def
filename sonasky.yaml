@@ -5132,7 +5132,7 @@ hare:
   locales:
   - lang: en
     name: Hare
-    description: 'This user is a Hare! AKA: bunny'
+    description: 'This user is a Hare!'
   - lang: pt-BR
     name: Lebre
     description: "Este usuário é uma Lebre!  AKA: Hare"
