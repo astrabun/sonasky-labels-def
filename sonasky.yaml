@@ -838,13 +838,16 @@ salamander:
       name: Salamandra
       description: Este usuário é uma Salamandra!
 neopet:
+  category:
+    en: Neopet
+    pt-BR: Neopet
   locales:
     - lang: en
       name: Neopet
-      description: "This user is a Neopet! [Category: Neopet]"
+      description: "This user is a Neopet!"
     - lang: pt-BR
       name: Neopet
-      description: "Este usuário é um mascote Neopet! [Category: Neopet]"
+      description: "Este usuário é um mascote Neopet!"
 crux:
   locales:
     - lang: en
@@ -854,13 +857,16 @@ crux:
       name: Crux
       description: Este usuário é um Crux!
 raptor:
+  category:
+    en: Dinosaur
+    pt-BR: Dinossauro
   locales:
     - lang: en
       name: Raptor
-      description: "This user is a Raptor! [Category: Dinosaur]"
+      description: "This user is a Raptor!"
     - lang: pt-BR
       name: Velociraptor
-      description: "Este usuário é um Velociraptor! [Category: Dinossauro]"
+      description: "Este usuário é um Velociraptor!"
 shapeshifter:
   locales:
     - lang: en
@@ -878,13 +884,16 @@ axolotl:
       name: Axolote
       description: Este usuário é um Axolote
 eagle:
+  category:
+    en: Avian/Bird
+    pt-BR: Ave/Pássaro
   locales:
     - lang: en
       name: Eagle
-      description: "This user is an Eagle! [Category: Avian/Bird]"
+      description: "This user is an Eagle!"
     - lang: pt-BR
       name: Águia
-      description: "Este usuário é uma Águia! [Category: Ave/Pássaro]"
+      description: "Este usuário é uma Águia!"
 falcon:
   locales:
     - lang: en
