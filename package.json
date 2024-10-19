@@ -1,0 +1,18 @@
+{
+  "name": "sonasky-labels-def",
+  "version": "1.0.0",
+  "description": "Label definitions for sonasky",
+  "scripts": {
+    "test": "tsx src/testGenerateBskyDefs.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.1.0",
+    "typescript": "^5.5.4"
+  },
+  "author": "Astra",
+  "dependencies": {
+    "@atproto/api": "^0.12.29",
+    "tsx": "^4.19.1",
+    "yaml": "^2.6.0"
+  }
+}

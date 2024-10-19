@@ -1,0 +1,4573 @@
+rabbit:
+  locales:
+    - lang: en
+      name: Rabbit
+      description: "This user is a Rabbit! AKA: bunny, bnuy, bun :3c"
+    - lang: pt-BR
+      name: Coelha/Coelho
+      description: "Este usuário é um Coelho! AKA: Coelho, Coelinho."
+fox:
+  locales:
+    - lang: en
+      name: Fox
+      description: This user is a Fox!
+    - lang: pt-BR
+      name: Raposa
+      description: "Este usuário é uma Raposa! AKA: Raposo, Raposa, Raposinho, Raposinha."
+red-panda:
+  locales:
+    - lang: en
+      name: Red Panda
+      description: "This user is a Red Panda! AKA: wah"
+    - lang: pt-BR
+      name: Panda Vermelho
+      description: "Este usuário é um Panda vermelho! AKA: wawawa"
+deer:
+  locales:
+    - lang: en
+      name: Deer
+      description: This user is a Deer! Bleat!
+    - lang: pt-BR
+      name: Veado
+      description: Este usuário é um Veado!
+pokemon:
+  locales:
+    - lang: en
+      name: Pokemon
+      description: This user is a Pokemon!
+    - lang: pt-BR
+      name: Pokémon
+      description: Este usuário é um Pokémon! Qualquer tipo!
+dog:
+  locales:
+    - lang: en
+      name: Dog
+      description: "This user is a Dog! (AKA: puppy, doggo, pupper)"
+    - lang: pt-BR
+      name: Cachorro
+      description: "Este usuário é um Cachorro! AKA: Cachorrinho, Doguinho."
+dragon:
+  locales:
+    - lang: en
+      name: Dragon
+      description: This user is a Dragon!
+    - lang: pt-BR
+      name: Dragão
+      description: Este usuário é um Dragão!
+skunk:
+  locales:
+    - lang: en
+      name: Skunk
+      description: This user is a Skunk!
+    - lang: pt-BR
+      name: Gambá
+      description: "Este usuário é um Gambá! "
+hyena:
+  locales:
+    - lang: en
+      name: Hyena
+      description: This user is a Hyena!
+    - lang: pt-BR
+      name: Hiena
+      description: Este usuário é uma Hiena!
+horse:
+  locales:
+    - lang: en
+      name: Horse
+      description: This user is a Horse!
+    - lang: pt-BR
+      name: Cavalo
+      description: Este usuário é um Cavalo!
+bear:
+  locales:
+    - lang: en
+      name: Bear
+      description: This user is a Bear!
+    - lang: pt-BR
+      name: Urso
+      description: Este usuário é um Urso! Qualquer tipo de urso!
+otter:
+  locales:
+    - lang: en
+      name: Otter
+      description: This user is an Otter!
+    - lang: pt-BR
+      name: Lontra
+      description: "Este usuário é uma Lontra! AKA: Leão-marinho."
+bird:
+  locales:
+    - lang: en
+      name: Bird
+      description: This user is a Bird!
+    - lang: pt-BR
+      name: Pássaro
+      description: "Este usuário é um Pássaro! AKA: Piriquito, Piu."
+raccoon:
+  locales:
+    - lang: en
+      name: Raccoon
+      description: This user is a Raccoon!
+    - lang: pt-BR
+      name: Guaxinim
+      description: "Este usuário é um Guaxinim! AKA: Guaxo"
+mouse:
+  locales:
+    - lang: en
+      name: Mouse
+      description: This user is a Mouse!
+    - lang: pt-BR
+      name: Roedor
+      description: "Este usuário é um Roedor! AKA: Rato."
+rat:
+  locales:
+    - lang: en
+      name: Rat
+      description: This user is a Rat!
+    - lang: pt-BR
+      name: Rato
+      description: Este usuário é um Rato!
+cat:
+  locales:
+    - lang: en
+      name: Cat
+      description: This user is a Cat!
+    - lang: pt-BR
+      name: Gato
+      description: "Este usuário é um Gato! AKA: Gatinho."
+big-cat:
+  locales:
+    - lang: en
+      name: Big Cat
+      description: This user is a Big Cat!
+    - lang: pt-BR
+      name: Gato Grande
+      description: "Este usuário é um Gato Grande! AKA: Gatão, Onças"
+wolf:
+  locales:
+    - lang: en
+      name: Wolf
+      description: This user is a Wolf!
+    - lang: pt-BR
+      name: Lobo
+      description: "Este usuário é um Lobo! AKA: Lobão, Lobinho."
+hybrid:
+  locales:
+    - lang: en
+      name: Hybrid
+      description: This user is a Hybrid!
+    - lang: pt-BR
+      name: Híbrido
+      description: Este usuário é um Híbrido!
+protogen:
+  locales:
+    - lang: en
+      name: Protogen
+      description: "This user is a Protogen! Beep-boop. AKA: Toaster"
+    - lang: pt-BR
+      name: Protogen
+      description: "Este usuário é um Protogen! AKA: Torradeira."
+kanvi:
+  locales:
+    - lang: en
+      name: Kan'vi
+      description: "This user is a Kan'vi! https://kanvi.carrd.co/ [Tags: open-species]"
+    - lang: pt-BR
+      name: Kan'vi
+      description: "Este usuário é um Kan'vi! https://kanvi.carrd.co/ [Tags: livre-espécie]"
+taur:
+  locales:
+    - lang: en
+      name: Taur
+      description: This user is a Taur! (See other labels to see what kind)
+    - lang: pt-BR
+      name: Touro
+      description: Este usuário é um Touro! (Verifique as outras tags para o tipo.)
+snake:
+  category:
+    en: Snake
+    pt-BR: Cobra
+  locales:
+    - lang: en
+      name: Snake
+      description: "This user is a Snake!"
+    - lang: pt-BR
+      name: Cobra
+      description: "Este usuário é uma Cobra!"
+shark:
+  locales:
+    - lang: en
+      name: Shark
+      description: This user is a Shark!
+    - lang: pt-BR
+      name: Tubarão
+      description: "Este usuário é um Tubarão! AKA: Tubas."
+sergal:
+  locales:
+    - lang: en
+      name: Sergal
+      description: This user is a Sergal!
+    - lang: pt-BR
+      name: Sergal
+      description: Este usuário é um Sergal!
+orca:
+  locales:
+    - lang: en
+      name: Orca
+      description: This user is an Orca!
+    - lang: pt-BR
+      name: Orca
+      description: Este usuário é uma Orca!
+seal:
+  locales:
+    - lang: en
+      name: Seal
+      description: This user is a Seal!
+    - lang: pt-BR
+      name: Foca
+      description: "Este usuário é uma Foca! AKA: Foca-Marinha."
+tiger:
+  locales:
+    - lang: en
+      name: Tiger
+      description: This user is a Tiger!
+    - lang: pt-BR
+      name: Tigre
+      description: Este usuário é um Tigre!
+chameleon:
+  locales:
+    - lang: en
+      name: Chameleon
+      description: This user is a Chameleon!
+capybara:
+  locales:
+    - lang: en
+      name: Capybara
+      description: This user is a Capybara!
+    - lang: pt-BR
+      name: Capivara
+      description: "Este usuário é uma Capivara! AKA: Capi."
+jackal:
+  locales:
+    - lang: en
+      name: Jackal
+      description: This user is a Jackal!
+    - lang: pt-BR
+      name: Chacal
+      description: "Este usuário é um Chacal! AKA: Lacaio."
+yinglet:
+  locales:
+    - lang: en
+      name: Yinglet
+      description: This user is a Yinglet! https://en.wikifur.com/wiki/Out-of-Placers
+    - lang: pt-BR
+      name: Yinglet
+      description: Este usuário é um Yinglet! https://en.wikifur.com/wiki/Out-of-Placers
+kangaroo:
+  locales:
+    - lang: en
+      name: Kangaroo
+      description: This user is a Kangaroo!
+    - lang: pt-BR
+      name: Canguru
+      description: Este usuário é um Canguru!
+coyote:
+  locales:
+    - lang: en
+      name: Coyote
+      description: This user is a Coyote!
+    - lang: pt-BR
+      name: Coiote
+      description: "Este usuário é um Coiote! AKA: Lobo da América."
+squirrel:
+  locales:
+    - lang: en
+      name: Squirrel
+      description: This user is a Squirrel!
+    - lang: pt-BR
+      name: Esquilo
+      description: "Este usuário é um Esquilo! AKA: Roedor."
+cheetah:
+  locales:
+    - lang: en
+      name: Cheetah
+      description: This user is a Cheetah!
+    - lang: pt-BR
+      name: Leopardo
+      description: "Este usuário é um Leopardo! AKA: Pantera, Chita."
+snow-leopard:
+  locales:
+    - lang: en
+      name: Snow Leopard
+      description: This user is a Snow Leopard!
+    - lang: pt-BR
+      name: Leopardo da neve
+      description: Este usuário é um Leopardo da Neve!
+possum:
+  locales:
+    - lang: en
+      name: Possum
+      description: This user is a Possum! (Phalangeriformes; NOT the same as an
+        opossum which is sometimes called "possum" as well in North America)
+    - lang: pt-BR
+      name: Possum
+      description: 'Este usuário é um Possum! (Alternativos: Diferente do outro
+        nomeado de "Opossum" e derivados.)'
+bat:
+  locales:
+    - lang: en
+      name: Bat
+      description: This user is a Bat!
+    - lang: pt-BR
+      name: Morcego
+      description: Este usuário é um Morcego!
+mustelid:
+  category:
+    en: Mustelid
+    pt-BR: Mustelídeo
+  locales:
+    - lang: en
+      name: Mustelid
+      description: "This user is a Mustelid!"
+    - lang: pt-BR
+      name: Texugo
+      description: "Este usuário é um Téxugo!AKA: Lontras,
+        Doninhas, Furões e derivados."
+marten:
+  category:
+    en: Mustelid
+    pt-BR: Mustelídeo
+  locales:
+    - lang: en
+      name: Marten
+      description: "This user is a Marten!"
+    - lang: pt-BR
+      name: Marto
+      description: "Este usuário é um Marto!"
+ferret:
+  category:
+    en: Mustelid
+    pt-BR: Mustelídeo
+  locales:
+    - lang: en
+      name: Ferret
+      description: "This user is a Ferret!"
+weasel:
+  locales:
+    - lang: en
+      name: Weasel
+      description: "This user is a Weasel!"
+    - lang: pt-BR
+      name: Furão
+      description: "Este usuário é um Furão! AKA: Furãozinho,
+        Lontra."
+stoat:
+  category:
+    en: Mustelid
+    pt-BR: Mustelídeo
+  locales:
+    - lang: en
+      name: Stoat
+      description: "This user is a Stoat!"
+    - lang: pt-BR
+      name: Arminho
+      description: "Este usuário é um Arminho! AKA: Furão."
+unicorn:
+  locales:
+    - lang: en
+      name: Unicorn
+      description: This user is an Unicorn!
+    - lang: pt-BR
+      name: Unicórnio
+      description: "Este usuário é um Unicórnio! AKA: Cavalo."
+crocodile:
+  locales:
+    - lang: en
+      name: Crocodile
+      description: This user is a Crocodile!
+    - lang: pt-BR
+      name: Crocodilo
+      description: "Este usuário é um Crocodilo! AKA: Lodilo."
+alligator:
+  locales:
+    - lang: en
+      name: Alligator
+      description: This user is an Alligator!
+    - lang: pt-BR
+      name: Jacaré
+      description: "Este usuário é um Jacaré! AKA: Jaré."
+alpaca:
+  locales:
+    - lang: en
+      name: Alpaca
+      description: This user is an Alpaca!
+    - lang: pt-BR
+      name: Alpaca
+      description: "Este usuário é uma Alpaca! AKA: Llama."
+llama:
+  locales:
+    - lang: en
+      name: Llama
+      description: This user is a Llama!
+    - lang: pt-BR
+      name: Llama
+      description: "Este usuário é uma Llama! AKA: Alpaca, Lama."
+goat:
+  locales:
+    - lang: en
+      name: Goat
+      description: This user is a Goat!
+    - lang: pt-BR
+      name: Cabra
+      description: "Este usuário é uma Cabra! AKA: Cabrito, Bode."
+phoenix:
+  locales:
+    - lang: en
+      name: Phoenix
+      description: This user is a Phoenix!
+    - lang: pt-BR
+      name: Fênix
+      description: Este usuário é uma Fẽnix!
+eel:
+  locales:
+    - lang: en
+      name: Eel
+      description: This user is an Eel!
+    - lang: pt-BR
+      name: Enguia
+      description: Este usuário é uma Enguia!
+fish:
+  locales:
+    - lang: en
+      name: Fish
+      description: This user is a Fish!
+    - lang: pt-BR
+      name: Peixe
+      description: "Este usuário é um Peixe! AKA: Peixinho"
+plane-dragon:
+  locales:
+    - lang: en
+      name: Plane Dragon
+      description: This user is a Plane Dragon!
+    - lang: pt-BR
+      name: Dragão Nave
+      description: Este usuário é um Dragão Nave!
+lizard:
+  locales:
+    - lang: en
+      name: Lizard
+      description: This user is a Lizard!
+    - lang: pt-BR
+      name: Lagarto
+      description: "Este usuário é um Lagarto! AKA: Lagartixa, Camaleão."
+manokit:
+  locales:
+    - lang: en
+      name: Manokit
+      description: This user is a Manokit!
+    - lang: pt-BR
+      name: Manokit
+      description: Este usuário é um Manokit!
+gryphon:
+  locales:
+    - lang: en
+      name: Gryphon
+      description: This user is a Gryphon!
+    - lang: pt-BR
+      name: Grifo
+      description: Este usuário é um Grifo!
+wolverine:
+  locales:
+    - lang: en
+      name: Wolverine
+      description: This user is a Wolverine!
+    - lang: pt-BR
+      name: Carcaju
+      description: "Este usuário é um Carcajo! AKA: Lobão, Wolverine."
+lynx:
+  locales:
+    - lang: en
+      name: Lynx
+      description: This user is a Lynx!
+    - lang: pt-BR
+      name: Lince
+      description: "Este usuário é um Lince! AKA: Gato, Lobo-cerval."
+werewolf:
+  locales:
+    - lang: en
+      name: Werewolf
+      description: This user is a Werewolf!
+    - lang: pt-BR
+      name: Lobisomen
+      description: Este usuário é um Lobisomen!
+coywolf:
+  locales:
+    - lang: en
+      name: Coywolf
+      description: This user is a Coywolf!
+    - lang: pt-BR
+      name: Coiote
+      description: "Este usuário é um Coiote! AKA: Lobo."
+boar:
+  locales:
+    - lang: en
+      name: Boar
+      description: This user is a Boar!
+    - lang: pt-BR
+      name: Javali
+      description: "Este usuário é um Javali! AKA: Varão."
+kobold:
+  locales:
+    - lang: en
+      name: Kobold
+      description: This user is a Kobold!
+    - lang: pt-BR
+      name: Kobold
+      description: Este usuário é um Kobold!
+cryptid:
+  locales:
+    - lang: en
+      name: Cryptid
+      description: This user is a Cryptid!
+    - lang: pt-BR
+      name: Cryptid
+      description: "Este usuário é um Cryptid! AKA: Híbrido."
+mythical-creature:
+  locales:
+    - lang: en
+      name: Mythical Creature
+      description: This user is a Mythical Creature!
+    - lang: pt-BR
+      name: Criatura Mítica
+      description: Este usuário é uma Criatura Mítica!
+eldritch-creature:
+  locales:
+    - lang: en
+      name: Eldritch Creature
+      description: This user is an Eldritch Creature!
+    - lang: pt-BR
+      name: Criatura Sobrenatural
+      description: "Este usuário é uma Criatura Sobrenatural! AKA: Eldricth, Mítico."
+puma:
+  locales:
+    - lang: en
+      name: Puma
+      description: This user is a Puma!
+    - lang: pt-BR
+      name: Puma
+      description: "Este usuário é uma Puma! AKA: Onça-parda."
+tanuki:
+  locales:
+    - lang: en
+      name: Tanuki
+      description: This user is a Tanuki!
+    - lang: pt-BR
+      name: Tanuki
+      description: "Este usuário é um Tanuki! AKA: Guaxinim."
+bovine:
+  locales:
+    - lang: en
+      name: Bovine
+      description: This user is a Bovine!
+    - lang: pt-BR
+      name: Bovino
+      description: Este usuário é um Bovino!
+red-wolf:
+  locales:
+    - lang: en
+      name: Red Wolf
+      description: This user is a Red Wolf!
+    - lang: pt-BR
+      name: Lobo Cinzento
+      description: "Este usuário é um Lobo Cinzento! AKA: Lobo."
+fennec-fox:
+  locales:
+    - lang: en
+      name: Fennec Fox
+      description: This user is a Fennec Fox!
+    - lang: pt-BR
+      name: Raposa Feneco
+      description: "Este usuário é uma Raposa Feneco! AKA: Raposa."
+saber:
+  locales:
+    - lang: en
+      name: Saber
+      description: This user is a Saber!
+    - lang: pt-BR
+      name: Saber
+      description: Este usuário é um Saber!
+saber-toothed-cat:
+  locales:
+    - lang: en
+      name: Saber-Toothed Cat
+      description: This user is a Saber-Toothed Cat!
+    - lang: pt-BR
+      name: Smilodon
+      description: "Este usuário é um Smilodon! AKA: Tigre-dente-de-sabre."
+donkey:
+  locales:
+    - lang: en
+      name: Donkey
+      description: This user is a Donkey! Hee-haw~!
+    - lang: pt-BR
+      name: Burro
+      description: Este usuário é um Burro! Não literalmente.
+leopard:
+  locales:
+    - lang: en
+      name: Leopard
+      description: This user is a Leopard!
+    - lang: pt-BR
+      name: Leopardo
+      description: "Este usuário é um Leopardo! AKA: Pantera, Leão."
+chakat:
+  locales:
+    - lang: en
+      name: Chakat
+      description: This user is a Chakat!
+    - lang: pt-BR
+      name: Chakat
+      description: "Este usuário é um Chakat! AKA: Pantera, Onça."
+hedgehog:
+  locales:
+    - lang: en
+      name: Hedgehog
+      description: This user is a Hedgehog!
+    - lang: pt-BR
+      name: Ouriço
+      description: "Este usuário é um Ouriço! AKA: Roedor, Gandú."
+monster-dog:
+  locales:
+    - lang: en
+      name: Monster Dog
+      description: This user is a Monster Dog!
+    - lang: pt-BR
+      name: Dog Monstro
+      description: "Este usuário é um Dog Monstro! AKA: Híbrido, Cachorro."
+pooltoy:
+  locales:
+    - lang: en
+      name: Pooltoy
+      description: This user is a Pooltoy! Squeak!
+    - lang: pt-BR
+      name: Pooltoy
+      description: "Este usuário é um tipo de Pooltoy! AKA: Borracha, Piscina."
+dolphin:
+  locales:
+    - lang: en
+      name: Dolphin
+      description: This user is a Dolphin!
+    - lang: pt-BR
+      name: Golfinho
+      description: Este usuário é um Golfinho!
+dinosaur:
+  locales:
+    - lang: en
+      name: Dinosaur
+      description: This user is a Dinosaur!
+    - lang: pt-BR
+      name: Dinossauro
+      description: Este usuário é um DInossauro! Rawr!
+deathclaw:
+  locales:
+    - lang: en
+      name: Deathclaw
+      description: This user is a Deathclaw!
+    - lang: pt-BR
+      name: Deathclaw
+      description: "Este usuário é um Deathclaw! AKA: Dragão"
+lion:
+  locales:
+    - lang: en
+      name: Lion
+      description: This user is a Lion!
+    - lang: pt-BR
+      name: Leão
+      description: "Este usuário é um Leão! AKA: Gato."
+reptile:
+  locales:
+    - lang: en
+      name: Reptile
+      description: This user is a Reptile!
+    - lang: pt-BR
+      name: Réptil
+      description: Este usuário é um Réptil!
+unknown:
+  locales:
+    - lang: en
+      name: 404 Fursona Not Found
+      description: This user is... not yet known! Maybe they're still trying to figure out.
+    - lang: pt-BR
+      name: 404 Usuário não achado
+      description: Este usuário é.. não descoberto ainda! Ainda tentando desvendar.
+species-fluid:
+  locales:
+    - lang: en
+      name: Species Fluid
+      description: This user's fursona species may change often!
+    - lang: pt-BR
+      name: Espécie Líquida
+      description: Este usuário é ser que transforma muito!
+snail:
+  locales:
+    - lang: en
+      name: Snail
+      description: This user is a Snail!
+    - lang: pt-BR
+      name: Lesma
+      description: "Este usuário é uma Lesma! AKA: Caracol."
+insect:
+  locales:
+    - lang: en
+      name: Insect
+      description: This user is an Insect!
+    - lang: pt-BR
+      name: Inseto
+      description: Este usuário é um Inseto! Bzzzz!
+avali:
+  locales:
+    - lang: en
+      name: Avali
+      description: This user is an Avali! https://en.wikifur.com/wiki/Avali
+    - lang: pt-BR
+      name: Avali
+      description: Este usuário é um Avali! https://en.wikifur.com/wiki/Avali
+alien:
+  locales:
+    - lang: en
+      name: Alien
+      description: This user is an Alien!
+    - lang: pt-BR
+      name: Alien
+      description: Este usuário é um Alien!
+dingo:
+  locales:
+    - lang: en
+      name: Dingo
+      description: This user is a Dingo!
+    - lang: pt-BR
+      name: Dingo
+      description: "Este usuário é um Dingo! AKA: Cachorro, Lobo."
+coastal-wolf:
+  locales:
+    - lang: en
+      name: Coastal Wolf
+      description: This user is a Coastal Wolf!
+        https://en.wikipedia.org/wiki/Vancouver_Coastal_Sea_wolf
+    - lang: pt-BR
+      name: Lobo Costeiro
+      description: Este usuário é um Lobo Costeiro!
+        https://en.wikipedia.org/wiki/Vancouver_Coastal_Sea_wolf
+maned-wolf:
+  locales:
+    - lang: en
+      name: Maned Wolf
+      description: This user is a Maned Wolf!
+    - lang: pt-BR
+      name: Lobo-Guará
+      description: "Este usuário é um Lobo-Guará! AKA: Lobo."
+jackalope:
+  locales:
+    - lang: en
+      name: Jackalope
+      description: This user is a Jackalope!
+    - lang: pt-BR
+      name: Lebrípole
+      description: "Este usuário é um Lebrípole! AKA: Coelho, Cervo, Jackalope."
+shiba-inu:
+  locales:
+    - lang: en
+      name: Shiba Inu
+      description: This user is a Shiba Inu!
+    - lang: pt-BR
+      name: Shiba Inu
+      description: Este usuário é um Shiba! Au au!
+shikoku-inu:
+  locales:
+    - lang: en
+      name: Shikoku Inu
+      description: This user is a Shikoku Inu!
+    - lang: pt-BR
+      name: Shikoku Inu
+      description: "Este usuário é um Shikoku Inu! AKA: Cachorro."
+vampire:
+  locales:
+    - lang: en
+      name: Vampire
+      description: This user is a Vampire!
+    - lang: pt-BR
+      name: Vampiro
+      description: Este usuário é um Vampiro!
+supernatural-creature:
+  locales:
+    - lang: en
+      name: Supernatural Creature
+      description: This user is a Supernatural Creature!
+    - lang: pt-BR
+      name: Criatura Sobrenatural
+      description: Este usuário é uma Criatura Sobrenatural!
+yokai:
+  locales:
+    - lang: en
+      name: Yokai
+      description: This user is a Yokai!
+    - lang: pt-BR
+      name: Youkai
+      description: "Este usuário é um Yokai! AKA: Criatura Mágica, Kitsune."
+hellhound:
+  locales:
+    - lang: en
+      name: Hellhound
+      description: This user is a Hellhound!
+    - lang: pt-BR
+      name: Hellhound
+      description: "Este usuário é um Cérbero! AKA: Cérbero, Cachorro"
+demon:
+  locales:
+    - lang: en
+      name: Demon
+      description: This user is a Demon!
+    - lang: pt-BR
+      name: Demônio
+      description: Este usuário é um Demônio!
+salamander:
+  locales:
+    - lang: en
+      name: Salamander
+      description: This user is a Salamander!
+    - lang: pt-BR
+      name: Salamandra
+      description: Este usuário é uma Salamandra!
+neopet:
+  locales:
+    - lang: en
+      name: Neopet
+      description: "This user is a Neopet! [Category: Neopet]"
+    - lang: pt-BR
+      name: Neopet
+      description: "Este usuário é um mascote Neopet! [Category: Neopet]"
+crux:
+  locales:
+    - lang: en
+      name: Crux
+      description: This user is a Crux! https://en.wikifur.com/wiki/Crux_(species)
+    - lang: pt-BR
+      name: Crux
+      description: Este usuário é um Crux!
+raptor:
+  locales:
+    - lang: en
+      name: Raptor
+      description: "This user is a Raptor! [Category: Dinosaur]"
+    - lang: pt-BR
+      name: Velociraptor
+      description: "Este usuário é um Velociraptor! [Category: Dinossauro]"
+shapeshifter:
+  locales:
+    - lang: en
+      name: Shapeshifter
+      description: This user is a Shapeshifter!
+    - lang: pt-BR
+      name: Metamorfo
+      description: Este usuário é um Metamorfo!
+axolotl:
+  locales:
+    - lang: en
+      name: Axolotl
+      description: This user is an Axolotl!
+    - lang: pt-BR
+      name: Axolote
+      description: Este usuário é um Axolote
+eagle:
+  locales:
+    - lang: en
+      name: Eagle
+      description: "This user is an Eagle! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Águia
+      description: "Este usuário é uma Águia! [Category: Ave/Pássaro]"
+falcon:
+  locales:
+    - lang: en
+      name: Falcon
+      description: "This user is a Falcon! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Falcão
+      description: "Este usuário é um Falcão! [Category: Ave/Pássaro]"
+chicken:
+  locales:
+    - lang: en
+      name: Chicken
+      description: "This user is a Chicken! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Galinha
+      description: "Este usuário é uma Galinha! có-có-có! [Category: Ave/Pássaro]"
+duck:
+  locales:
+    - lang: en
+      name: Duck
+      description: "This user is a Duck! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Pato
+      description: "Este usuário é uma Pato! quac-quac! [Category: Ave/Pássaro]"
+parrot:
+  locales:
+    - lang: en
+      name: Parrot
+      description: "This user is a Parrot! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Papagaio
+      description: "Este usuário é um Papagaio! [Category: Ave/Pássaro]"
+crow:
+  locales:
+    - lang: en
+      name: Crow
+      description: "This user is a Crow! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Corvo
+      description: "Este usuário é um Corvo! [Category: Ave/Pássaro]"
+raven:
+  locales:
+    - lang: en
+      name: Raven
+      description: "This user is a Raven! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Corvo
+      description: "Este usuário é um Corvo! [Category: Ave/Pássaro]"
+blue-jay:
+  locales:
+    - lang: en
+      name: Blue Jay
+      description: "This user is a Blue Jay! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Gaio-azul
+      description: "Este usuário é um Gaio-azul! [Category: Ave/Pássaro]"
+goose:
+  locales:
+    - lang: en
+      name: Goose
+      description: "This user is a Goose! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Ganso
+      description: "Este usuário é um Ganso! quá quá! [Category: Ave/Pássaro]"
+swan:
+  locales:
+    - lang: en
+      name: Swan
+      description: "This user is a Swan! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Cisne
+      description: "Este usuário é um Cisne! [Category: Ave/Pássaro]"
+penguin:
+  locales:
+    - lang: en
+      name: Penguin
+      description: "This user is a Penguin! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Pinguim
+      description: "Este usuário é um Pinguim! [Category: Ave/Pássaro]"
+pigeon:
+  locales:
+    - lang: en
+      name: Pigeon
+      description: "This user is a Pigeon! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Pombo
+      description: "Este usuário é um Pombo! prú prú [Category: Ave/Pássaro]"
+dove:
+  locales:
+    - lang: en
+      name: Dove
+      description: "This user is a Dove! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Pombo
+      description: "Este usuário é um Pombo! prú prú [Category: Ave/Pássaro]"
+cardinal:
+  locales:
+    - lang: en
+      name: Cardinal
+      description: "This user is a Cardinal! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: "Cardeal "
+      description: "Este usuário é um Cardeal! [Category: Ave/Pássaro]"
+robin:
+  locales:
+    - lang: en
+      name: Robin
+      description: "This user is a Robin! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Pisco
+      description: "Este usuário é um Pisco-de-peito-ruivo! [Category: Ave/Pássaro]"
+gecko:
+  locales:
+    - lang: en
+      name: Gecko
+      description: This user is a Gecko!
+    - lang: pt-BR
+      name: "Gecko "
+      description: Este usuário é um Gecko!
+quox:
+  locales:
+    - lang: en
+      name: Quox
+      description: This user is a Quox! https://breezewiki.com/towerofdruaga/wiki/Quox
+    - lang: pt-BR
+      name: "Quox "
+      description: Este usuário é um Quox! https://breezewiki.com/towerofdruaga/wiki/Quox
+chimera:
+  locales:
+    - lang: en
+      name: Chimera
+      description: This user is a Chimera!
+    - lang: pt-BR
+      name: "Quimera "
+      description: Este usuário é uma Quimera!
+kitsune:
+  locales:
+    - lang: en
+      name: Kitsune
+      description: This user is a Kitsune!
+    - lang: pt-BR
+      name: "Kitsune "
+      description: Este usuário é um Kitsune!
+sheep:
+  locales:
+    - lang: en
+      name: Sheep
+      description: This user is a Sheep!
+    - lang: pt-BR
+      name: "Ovelha "
+      description: Este usuário é uma Ovelha!
+ram:
+  locales:
+    - lang: en
+      name: Ram
+      description: This user is a Ram!
+    - lang: pt-BR
+      name: Carneiro
+      description: "Este usuário é um Carneiro!! AKA: Ram"
+owl:
+  locales:
+    - lang: en
+      name: Owl
+      description: This user is an Owl! Hoot!
+    - lang: pt-BR
+      name: Coruja
+      description: "Este usuário é uma Coruja!! AKA: Owl"
+robot:
+  locales:
+    - lang: en
+      name: Robot
+      description: This user is a Robot!
+    - lang: pt-BR
+      name: Robô
+      description: "Este usuário é um Robô!! AKA: Robot"
+komodo-dragon:
+  locales:
+    - lang: en
+      name: Komodo Dragon
+      description: This user is a Komodo Dragon!
+    - lang: pt-BR
+      name: Dragão de Komodo
+      description: "Este usuário é um Dragão de Komodo! AKA: Komodo Dragon"
+pig:
+  locales:
+    - lang: en
+      name: Pig
+      description: This user is a Pig!
+    - lang: pt-BR
+      name: Porco
+      description: "Este usuário é um Porco!! AKA: Pig"
+golden-retriever:
+  locales:
+    - lang: en
+      name: Golden Retriever
+      description: This user is a Golden Retriever!
+    - lang: pt-BR
+      name: Golden Retriever
+      description: Este usuário é um Golden Retriever!
+peafowl:
+  locales:
+    - lang: en
+      name: Peafowl
+      description: "This user is a Peafowl! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Pavão
+      description: "Este usuário é um Pavão! [Category: Ave/Pássaro] AKA: Peafowl"
+serval:
+  locales:
+    - lang: en
+      name: Serval
+      description: This user is a Serval!
+    - lang: pt-BR
+      name: Serval
+      description: Este usuário é um Serval!
+lionbear:
+  locales:
+    - lang: en
+      name: Lionbear
+      description: This user is a Lionbear!
+    - lang: pt-BR
+      name: Usro-Leão
+      description: "Este usuário é um Urso-Leão! AKA: Lionbear"
+elk:
+  locales:
+    - lang: en
+      name: Elk
+      description: This user is an Elk!
+    - lang: pt-BR
+      name: Alce
+      description: "Este usuário é um Alce!  AKA: Elk"
+mightyena:
+  locales:
+    - lang: en
+      name: Mightyena
+      description: "This user is a Mightyena! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Mightyena
+      description: "Este usuário é um Mightyena! [Category: Pokemon]  AKA: Mightyena"
+moose:
+  locales:
+    - lang: en
+      name: Moose
+      description: This user is a Moose!
+    - lang: pt-BR
+      name: Alce
+      description: "Este usuário é um Alce!  AKA: Moose"
+sloth:
+  locales:
+    - lang: en
+      name: Sloth
+      description: This user is a Sloth!
+    - lang: pt-BR
+      name: Preguiça
+      description: "Este usuário é uma Preguiça!  AKA: Sloth"
+macaw:
+  locales:
+    - lang: en
+      name: Macaw
+      description: "This user is a Macaw! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Arara
+      description: "Este usuário é uma Arara! [Category: Ave/Pássaro]  AKA: Macaw"
+giant-panda:
+  locales:
+    - lang: en
+      name: Giant Panda
+      description: This user is a Giant Panda!
+    - lang: pt-BR
+      name: Panda-Gigante
+      description: "Este usuário é um Panda-Gigante!  AKA: Giant Panda"
+hamster:
+  locales:
+    - lang: en
+      name: Hamster
+      description: This user is a Hamster!
+    - lang: pt-BR
+      name: Hamster
+      description: Este usuário é um Hamster!
+polar-bear:
+  locales:
+    - lang: en
+      name: Polar Bear
+      description: This user is a Polar Bear!
+    - lang: pt-BR
+      name: Urso Polar
+      description: "Este usuário é um Urso Polar!  AKA: Polar Bear"
+frog:
+  locales:
+    - lang: en
+      name: Frog
+      description: This user is a Frog!
+    - lang: pt-BR
+      name: Sapo
+      description: "Este usuário é um Sapo!  AKA: Frog"
+gnoll:
+  locales:
+    - lang: en
+      name: Gnoll
+      description: This user is a Gnoll!
+    - lang: pt-BR
+      name: Gnoll
+      description: Este usuário é um Gnoll!
+african-crested-porcupine:
+  locales:
+    - lang: en
+      name: African Crested Porcupine
+      description: This user is an African Crested Porcupine!
+    - lang: pt-BR
+      name: Porco-Espinho-de-Crista-Africano
+      description: "Este usuário é um Porco-Espinho-de-Crista-Africano!  AKA: African
+        Crested Porcupine"
+arctic-fox:
+  locales:
+    - lang: en
+      name: Snowfox
+      description: "This user is an Arctic Fox! AKA: Snowfox, Snow Fox"
+    - lang: pt-BR
+      name: Raposa do Ártico
+      description: "Este usuário é uma Raposa do Ártico!  AKA: Arctic Fox"
+tasmanian-devil:
+  locales:
+    - lang: en
+      name: Tasmanian Devil
+      description: This user is a Tasmanian Devil!
+    - lang: pt-BR
+      name: Demônio-da-Tasmânia
+      description: "Este usuário é um Demônio-da-Tasmânia!  AKA: Tasmanian Devil"
+pangolin:
+  locales:
+    - lang: en
+      name: Pangolin
+      description: This user is a Pangolin!
+    - lang: pt-BR
+      name: Pangolim
+      description: "Este usuário é um Pangolim!  AKA: Pangolin"
+rhino:
+  locales:
+    - lang: en
+      name: Rhino
+      description: This user is a Rhino!
+    - lang: pt-BR
+      name: Rinoceronte
+      description: "Este usuário é um Rinoceronte!  AKA: Rhino"
+porcupine:
+  locales:
+    - lang: en
+      name: Porcupine
+      description: This user is a Porcupine!
+    - lang: pt-BR
+      name: Porco-Espinho
+      description: "Este usuário é um Porco-Espinho!  AKA: Porcupine"
+gargoyle:
+  locales:
+    - lang: en
+      name: Gargoyle
+      description: This user is a Gargoyle!
+    - lang: pt-BR
+      name: Gárgula
+      description: "Este usuário é uma Gárgula!  AKA: Gargoyle"
+zebra:
+  locales:
+    - lang: en
+      name: Zebra
+      description: This user is a Zebra!
+    - lang: pt-BR
+      name: Zebra
+      description: Este usuário é uma Zebra!
+hawk:
+  locales:
+    - lang: en
+      name: Hawk
+      description: This user is a Hawk!
+    - lang: pt-BR
+      name: Falcão
+      description: "Este usuário é um Falcão!  AKA: Hawk"
+monkey:
+  locales:
+    - lang: en
+      name: Monkey
+      description: This user is a Monkey!
+    - lang: pt-BR
+      name: Macaco
+      description: "Este usuário é um Macaco!  AKA: Monkey"
+cabbit:
+  locales:
+    - lang: en
+      name: Cabbit
+      description: This user is a Cabbit!
+    - lang: pt-BR
+      name: Gatoelho
+      description: "Este usuário é um Gatoelho!  AKA: Cabbit"
+badger:
+  locales:
+    - lang: en
+      name: Badger
+      description: "This user is a Badger! [Category: Mustelid]"
+    - lang: pt-BR
+      name: Texugo
+      description: "Este usuário é um Texugo! [Category: Mustelídeo]  AKA: Badger"
+jaguar:
+  locales:
+    - lang: en
+      name: Jaguar
+      description: This user is a Jaguar!
+    - lang: pt-BR
+      name: Jaguar
+      description: Este usuário é um Jaguar!
+giraffe:
+  locales:
+    - lang: en
+      name: Giraffe
+      description: This user is a Giraffe!
+    - lang: pt-BR
+      name: Girafa
+      description: "Este usuário é uma Girafa!  AKA: Giraffe"
+spider:
+  locales:
+    - lang: en
+      name: Spider
+      description: This user is a Spider!
+    - lang: pt-BR
+      name: Aranha
+      description: "Este usuário é uma Aranha!  AKA: Spider"
+langurhali:
+  locales:
+    - lang: en
+      name: Langurhali
+      description: This user is a Langurhali! https://en.wikifur.com/wiki/Vera#Langurhali
+    - lang: pt-BR
+      name: Langurhali
+      description: Este usuário é um
+        Langurhali!   https://en.wikifur.com/wiki/Vera#Langurhali
+black-bear:
+  locales:
+    - lang: en
+      name: Black Bear
+      description: This user is a Black Bear!
+    - lang: pt-BR
+      name: Urso-Negro
+      description: "Este usuário é um Urso-Negro!  AKA: Black Bear"
+platypus:
+  locales:
+    - lang: en
+      name: Platypus
+      description: This user is a Platypus!
+    - lang: pt-BR
+      name: Ornitorrinco
+      description: "Este usuário é um Ornitorrinco!  AKA: Platypus"
+bee:
+  locales:
+    - lang: en
+      name: Bee
+      description: This user is a Bee!
+    - lang: pt-BR
+      name: Abelha
+      description: "Este usuário é uma Abelha!  AKA: Bee"
+husky:
+  locales:
+    - lang: en
+      name: Husky
+      description: This user is a Husky!
+    - lang: pt-BR
+      name: Husky
+      description: Este usuário é um Husky!
+sparkledog:
+  locales:
+    - lang: en
+      name: Sparkledog
+      description: This user is a Sparkledog! https://en.wikifur.com/wiki/Sparkledog
+    - lang: pt-BR
+      name: Alce
+      description: Este usuário é um Sparkledog!  https://en.wikifur.com/wiki/Sparkledog
+sparklefur:
+  locales:
+    - lang: en
+      name: Sparklefur
+      description: This user is a Sparklefur!
+    - lang: pt-BR
+      name: Sparklefur
+      description: Este usuário é um Sparklefur!
+lemur:
+  locales:
+    - lang: en
+      name: Lemur
+      description: This user is a Lemur!
+    - lang: pt-BR
+      name: Lêmure
+      description: "Este usuário é um Lêmure!  AKA: Lemur"
+toy:
+  locales:
+    - lang: en
+      name: Toy
+      description: This user is a Toy!
+    - lang: pt-BR
+      name: Brinquedo
+      description: "Este usuário é um Brinquedo!  AKA: Toy"
+meerkat:
+  locales:
+    - lang: en
+      name: Meerkat
+      description: This user is a Meerkat!
+    - lang: pt-BR
+      name: Suricate
+      description: "Este usuário é um Suricate!  AKA: Meerkat"
+kudu:
+  locales:
+    - lang: en
+      name: Kudu
+      description: This user is a Kudu!
+    - lang: pt-BR
+      name: Cudo / Antílope
+      description: "Este usuário é um Cudo!  AKA: Kudu"
+gorgonopsid:
+  locales:
+    - lang: en
+      name: Gorgonopsid
+      description: This user is a Gorgonopsid!
+    - lang: pt-BR
+      name: Gorgonopsia
+      description: "Este usuário é uma Gorgonopsia!  AKA: Gorgonopsid"
+plushie:
+  locales:
+    - lang: en
+      name: Plushie
+      description: This user is a Plushie!
+    - lang: pt-BR
+      name: Pelúcia
+      description: "Este usuário é uma Pelúcia!  AKA: Plushie"
+weavile:
+  locales:
+    - lang: en
+      name: Weavile
+      description: "This user is a Weavile! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Weavile
+      description: "Este usuário é um Weavile!  [Category: Pokemon]"
+blue-marlin:
+  locales:
+    - lang: en
+      name: Blue Marlin
+      description: This user is a Blue Marlin!
+    - lang: pt-BR
+      name: Marlim-Azul
+      description: "Este usuário é um Marlim-Azul!  AKA: Blue Marlin"
+elephant:
+  locales:
+    - lang: en
+      name: Elephant
+      description: This user is an Elephant!
+    - lang: pt-BR
+      name: Elefante
+      description: "Este usuário é um Elefante!  AKA: Elephant"
+mammoth:
+  locales:
+    - lang: en
+      name: Mammoth
+      description: This user is a Mammoth!
+    - lang: pt-BR
+      name: Mamute
+      description: "Este usuário é um Mamute!  AKA: Mammoth"
+caracal:
+  locales:
+    - lang: en
+      name: Caracal
+      description: This user is a Caracal!
+    - lang: pt-BR
+      name: Caracal
+      description: Este usuário é um Caracal!
+bobcat:
+  locales:
+    - lang: en
+      name: Bobcat
+      description: This user is a Bobcat!
+    - lang: pt-BR
+      name: Lince
+      description: "Este usuário é um Lince!  AKA: Bobcat"
+kaiju:
+  locales:
+    - lang: en
+      name: Kaiju
+      description: This user is a Kaiju!
+    - lang: pt-BR
+      name: Kaiju
+      description: Este usuário é um Kaiju!
+monster:
+  locales:
+    - lang: en
+      name: Monster
+      description: This user is a Monster!
+    - lang: pt-BR
+      name: Monstro
+      description: "Este usuário é um Monstro!  AKA: Monster"
+cow:
+  locales:
+    - lang: en
+      name: Cow
+      description: This user is a Cow!
+    - lang: pt-BR
+      name: Vaca
+      description: "Este usuário é uma Vaca/Vaquinha!  AKA: Cow"
+muscovy-duck:
+  locales:
+    - lang: en
+      name: Muscovy Duck
+      description: This user is a Muscovy Duck!
+    - lang: pt-BR
+      name: Pato-do-Mato
+      description: "Este usuário é um Pato-do-Mato!  AKA: Muscovy Duck"
+dachshund:
+  locales:
+    - lang: en
+      name: Dachshund
+      description: This user is a Dachshund!
+    - lang: pt-BR
+      name: Salsichinha
+      description: "Este usuário é um Salsichinha!  AKA: Dachshund"
+hound-dog:
+  locales:
+    - lang: en
+      name: Hound Dog
+      description: This user is a Hound Dog!
+    - lang: pt-BR
+      name: Cão de Caça
+      description: "Este usuário é um Cão de Caça!  AKA: Hound Dog"
+small-dog:
+  locales:
+    - lang: en
+      name: Small Dog
+      description: This user is a Small Dog!
+    - lang: pt-BR
+      name: Cachorro Pequeno
+      description: "Este usuário é um Cachorro Pequeno!  AKA: Small Dog"
+tiger-dragon:
+  locales:
+    - lang: en
+      name: Tiger-Dragon
+      description: This user is a Tiger-Dragon!
+    - lang: pt-BR
+      name: Tigre-Dragão
+      description: "Este usuário é um Tigre-Dragão!  AKA: Tiger-Dragon"
+dracat:
+  locales:
+    - lang: en
+      name: Dracat
+      description: This user is a Dracat!
+    - lang: pt-BR
+      name: Dragato
+      description: "Este usuário é um Dragato (Dragão-Gato)!  AKA: Dracat"
+chihuahua:
+  locales:
+    - lang: en
+      name: Chihuahua
+      description: This user is a Chihuahua!
+    - lang: pt-BR
+      name: Chihuahua
+      description: Este usuário é um Chihuahua!
+african-wild-dog:
+  locales:
+    - lang: en
+      name: African Wild Dog
+      description: This user is an African Wild Dog!
+    - lang: pt-BR
+      name: Mabeco
+      description: "Este usuário é um Mabeco!  AKA: African Wild Dog"
+skulldog:
+  locales:
+    - lang: en
+      name: Skulldog
+      description: This user is a Skulldog!
+    - lang: pt-BR
+      name: Skulldog
+      description: Este usuário é um Skulldog!
+toon:
+  locales:
+    - lang: en
+      name: Toon
+      description: This user is a Toon!
+    - lang: pt-BR
+      name: Desenho Animado
+      description: "Este usuário é um Desenho Animado!  AKA: Toon"
+coral-reef:
+  locales:
+    - lang: en
+      name: Coral Reef
+      description: This user is a Coral Reef!
+    - lang: pt-BR
+      name: Recife de Corais
+      description: "Este usuário é um Recife de Corais!  AKA: Coral Reef"
+hummingbird:
+  locales:
+    - lang: en
+      name: Hummingbird
+      description: "This user is a Hummingbird! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Colibri
+      description: "Este usuário é um Colibri! [Category: Ave/Pássaro] AKA: Hummingbird"
+lucario:
+  locales:
+    - lang: en
+      name: Lucario
+      description: "This user is a Lucario! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Lucario
+      description: "Este usuário é um Lucario! [Category: Pokemon]"
+cocker-spaniel:
+  locales:
+    - lang: en
+      name: Cocker Spaniel
+      description: This user is a Cocker Spaniel!
+    - lang: pt-BR
+      name: Cocker Spaniel
+      description: Este usuário é um Cocker Spaniel!
+angel:
+  locales:
+    - lang: en
+      name: Angel
+      description: This user is an Angel!
+    - lang: pt-BR
+      name: Anjo
+      description: "Este usuário é um Anjo!  AKA: Angel"
+solar:
+  locales:
+    - lang: en
+      name: Solar
+      description: This user's fursona can be described as Solar!
+    - lang: pt-BR
+      name: Solar
+      description: O Fursona desse usuário pode ser descrito como um Solar!
+wolf-dragon:
+  locales:
+    - lang: en
+      name: Wolf Dragon
+      description: This user is a Wolf Dragon!
+    - lang: pt-BR
+      name: Cachorro-Dragão
+      description: "Este usuário é um Cachorro-Dragão!  AKA: Wolf Dragon"
+ocelot:
+  locales:
+    - lang: en
+      name: Ocelot
+      description: This user is an Ocelot!
+    - lang: pt-BR
+      name: Jaguatirica
+      description: "Este usuário é uma Jaguatirica!  AKA: Ocelot"
+pembroke-welsh-corgi:
+  locales:
+    - lang: en
+      name: Pembroke Welsh Corgi
+      description: This user is a Pembroke Welsh Corgi!
+    - lang: pt-BR
+      name: Pembroke Welsh Corgi
+      description: Este usuário é um Pembroke Welsh Corgi!
+cardigan-welsh-corgi:
+  locales:
+    - lang: en
+      name: Cardigan Welsh Corgi
+      description: This user is a Cardigan Welsh Corgi!
+    - lang: pt-BR
+      name: Cardigan Welsh Corgi
+      description: Este usuário é um Cardigan Welsh Corgi!
+beaver:
+  locales:
+    - lang: en
+      name: Beaver
+      description: This user is a Beaver!
+    - lang: pt-BR
+      name: Castor
+      description: "Este usuário é um Castor!  AKA: Beaver"
+tayra:
+  locales:
+    - lang: en
+      name: Tayra
+      description: "This user is a Tayra! [Category: Mustelid]"
+    - lang: pt-BR
+      name: Tayra
+      description: "Este usuário é um Tayra! [Category: Mustelídeo]"
+golden-jackal:
+  locales:
+    - lang: en
+      name: Golden Jackal
+      description: This user is a Golden Jackal!
+    - lang: pt-BR
+      name: Chacal Dourado
+      description: "Este usuário é um Chacal Dourado!  AKA: Golden Jackal"
+teshari:
+  locales:
+    - lang: en
+      name: Teshari
+      description: This user is a Teshari! https://ss13polaris.com/index.php?title=Teshari
+    - lang: pt-BR
+      name: Teshari
+      description: Este usuário é um
+        Teshari!  https://ss13polaris.com/index.php?title=Teshari
+yoshi:
+  locales:
+    - lang: en
+      name: Yoshi
+      description: This user is a Yoshi!
+    - lang: pt-BR
+      name: Yoshi
+      description: Este usuário é um Yoshi!
+guinea-pig:
+  locales:
+    - lang: en
+      name: Guinea Pig
+      description: This user is a Guinea Pig!
+    - lang: pt-BR
+      name: Porquinho-da-Índia
+      description: "Este usuário é um Porquinho-da-Índia!  AKA: Guinea Pig"
+arctic-wolf:
+  locales:
+    - lang: en
+      name: Arctic Wolf
+      description: "This user is an Arctic Wolf! AKA: white wolf, polar wolf, Arctic
+        grey wolf"
+    - lang: pt-BR
+      name: Lobo do Ártico
+      description: "Este usuário é um Lobo do Ártico! Ou Lobo Branco, Lobo Polar, Lobo
+        Cinza Polar AKA: Arctic Wolf, white wolf, polar wolf, Arctic grey wolf"
+tibetan-fox:
+  locales:
+    - lang: en
+      name: Tibetan Fox
+      description: "This user is a Tibetan Fox! AKA: Tibetan sand fox"
+    - lang: pt-BR
+      name: Raposa do Himalaia
+      description: "Este usuário é um Raposa do Himalaia!  AKA: Tibetan Fox"
+rexouium:
+  locales:
+    - lang: en
+      name: Rexouium
+      description: "This user is a Rexouium! #VRChat About:
+        https://www.furaffinity.net/view/36134921/"
+    - lang: pt-BR
+      name: Rexouium
+      description: "Este usuário é um Rexouium! #VRChat About:
+        https://www.furaffinity.net/view/36134921/"
+housefly:
+  locales:
+    - lang: en
+      name: Housefly
+      description: This user is a Housefly!
+    - lang: pt-BR
+      name: Mosca-Doméstica
+      description: "Este usuário é um Mosca-Doméstica!  AKA: Housefly"
+ninetales:
+  locales:
+    - lang: en
+      name: Ninetales
+      description: "This user is a Ninetales! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Ninetales
+      description: "Este usuário é um Ninetales! [Category: Pokemon]"
+reindeer:
+  locales:
+    - lang: en
+      name: Reindeer/Caribou
+      description: This user is a Reindeer/Caribou.
+        https://en.wikipedia.org/wiki/Reindeer#Naming
+    - lang: pt-BR
+      name: Rena/Caribu
+      description: "Este usuário é um Rena/Caribu!  AKA: Reindeer/Caribou"
+taidum:
+  locales:
+    - lang: en
+      name: Taidum
+      description: "This user is a Taidum! #VRChat - https://en.wikifur.com/wiki/Taidum"
+    - lang: pt-BR
+      name: Taidum
+      description: "Este usuário é um Taidum! #VRChat - https://en.wikifur.com/wiki/Taidum"
+bohemian-shepherd:
+  locales:
+    - lang: en
+      name: Bohemian Shepherd
+      description: This user is a Bohemian Shepherd!
+    - lang: pt-BR
+      name: Pastor Boêbio
+      description: "Este usuário é um Pastor Boêmio!  AKA: Bohemian Shepherd"
+obstagoon:
+  locales:
+    - lang: en
+      name: Obstagoon
+      description: "This user is an Obstagoon! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Obstagoon
+      description: "Este usuário é um Obstagoon! [Category: Pokemon]"
+golden-eagle:
+  locales:
+    - lang: en
+      name: Golden Eagle
+      description: "This user is a Golden Eagle! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Águia-Dourada
+      description: "Este usuário é um Águia-Dourada! AKA: Golden Eagle [Category:
+        Ave/Pássaro]"
+genet:
+  locales:
+    - lang: en
+      name: Genet
+      description: This user is a Genet!
+    - lang: pt-BR
+      name: Genetta
+      description: "Este usuário é uma Genetta!  AKA: Genet"
+wyvern:
+  locales:
+    - lang: en
+      name: Wyvern
+      description: This user is a Wyvern!
+    - lang: pt-BR
+      name: Wyvern
+      description: "Este usuário é um Wyvern, Serpe ou Dragonete!  AKA: Wyvern"
+heeler:
+  locales:
+    - lang: en
+      name: Heeler
+      description: This user is a Heeler!
+    - lang: pt-BR
+      name: Boiadeiro-australiano
+      description: "Este usuário é um Boiadeiro-australiano!  AKA: Heeler"
+blue-heeler:
+  locales:
+    - lang: en
+      name: Blue Heeler
+      description: This user is a Blue Heeler!
+    - lang: pt-BR
+      name: Boiadeiro-australiano Azulado
+      description: "Este usuário é um Boiadeiro-australiano Azulado!  AKA: Blue Heeler"
+red-heeler:
+  locales:
+    - lang: en
+      name: Red Heeler
+      description: This user is a Red Heeler!
+    - lang: pt-BR
+      name: Boiadeiro-australiano Avermelhado
+      description: "Este usuário é um Boiadeiro-australiano Avermelhado!  AKA: Red Heeler"
+carbuncle:
+  locales:
+    - lang: en
+      name: Carbuncle
+      description: "This user is a Carbuncle! [Category: Final Fantasy];
+        https://finalfantasy.fandom.com/wiki/Carbuncle_(summon)"
+    - lang: pt-BR
+      name: Carbuncle
+      description: "Este usuário é um Carbuncle!  [Category: Final Fantasy];
+        https://finalfantasy.fandom.com/wiki/Carbuncle_(summon)"
+alicorn:
+  locales:
+    - lang: en
+      name: Alicorn
+      description: "This user is an Alicorn! AKA: Winged Unicorn"
+    - lang: pt-BR
+      name: Alicórnio
+      description: "Este usuário é um Alicórnio ou Unicórnio-Alado!  AKA: Alicorn or
+        Winged Unicorn"
+pegasus:
+  locales:
+    - lang: en
+      name: Pegasus
+      description: This user is a Pegasus!
+    - lang: pt-BR
+      name: Pégasus
+      description: "Este usuário é um Pégasus!  AKA: Pegasus"
+hyacinth-macaw:
+  locales:
+    - lang: en
+      name: Hyacinth Macaw
+      description: "This user is a Hyacinth Macaw! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Arara-Azul
+      description: "Este usuário é um Arara-Azul!  AKA: hyacinth-macaw [Category:
+        Ave/Pássaro]"
+digimon:
+  locales:
+    - lang: en
+      name: Digimon
+      description: This user is a Digimon!
+    - lang: pt-BR
+      name: Digimon
+      description: Este usuário é um Digimon!
+slipfin:
+  locales:
+    - lang: en
+      name: Slipfin
+      description: "This user is a Slipfin! #VRChat"
+    - lang: pt-BR
+      name: Slipfin
+      description: "Este usuário é um Slipfin! #VRChat"
+goodra:
+  locales:
+    - lang: en
+      name: Goodra
+      description: "This user is a Goodra! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Goodra
+      description: "Este usuário é um Goodra! [Category: Pokemon]"
+bat-eared-fox:
+  locales:
+    - lang: en
+      name: Bat-Eared Fox
+      description: This user is a Bat-Eared Fox!
+    - lang: pt-BR
+      name: Raposa Orelha-de-Morcego
+      description: "Este usuário é um Raposa Orelha-de-Morcego ou
+        Raposa-Orelhuda!  AKA: Bat-Eared Fox"
+werefox:
+  locales:
+    - lang: en
+      name: Werefox
+      description: This user is a Werefox!
+    - lang: pt-BR
+      name: Alce
+      description: "Este usuário é um Werefox!  AKA: Werefox"
+orangutan:
+  locales:
+    - lang: en
+      name: Orangutan
+      description: This user is an Orangutan!
+    - lang: pt-BR
+      name: Orangotango
+      description: "Este usuário é um Orangotango!  AKA: Orangutan"
+bug:
+  locales:
+    - lang: en
+      name: Bug
+      description: This user is a Bug!
+    - lang: pt-BR
+      name: Inseto
+      description: "Este usuário é um Inseto!  AKA: Bug"
+border-collie:
+  locales:
+    - lang: en
+      name: Border Collie
+      description: This user is a Border Collie!
+    - lang: pt-BR
+      name: Border Collie
+      description: Este usuário é um Border Collie!
+white-tiger:
+  locales:
+    - lang: en
+      name: White Tiger
+      description: This user is a White Tiger!
+    - lang: pt-BR
+      name: Tigre Branco
+      description: "Este usuário é um Tigre Branco!  AKA: White Tiger"
+salandit:
+  locales:
+    - lang: en
+      name: Salandit
+      description: "This user is a Salandit! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Salandit
+      description: "Este usuário é um Salandit! [Category: Pokemon]"
+cacomistle:
+  locales:
+    - lang: en
+      name: Cacomistle
+      description: "This user is a Cacomistle! [Category: Cacomistle]"
+    - lang: pt-BR
+      name: Cacomistle
+      description: Este usuário é um Cacomistle!
+ringtail:
+  locales:
+    - lang: en
+      name: Ringtail
+      description: "This user is a Ringtail! [Category: Cacomistle]"
+    - lang: pt-BR
+      name: Alce
+      description: "Este usuário é um Bassarisco! [Category: Cacomistle]"
+kingfisher:
+  locales:
+    - lang: en
+      name: Kingfisher
+      description: "This user is a Kingfisher! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Martim-pescador
+      description: "Este usuário é um Martim-pescador!  AKA: Kingfisher [Category:
+        Ave/Pássaro]"
+german-shepherd:
+  locales:
+    - lang: en
+      name: German Shepherd
+      description: This user is a German Shepherd!
+    - lang: pt-BR
+      name: Pastor Alemão
+      description: "Este usuário é um Pastor Alemão!  AKA: German Shepherd"
+lumex:
+  locales:
+    - lang: en
+      name: Lumex
+      description: "This user is a Lumex! [Tags: open-species]"
+    - lang: pt-BR
+      name: Lumex
+      description: "Este usuário é um Lumex! [Tags: open-species]"
+sphinx:
+  locales:
+    - lang: en
+      name: Sphinx
+      description: This user is a Sphinx!
+    - lang: pt-BR
+      name: Gato Sphinx
+      description: Este usuário é um Gato Sphinx!
+synth:
+  locales:
+    - lang: en
+      name: Synth
+      description: This user is a Synth!
+    - lang: pt-BR
+      name: Synth
+      description: Este usuário é um Synth!
+turtle:
+  locales:
+    - lang: en
+      name: Turtle
+      description: This user is a Turtle!
+    - lang: pt-BR
+      name: Tartaruga
+      description: "Este usuário é uma Tartaruga!  AKA: Turtle"
+drake:
+  locales:
+    - lang: en
+      name: Drake
+      description: This user is a Drake!
+    - lang: pt-BR
+      name: Drake
+      description: Este usuário é um Drake!
+robot-dragon:
+  locales:
+    - lang: en
+      name: Robot Dragon
+      description: This user is a Robot Dragon!
+    - lang: pt-BR
+      name: Dragão-Robô
+      description: "Este usuário é um Dragão Robô!  AKA: Robot Dragon"
+hare:
+  locales:
+    - lang: en
+      name: Hare
+      description: "This user is a Hare! AKA: bunny"
+    - lang: pt-BR
+      name: Lebre
+      description: "Este usuário é uma Lebre!  AKA: Hare"
+clown:
+  locales:
+    - lang: en
+      name: Clown
+      description: This user is a Clown!
+    - lang: pt-BR
+      name: Palhaço
+      description: "Este usuário é um Palhaço!  AKA: Clown"
+fisher:
+  locales:
+    - lang: en
+      name: Fisher
+      description: "This user is a Fisher! [Category: Mustelid]"
+    - lang: pt-BR
+      name: Marta-Pescadora
+      description: "Este usuário é uma Marta-Pescadora!  AKA: Fisher [Category: Mustelídeo]"
+lizardfolk:
+  locales:
+    - lang: en
+      name: Lizardfolk
+      description: This user is a Lizardfolk!
+    - lang: pt-BR
+      name: Lizardfolk
+      description: Este usuário é um Lizardfolk!
+pikachu:
+  locales:
+    - lang: en
+      name: Pikachu
+      description: "This user is a Pikachu! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Pikachu
+      description: "Este usuário é um Pikachu! [Category: Pokemon]"
+oni:
+  locales:
+    - lang: en
+      name: Oni
+      description: "This user is an Oni! [Category: Folklore]"
+    - lang: pt-BR
+      name: Oni
+      description: "Este usuário é um Oni! [Category: Folclore]"
+merfolk:
+  locales:
+    - lang: en
+      name: Merfolk
+      description: This user is a Merfolk!
+    - lang: pt-BR
+      name: Tritão
+      description: "Este usuário é um Tritão!  AKA: Merfolk"
+clouded-leopard:
+  locales:
+    - lang: en
+      name: Clouded Leopard
+      description: This user is a Clouded Leopard!
+    - lang: pt-BR
+      name: Leopardo-Nebuloso
+      description: "Este usuário é um Leopardo-Nebuloso!  AKA: Clouded Leopard"
+stellers-jay:
+  locales:
+    - lang: en
+      name: Steller's Jay
+      description: "This user is a Steller's Jay! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Gaio de Steller
+      description: "Este usuário é um Gaio de Steller! [Category: Ave/Pássaro] AKA:
+        Steller's Jay"
+troll:
+  locales:
+    - lang: en
+      name: Troll (Folklore)
+      description: "This user is a Troll! [Category: Folklore]"
+    - lang: pt-BR
+      name: Troll (Folklore)
+      description: "Este usuário é um Troll! [Category: Folclore]"
+moth:
+  locales:
+    - lang: en
+      name: Moth
+      description: This user is a Moth!
+    - lang: pt-BR
+      name: Mariposa
+      description: "Este usuário é uma Mariposa!  AKA: Moth"
+charmander:
+  locales:
+    - lang: en
+      name: Charmander
+      description: "This user is a Charmander! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Charmander
+      description: "Este usuário é um Charmander!  [Category: Pokemon]"
+panther:
+  locales:
+    - lang: en
+      name: Panther
+      description: This user is a Panther!
+    - lang: pt-BR
+      name: Pantera
+      description: "Este usuário é um Pantera!  AKA: Panther"
+marsupial:
+  locales:
+    - lang: en
+      name: Marsupial
+      description: "This user is a Marsupial! [Category: Marsupial]"
+    - lang: pt-BR
+      name: Marsupial
+      description: "Este usuário é um Marsupial! [Category: Marsupial]"
+tasmanian-tiger:
+  locales:
+    - lang: en
+      name: Tasmanian Tiger
+      description: "This user is a Tasmanian Tiger! AKA: Thylacine [Category: Marsupial]"
+    - lang: pt-BR
+      name: Lobo-da-tasmânia
+      description: "Este usuário é um Lobo-da-tasmânia ou Thylacine! [Category: Marsupial]"
+wolfdog:
+  locales:
+    - lang: en
+      name: Wolfdog
+      description: This user is a Wolfdog!
+    - lang: pt-BR
+      name: Cão-Lobo
+      description: "Este usuário é um Cão-Lobo!  AKA: Wolfdog"
+southern-ethiopian-wolf:
+  locales:
+    - lang: en
+      name: Southern Ethiopian Wolf
+      description: This user is a Southern Ethiopian Wolf!
+    - lang: pt-BR
+      name: Lobo Etíope
+      description: "Este usuário é um Lobo Etíope!  AKA: Southern Ethiopian Wolf"
+ampwave:
+  locales:
+    - lang: en
+      name: Ampwave
+      description: "This user is an Ampwave! [Tags: open-species]
+        https://www.ampwavespecies.com/"
+    - lang: pt-BR
+      name: Ampwave
+      description: "Este usuário é um Ampwave!  [Tags: open-species]
+        https://www.ampwavespecies.com/"
+skunkbear:
+  locales:
+    - lang: en
+      name: Skunkbear
+      description: This user is a Skunkbear!
+    - lang: pt-BR
+      name: Urso-gambá
+      description: "Este usuário é um Urso-gambá!  AKA: Skunkbear"
+zoroark:
+  locales:
+    - lang: en
+      name: Zoroark
+      description: "This user is a Zoroark! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Zoroark
+      description: "Este usuário é um Zoroark!  [Categoria: Pokemon]"
+opossum:
+  locales:
+    - lang: en
+      name: Opossum
+      description: "This user is an Opossum! AKA: Possum [Category: Marsupial]"
+    - lang: pt-BR
+      name: Gambá
+      description: "Este usuário é um Gambá!  AKA: Possum, Opossum [Categoria: Marsupial]"
+egyptian-cobra:
+  locales:
+    - lang: en
+      name: Egyptian Cobra
+      description: "This user is an Egyptian Cobra! [Category: Snake]"
+    - lang: pt-BR
+      name: Naja
+      description: "Este usuário é uma Naja!  AKA: Egyptian Cobra [Categoria: Cobra]"
+cobra:
+  locales:
+    - lang: en
+      name: Cobra
+      description: "This user is a Cobra! [Category: Snake]"
+    - lang: pt-BR
+      name: Cobra
+      description: "Este usuário é uma Cobra! [Categoria: Cobra]"
+boa-constrictor:
+  locales:
+    - lang: en
+      name: Boa Constrictor
+      description: "This user is a Boa Constrictor! AKA: Common Boa. [Category: Snake]"
+    - lang: pt-BR
+      name: Jiboia-constritora
+      description: "Este usuário é uma Jiboia-constritora!  AKA: Jiboia-constritora
+        [Categoria: Cobra]"
+amphibian:
+  locales:
+    - lang: en
+      name: Amphibian
+      description: This user is an Amphibian!
+    - lang: pt-BR
+      name: Anfíbio
+      description: "Este usuário é um Anfíbio!  AKA: Amphibian"
+bird-wyvern:
+  locales:
+    - lang: en
+      name: Bird Wyvern
+      description: "This user is a Bird Wyvern! [Category: Monster Hunter]"
+    - lang: pt-BR
+      name: Bird Wyvern
+      description: "Este usuário é um Bird Wyvern!  Bird Wyvern! [Categoria: Monster
+        Hunter]"
+brute-wyvern:
+  locales:
+    - lang: en
+      name: Brute Wyvern
+      description: "This user is a Brute Wyvern! [Category: Monster Hunter]"
+carapaceon:
+  locales:
+    - lang: en
+      name: Carapaceon
+      description: "This user is a Carapaceon! [Category: Monster Hunter]"
+    - lang: pt-BR
+      name: Carapaceon
+      description: "Este usuário é um Carapaceon! [Categoria: Monster Hunter]"
+fanged-beast:
+  locales:
+    - lang: en
+      name: Fanged Beast
+      description: "This user is a Fanged Beast! [Category: Monster Hunter]"
+    - lang: pt-BR
+      name: Fanged Beast
+      description: "Este usuário é um Fanged Beast! [Categoria: Monster Hunter]"
+fanged-wyvern:
+  locales:
+    - lang: en
+      name: Fanged Wyvern
+      description: "This user is a Fanged Wyvern! [Category: Monster Hunter]"
+    - lang: pt-BR
+      name: Fanged Wyvern
+      description: "Este usuário é um Fanged Wyvern! [Categoria: Monster Hunter]"
+herbivore:
+  locales:
+    - lang: en
+      name: Herbivore
+      description: This user is a Herbivore!
+    - lang: pt-BR
+      name: Herbívoro
+      description: "Este usuário é um Herbívoro!  AKA: Herbivore"
+flying-wyvern:
+  locales:
+    - lang: en
+      name: Flying Wyvern
+      description: "This user is a Flying Wyvern! [Category: Monster Hunter]"
+    - lang: pt-BR
+      name: Flying Wyvern
+      description: "Este usuário é um Flying Wyvern! [Categoria: Monster Hunter]"
+lynian:
+  locales:
+    - lang: en
+      name: Lynian
+      description: "This user is a Lynian! [Category: Monster Hunter]"
+    - lang: pt-BR
+      name: Lynian
+      description: "Este usuário é um Lynian! [Categoria: Monster Hunter]"
+neopteron:
+  locales:
+    - lang: en
+      name: Neopteron
+      description: "This user is a Neopteron! [Category: Monster Hunter]"
+    - lang: pt-BR
+      name: Neopteron
+      description: "Este usuário é um Neopteron! [Categoria: Monster Hunter]"
+piscine-wyvern:
+  locales:
+    - lang: en
+      name: Piscine Wyvern
+      description: "This user is a Piscine Wyvern! [Category: Monster Hunter]"
+    - lang: pt-BR
+      name: Piscine Wyvern
+      description: "Este usuário é um Piscine Wyvern! [Categoria: Monster Hunter]"
+snake-wyvern:
+  locales:
+    - lang: en
+      name: Snake Wyvern
+      description: "This user is a Snake Wyvern! [Category: Monster Hunter]"
+    - lang: pt-BR
+      name: Snake Wyvern
+      description: "Este usuário é um Snake Wyvern! [Categoria: Monster Hunter]"
+temnoceran:
+  locales:
+    - lang: en
+      name: Temnoceran
+      description: "This user is a Temnoceran! [Category: Monster Hunter]"
+    - lang: pt-BR
+      name: Temnoceran
+      description: "Este usuário é um Temnoceran! [Categoria: Monster Hunter]"
+wingdrake:
+  locales:
+    - lang: en
+      name: Wingdrake
+      description: "This user is a Wingdrake! [Category: Monster Hunter]"
+    - lang: pt-BR
+      name: Wingdrake
+      description: "Este usuário é um Wingdrake! [Categoria: Monster Hunter]"
+leviathan:
+  locales:
+    - lang: en
+      name: Leviathan
+      description: "This user is a Leviathan! [Category: Monster Hunter]"
+    - lang: pt-BR
+      name: Leviathan
+      description: "Este usuário é um Leviathan! [Categoria: Monster Hunter]"
+elder-dragon:
+  locales:
+    - lang: en
+      name: Elder Dragon
+      description: "This user is an Elder Dragon! [Category: Monster Hunter]"
+    - lang: pt-BR
+      name: Elder Dragon
+      description: "Este usuário é um Elder Dragon! [Categoria: Monster Hunter]"
+canterwit:
+  locales:
+    - lang: en
+      name: Canterwit
+      description: "This user is a Canterwit! [Tags: closed-species]
+        https://canterwit.weebly.com/introduction.html"
+    - lang: pt-BR
+      name: Canterwit
+      description: "Este usuário é um Canterwit!  [Tags: closed-species]
+        https://canterwit.weebly.com/introduction.html"
+furred-dragon:
+  locales:
+    - lang: en
+      name: Furred Dragon
+      description: This user is a Furred Dragon!
+    - lang: pt-BR
+      name: Dragão-Peludo
+      description: "Este usuário é um Dragão-Peludo!  AKA: Furred Dragon"
+eastern-dragon:
+  locales:
+    - lang: en
+      name: Eastern Dragon
+      description: This user is an Eastern Dragon!
+    - lang: pt-BR
+      name: Dragão Oriental
+      description: "Este usuário é um Dragão Oriental!  AKA: Eastern Dragon"
+arctic-hare:
+  locales:
+    - lang: en
+      name: Arctic Hare
+      description: This user is an Arctic Hare!
+    - lang: pt-BR
+      name: Lebre-do-Ártico
+      description: "Este usuário é um Lebre-do-Ártico!  AKA: Arctic Hare"
+koopa:
+  locales:
+    - lang: en
+      name: Koopa
+      description: This user is a Koopa!
+    - lang: pt-BR
+      name: Koopa
+      description: "Este usuário é um Koopa!  AKA: Elk"
+jerboa:
+  locales:
+    - lang: en
+      name: Jerboa
+      description: This user is a Jerboa!
+    - lang: pt-BR
+      name: Jerboa
+      description: Este usuário é um Jerboa!
+arcanine:
+  locales:
+    - lang: en
+      name: Arcanine
+      description: "This user is an Arcanine! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Arcanine
+      description: "Este usuário é um Arcanine! [Categoria: Pokemon]"
+monster-girl:
+  locales:
+    - lang: en
+      name: Monster Girl
+      description: This user is a Monster Girl!
+    - lang: pt-BR
+      name: Monster Girl
+      description: Este usuário é uma Monster Girl!
+skaven:
+  locales:
+    - lang: en
+      name: Skaven
+      description: This user is a Skaven!
+    - lang: pt-BR
+      name: Skaven
+      description: Este usuário é um Skaven!
+wererat:
+  locales:
+    - lang: en
+      name: Wererat
+      description: This user is a Wererat!
+    - lang: pt-BR
+      name: Wererat
+      description: Este usuário é um Wererat!
+eevee:
+  locales:
+    - lang: en
+      name: Eevee
+      description: "This user is an Eevee! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Eevee
+      description: "Este usuário é um Eevee! [Categoria: Pokemon]"
+sylveon:
+  locales:
+    - lang: en
+      name: Sylveon
+      description: "This user is a Sylveon! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Sylveon
+      description: "Este usuário é um Sylveon! [Categoria: Pokemon]"
+puffball:
+  locales:
+    - lang: en
+      name: Puffball
+      description: "This user is a Puffball! (think: Kirby)"
+    - lang: pt-BR
+      name: Puffball
+      description: Este usuário é um Puffball! (Como o Kirby)
+cozumel-raccoon:
+  locales:
+    - lang: en
+      name: Cozumel Raccoon
+      description: This user is a Cozumel Raccoon!
+    - lang: pt-BR
+      name: Guaxinim Pigmeu
+      description: "Este usuário é um Guaxinim Pigmeu!  AKA: Cozumel Raccoon"
+malagasy-giant-rat:
+  locales:
+    - lang: en
+      name: Malagasy Giant Rat
+      description: This user is a Malagasy Giant Rat!
+inkblot-toon:
+  locales:
+    - lang: en
+      name: Inkblot Toon
+      description: This user is an Inkblot Toon!
+anomalocaris:
+  locales:
+    - lang: en
+      name: Anomalocaris
+      description: This user is an Anomalocaris!
+manticore:
+  locales:
+    - lang: en
+      name: Manticore
+      description: This user is a Manticore!
+scottish-fold-munchkin:
+  locales:
+    - lang: en
+      name: Scottish Fold Munchkin
+      description: This user is a Scottish Fold Munchkin!
+striped-hyena:
+  locales:
+    - lang: en
+      name: Striped Hyena
+      description: This user is a Striped Hyena!
+brown-hyena:
+  locales:
+    - lang: en
+      name: Brown Hyena
+      description: This user is a Brown Hyena!
+vulpix:
+  locales:
+    - lang: en
+      name: Vulpix
+      description: "This user is a Vulpix! [Category: Pokemon]"
+flamingo:
+  locales:
+    - lang: en
+      name: Flamingo
+      description: "This user is a Flamingo! [Category: Avian/Bird]"
+plant:
+  locales:
+    - lang: en
+      name: Plant
+      description: This user is a Plant!
+argonian:
+  locales:
+    - lang: en
+      name: Argonian
+      description: This user is an Argonian!
+lombax:
+  locales:
+    - lang: en
+      name: Lombax
+      description: This user is a Lombax!
+nargacuga:
+  locales:
+    - lang: en
+      name: Nargacuga
+      description: "This user is a Nargacuga!  [Category: Monster Hunter]"
+swampert:
+  locales:
+    - lang: en
+      name: Swampert
+      description: "This user is a Swampert! [Category: Pokemon]"
+vaporeon:
+  locales:
+    - lang: en
+      name: Vaporeon
+      description: "This user is a Vaporeon!  [Category: Pokemon]"
+stingray:
+  locales:
+    - lang: en
+      name: Stingray
+      description: This user is a Stingray!
+seagull:
+  locales:
+    - lang: en
+      name: Seagull
+      description: "This user is a Seagull! AKA: Gull.  [Category: Avian/Bird]"
+triceratops:
+  locales:
+    - lang: en
+      name: Triceratops
+      description: This user is a Triceratops!
+australian-shepherd:
+  locales:
+    - lang: en
+      name: Australian Shepherd
+      description: This user is an Australian Shepherd!
+hrothgar:
+  locales:
+    - lang: en
+      name: Hrothgar
+      description: This user is a Hrothgar!
+greyhound:
+  locales:
+    - lang: en
+      name: Greyhound
+      description: This user is a Greyhound!
+umbreon:
+  locales:
+    - lang: en
+      name: Umbreon
+      description: "This user is an Umbreon! [Category: Pokemon]"
+platinum-fox:
+  locales:
+    - lang: en
+      name: Platinum Fox
+      description: This user is a Platinum Fox! A common phenotype maintained in
+        farm-bred fox populations of the Silver Fox.
+silver-fox:
+  locales:
+    - lang: en
+      name: Silver Fox
+      description: "This user is a Silver Fox! AKA: black fox, blue fox"
+bandicoot:
+  locales:
+    - lang: en
+      name: Bandicoot
+      description: "This user is a Bandicoot! [Category: Marsupial]"
+koala:
+  locales:
+    - lang: en
+      name: Koala
+      description: "This user is a Koala! [Category: Marsupial]"
+potoroo:
+  locales:
+    - lang: en
+      name: Potoroo
+      description: "This user is a Potoroo! [Category: Marsupial]"
+sugar-glider:
+  locales:
+    - lang: en
+      name: Sugar Glider
+      description: "This user is a Sugar Glider! [Category: Marsupial]"
+cougar:
+  locales:
+    - lang: en
+      name: Cougar
+      description: This user is a Cougar!
+buizel:
+  locales:
+    - lang: en
+      name: Buizel
+      description: "This user is a Buizel! [Category: Pokemon]"
+lupe:
+  locales:
+    - lang: en
+      name: Lupe
+      description: "This user is a Lupe! [Category: Neopet]"
+    - lang: pt-BR
+      name: Lupe
+      description: "Este usuário é um Lupe! [Category: Neopet]"
+aisha:
+  locales:
+    - lang: en
+      name: Aisha
+      description: "This user is an Aisha! [Category: Neopet]"
+    - lang: pt-BR
+      name: Aisha
+      description: "Este usuário é um Aisha! [Category: Neopet]"
+bori:
+  locales:
+    - lang: en
+      name: Bori
+      description: "This user is a Bori! [Category: Neopet]"
+    - lang: pt-BR
+      name: Bori
+      description: "Este usuário é um Bori! [Category: Neopet]"
+ixi:
+  locales:
+    - lang: en
+      name: Ixi
+      description: "This user is an Ixi! [Category: Neopet]"
+    - lang: pt-BR
+      name: Ixi
+      description: "Este usuário é um Ixi! [Category: Neopet]"
+kougra:
+  locales:
+    - lang: en
+      name: Kougra
+      description: "This user is a Kougra! [Category: Neopet]"
+    - lang: pt-BR
+      name: Kougra
+      description: "Este usuário é um Kougra! [Category: Neopet]"
+xweetok:
+  locales:
+    - lang: en
+      name: Xweetok
+      description: "This user is a Xweetok! [Category: Neopet]"
+    - lang: pt-BR
+      name: Xweetok
+      description: "Este usuário é um Xweetok! [Category: Neopet]"
+zafara:
+  locales:
+    - lang: en
+      name: Zafara
+      description: "This user is a Zafara! [Category: Neopet]"
+    - lang: pt-BR
+      name: Zafara
+      description: "Este usuário é um Zafara! [Category: Neopet]"
+liger:
+  locales:
+    - lang: en
+      name: Liger
+      description: This user is a Liger!
+    - lang: pt-BR
+      name: Ligre
+      description: Este usuário é um Ligre!
+sabertooth-liger:
+  locales:
+    - lang: en
+      name: Sabertooth Liger
+      description: This user is a Sabertooth Liger!
+    - lang: pt-BR
+      name: Ligre dente de sabre
+      description: Este usuário é um Ligre dente de sabre!
+grey-wolf:
+  locales:
+    - lang: en
+      name: Grey Wolf
+      description: This user is a Grey Wolf!
+    - lang: pt-BR
+      name: Lobo-cinzento
+      description: Este usuário é um Lobo-cinzento!
+borzoi:
+  locales:
+    - lang: en
+      name: Borzoi
+      description: This user is a Borzoi!
+    - lang: pt-BR
+      name: Borzoi
+      description: Este usuário é um Borzoi!
+fossa:
+  locales:
+    - lang: en
+      name: Fossa
+      description: This user is a Fossa!
+    - lang: pt-BR
+      name: Fossa
+      description: "Este usuário é uma Fossa! AKA: fosa"
+cross-fox:
+  locales:
+    - lang: en
+      name: Cross Fox
+      description: This user is a Cross Fox!
+    - lang: pt-BR
+      name: Raposa-vermelha
+      description: Este usuário é uma Raposa-vermelha!
+gray-fox:
+  locales:
+    - lang: en
+      name: Gray Fox
+      description: This user is a Gray Fox!
+    - lang: pt-BR
+      name: Raposa-cinzenta
+      description: Este usuário é uma Raposa-cinzenta!
+island-fox:
+  locales:
+    - lang: en
+      name: Island Fox
+      description: This user is an Island Fox!
+    - lang: pt-BR
+      name: Raposa-das-ilhas
+      description: Este usuário é uma Raposa-das-ilhas!
+satyr:
+  locales:
+    - lang: en
+      name: Satyr
+      description: This user is a Satyr!
+    - lang: pt-BR
+      name: Sátiro
+      description: Este usuário é um Sátiro!
+pony:
+  locales:
+    - lang: en
+      name: Pony
+      description: This user is a Pony!
+    - lang: pt-BR
+      name: Pônei
+      description: Este usuário é um Pônei!
+radioactive:
+  locales:
+    - lang: en
+      name: Radioactive
+      description: ☢️This user is radioactive☢️
+    - lang: pt-BR
+      name: Radioativo
+      description: ☢️Este usuário é Radioativo!☢️
+dovekie:
+  locales:
+    - lang: en
+      name: Dovekie
+      description: "This user is a Dovekie! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Torda-anã
+      description: "Este usuário é uma Torda-anã! AKA: torda-miúda-do-atlântico
+        [Category: Ave/Pássaro]"
+human:
+  locales:
+    - lang: en
+      name: Human
+      description: This user might not necessarily have a fursona, but they're
+        supportive of furries/the fandom!
+    - lang: pt-BR
+      name: Humano
+      description: Este usuário pode não ter necessariamente uma fursona, mas apoia os
+        furries/o fandom!
+chocobo:
+  locales:
+    - lang: en
+      name: Chocobo
+      description: "This user is a Chocobo! [Category: Final Fantasy]"
+    - lang: pt-BR
+      name: Chocobo
+      description: "Este usuário é um Chocobo! [Category: Final Fantasy]"
+chao:
+  locales:
+    - lang: en
+      name: Chao
+      description: "This user is a Chao! [Category: Sonic the Hedgehog]"
+    - lang: pt-BR
+      name: Chao
+      description: "Este usuário é um Chao! [Category: Sonic the Hedgehog]"
+binturong:
+  locales:
+    - lang: en
+      name: Binturong
+      description: This user is a Binturong!
+    - lang: pt-BR
+      name: Binturongue
+      description: "Este usuário é um Binturongue! AKA: binturong, urso-gato-asiático"
+dryad:
+  locales:
+    - lang: en
+      name: Dryad
+      description: This user is a Dryad!
+    - lang: pt-BR
+      name: Dryad
+      description: Este usuário é uma Dryad!
+nimbat:
+  locales:
+    - lang: en
+      name: Nimbat
+      description: "This user is a Nimbat! (from Dust: An Elysian Tail)"
+    - lang: pt-BR
+      name: Nimbat
+      description: "Este usuário é um Nimbat! (de Dust: An Elysian Tail)"
+gieeg:
+  locales:
+    - lang: en
+      name: Gieeg
+      description: "This user is a Gieeg! AKA: Geeg. From Earthbound."
+    - lang: pt-BR
+      name: Gieeg
+      description: "Este usuário é um Gieeg! AKA: Geeg. De Earthbound."
+pup:
+  locales:
+    - lang: en
+      name: Pup
+      description: This user is a pup!
+    - lang: pt-BR
+      name: Pup
+      description: "Este usuário é um Pup! AKA: filhote, filhotinho"
+multiple-characters:
+  locales:
+    - lang: en
+      name: Multi-Character
+      description: "This user has multiple characters/fursonas! [Category: Meta]"
+    - lang: pt-BR
+      name: Multi-personagem
+      description: "Este usuário tem múltiplos personagens/fursonas! [Category: Meta]"
+multiple-forms:
+  locales:
+    - lang: en
+      name: Multi-Form
+      description: "This user's fursona may take multiple forms! For example, they may
+        sometimes be depicted as one species, and other times as another. See
+        other labels! [Category: Meta]"
+    - lang: pt-BR
+      name: Multiforme
+      description: "Este usuário é Multiforme! Por exemplo, às vezes pode ser descrito
+        como uma espécie e outras vezes como outra. Veja outros rótulos!
+        [Category: Meta]"
+leopard-gecko:
+  locales:
+    - lang: en
+      name: Leopard Gecko
+      description: This user is a Leopard Gecko!
+    - lang: pt-BR
+      name: Lagartixa-leopardo
+      description: "Este usuário é uma Lagartixa-leopardo! AKA: osga-leopardo,
+        geco-leopardo"
+slugcat:
+  locales:
+    - lang: en
+      name: Slugcat (Rain World)
+      description: This user is a Slugcat! from Rain World (video game)
+    - lang: pt-BR
+      name: Lesgato
+      description: Este usuário é um Lesgato!
+vulture:
+  locales:
+    - lang: en
+      name: Vulture
+      description: "This user is a Vulture! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Abutre
+      description: "Este usuário é um Abutre! [Category: Aves/Pássaros]"
+bearded-vulture:
+  locales:
+    - lang: en
+      name: Bearded Vulture
+      description: "This user is a Bearded Vulture! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Abutre-barbudo
+      description: "Este usuário é um Abutre-barbudo! AKA: quebra-ossos [Category:
+        Aves/Pássaros]"
+cape-fox:
+  locales:
+    - lang: en
+      name: Cape Fox
+      description: "This user is a Cape Fox! AKA: asse, cama fox or silver-backed fox"
+    - lang: pt-BR
+      name: Raposa-do-cabo
+      description: Este usuário é uma Raposa-do-cabo!
+salmonid:
+  locales:
+    - lang: en
+      name: Salmonid
+      description: This user is a Salmonid! from Splatoon (video game)
+    - lang: pt-BR
+      name: Salmonídeo
+      description: "Este usuário é um Salmonídeo! from Splatoon (video game) AKA: Salmonid"
+hobkin:
+  locales:
+    - lang: en
+      name: Hobkin
+      description: "This user is a Hobkin! #VRChat https://en.wikifur.com/wiki/Hobkin"
+    - lang: pt-BR
+      name: Hobkin
+      description: "Este usuário é um Hobkin! #VRChat https://en.wikifur.com/wiki/Hobkin"
+chipori:
+  locales:
+    - lang: en
+      name: Chipori
+      description: "This user is a Chipori! #VRChat"
+    - lang: pt-BR
+      name: Chipori
+      description: "Este usuário é um Chipori! #VRChat"
+slime:
+  locales:
+    - lang: en
+      name: Slime
+      description: This user is a Slime!
+    - lang: pt-BR
+      name: Limo
+      description: "Este usuário é um Limo! AKA: Slime"
+quaker-parrot:
+  locales:
+    - lang: en
+      name: Quaker Parrot
+      description: "This user is a Quaker Parrot! [Category: Avian/Bird] AKA: monk
+        parakeet, monk parrot"
+    - lang: pt-BR
+      name: Caturrita
+      description: "Este usuário é uma Caturrita! [Category: Aves/Pássaros] AKA:
+        periquito torrenho, catorra, miranha ou cocota"
+nardoragon:
+  locales:
+    - lang: en
+      name: Nardoragon
+      description: "This user is a Nardoragon! #VRChat"
+    - lang: pt-BR
+      name: Nardoragon
+      description: "Este usuário é um Nardoragon! #VRChat"
+caitian:
+  locales:
+    - lang: en
+      name: Caitian
+      description: "This user is a Caitian! [Category: Star Trek]"
+    - lang: pt-BR
+      name: Caitian
+      description: "Este usuário é um Caitian! [Category: Star Trek]"
+gorn:
+  locales:
+    - lang: en
+      name: Gorn
+      description: "This user is a Gorn! [Category: Star Trek]"
+    - lang: pt-BR
+      name: Gorn
+      description: "Este usuário é um Gorn! [Category: Star Trek]"
+zora:
+  locales:
+    - lang: en
+      name: Zora
+      description: "This user is a Zora! [Category: The Legend of Zelda]"
+    - lang: pt-BR
+      name: Zora
+      description: "Este usuário é um Zora! [Category: The Legend of Zelda]"
+rito:
+  locales:
+    - lang: en
+      name: Rito
+      description: "This user is a Rito! [Category: The Legend of Zelda]"
+    - lang: pt-BR
+      name: Rito
+      description: "Este usuário é um Rito! [Category: The Legend of Zelda] "
+faun:
+  locales:
+    - lang: en
+      name: Faun
+      description: This user is a Faun!
+    - lang: pt-BR
+      name: Fauno
+      description: Este usuário é um Fauno!
+winged:
+  locales:
+    - lang: en
+      name: Winged
+      description: This user is winged (meaning they have wings)!
+    - lang: pt-BR
+      name: Alado
+      description: Este usuário é Alado (significa que têm asas)!
+soundbyte:
+  locales:
+    - lang: en
+      name: Soundbyte
+      description: "This user is a Soundbyte! #VRChat"
+    - lang: pt-BR
+      name: Soundbyte
+      description: "Este usuário é um Soundbyte! #VRChat"
+purobyte:
+  locales:
+    - lang: en
+      name: Purobyte
+      description: "This user is a Purobyte! #VRChat"
+    - lang: pt-BR
+      name: Purobyte
+      description: "Este usuário é um Purobyte! #VRChat"
+mongoose:
+  locales:
+    - lang: en
+      name: Mongoose
+      description: This user is a Mongoose!
+    - lang: pt-BR
+      name: Mangusto
+      description: Este usuário é um Mangusto!
+felkin:
+  locales:
+    - lang: en
+      name: Felkin
+      description: "This user is a Felkin! [Tags: closed-species]
+        https://www.deviantart.com/leachymonster/art/Official-Felkin-Species-Gu\
+        ide-522020670,
+        https://cloud.refsheet.net/images/images/000/847/307/medium/1576090003.\
+        xenoforge_felkin__ref_2018.png?1619652249"
+    - lang: pt-BR
+      name: Felkin
+      description: "Este usuário é um Felkin! [Tags: espécie-fechada]
+        https://www.deviantart.com/leachymonster/art/Official-Felkin-Species-Gu\
+        ide-522020670,
+        https://cloud.refsheet.net/images/images/000/847/307/medium/1576090003.\
+        xenoforge_felkin__ref_2018.png?1619652249"
+cockatiel:
+  locales:
+    - lang: en
+      name: Cockatiel
+      description: "This user is a Cockatiel! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Calopsita
+      description: "Este usuário é uma Calopsita! AKA: caturra [Category: Ave/Pássaro]"
+pronghorn:
+  locales:
+    - lang: en
+      name: Pronghorn
+      description: This user is a Pronghorn!
+    - lang: pt-BR
+      name: Antilocapra
+      description: "Este usuário é um Antilocapra! AKA: antílope-americano"
+pudu:
+  locales:
+    - lang: en
+      name: Pudu
+      description: This user is a Pudu!
+    - lang: pt-BR
+      name: Pudu
+      description: Este usuário é um Pudu!
+orc:
+  locales:
+    - lang: en
+      name: Orc
+      description: This user is an Orc!
+    - lang: pt-BR
+      name: Orque
+      description: "Este usuário é um Orque! AKA: orc, ork, orco"
+skiltaire:
+  locales:
+    - lang: en
+      name: Skiltaire
+      description: "This user is a Skiltaire! AKA: Skiltare.
+        https://en.wikifur.com/wiki/Skiltaire. Created by Mark Merlino (Sylys
+        Sable) in 1971."
+    - lang: pt-BR
+      name: Skiltaire
+      description: "Este usuário é um Skiltaire! AKA: Skiltare.
+        https://en.wikifur.com/wiki/Skiltaire. Criado por Mark Merlino (Sylys
+        Sable) em 1971."
+mobian:
+  locales:
+    - lang: en
+      name: Mobian
+      description: "This user is a Mobian! [Category: Sonic the Hedgehog]"
+    - lang: pt-BR
+      name: Mobian
+      description: "Este usuário é um Mobian! [Category: Sonic the Hedgehog]"
+cornerian:
+  locales:
+    - lang: en
+      name: Cornerian
+      description: "This user is a Cornerian! [Category: Star Fox]"
+    - lang: pt-BR
+      name: Cornerian
+      description: "Este usuário é um Cornerian! [Category: Star Fox]"
+allosaurus:
+  locales:
+    - lang: en
+      name: Allosaurus
+      description: "This user is an Allosaurus! [Category: Dinosaur]"
+    - lang: pt-BR
+      name: Alossauro
+      description: "Este usuário é um Alossauro! [Category: Dinossauro]"
+dragonborn:
+  locales:
+    - lang: en
+      name: Dragonborn
+      description: "This user is a Dragonborn! [Category: D&D]"
+    - lang: pt-BR
+      name: Dragonborn
+      description: "Este usuário é um Dragonborn! [Category: D&D]"
+worgen:
+  locales:
+    - lang: en
+      name: Worgen
+      description: "This user is a Worgen! [Category: World of Warcraft]"
+    - lang: pt-BR
+      name: Worgen
+      description: "Este usuário é um Worgen! [Category: World of Warcraft]"
+drone:
+  locales:
+    - lang: en
+      name: Drone
+      description: This user is a Drone! [Modifier]
+    - lang: pt-BR
+      name: Drone
+      description: Este usuário é um Drone! [Modifier]
+samurott:
+  locales:
+    - lang: en
+      name: Samurott
+      description: "This user is a Samurott! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Samurott
+      description: "Este usuário é um Samurott! [Category: Pokemon]"
+iguana:
+  locales:
+    - lang: en
+      name: Iguana
+      description: This user is an Iguana!
+    - lang: pt-BR
+      name: Iguana
+      description: Este usuário é um Iguana!
+bearded-dragon:
+  locales:
+    - lang: en
+      name: Bearded Dragon
+      description: This user is a Bearded Dragon!
+    - lang: pt-BR
+      name: Dragão-barbudo
+      description: "Este usuário é um Dragão-barbudo! AKA: Pogona"
+bat-pony:
+  locales:
+    - lang: en
+      name: Bat Pony
+      description: "This user is a Bat Pony! [Category: My Little Pony]"
+sandwing:
+  locales:
+    - lang: en
+      name: Sandwing
+      description: "This user is a Sandwing! [Category: Wings of Fire] Pyrrhian Dragon
+        Tribes"
+    - lang: pt-BR
+      name: Sandwing
+      description: "Este usuário é um Sandwing! [Category: Wings of Fire] Pyrrhian
+        Dragon Tribes"
+icewing:
+  locales:
+    - lang: en
+      name: Icewing
+      description: "This user is an Icewing! [Category: Wings of Fire] Pyrrhian Dragon
+        Tribes"
+    - lang: pt-BR
+      name: Icewing
+      description: "Este usuário é um Icewing! [Category: Wings of Fire] Pyrrhian
+        Dragon Tribes"
+rainwing:
+  locales:
+    - lang: en
+      name: Rainwing
+      description: "This user is a Rainwing! [Category: Wings of Fire] Pyrrhian Dragon
+        Tribes"
+    - lang: pt-BR
+      name: Rainwing
+      description: "Este usuário é um Rainwing! [Category: Wings of Fire] Pyrrhian
+        Dragon Tribes"
+nightwing:
+  locales:
+    - lang: en
+      name: Nightwing
+      description: "This user is a Nightwing! [Category: Wings of Fire] Pyrrhian
+        Dragon Tribes"
+    - lang: pt-BR
+      name: Nightwing
+      description: "Este usuário é um Nightwing! [Category: Wings of Fire] Pyrrhian
+        Dragon Tribes"
+mudwing:
+  locales:
+    - lang: en
+      name: Mudwing
+      description: "This user is a Mudwing! [Category: Wings of Fire] Pyrrhian Dragon
+        Tribes"
+    - lang: pt-BR
+      name: Mudwing
+      description: "Este usuário é um Mudwing! [Category: Wings of Fire] Pyrrhian
+        Dragon Tribes"
+skywing:
+  locales:
+    - lang: en
+      name: Skywing
+      description: "This user is a Skywing! [Category: Wings of Fire] Pyrrhian Dragon
+        Tribes"
+    - lang: pt-BR
+      name: Skywing
+      description: "Este usuário é um Skywing! [Category: Wings of Fire] Pyrrhian
+        Dragon Tribes"
+seawing:
+  locales:
+    - lang: en
+      name: Seawing
+      description: "This user is a Seawing! [Category: Wings of Fire] Pyrrhian Dragon
+        Tribes"
+    - lang: pt-BR
+      name: Seawing
+      description: "Este usuário é um Seawing! [Category: Wings of Fire] Pyrrhian
+        Dragon Tribes"
+silkwing:
+  locales:
+    - lang: en
+      name: Silkwing
+      description: "This user is a Silkwing! [Category: Wings of Fire] Pantalan Dragon
+        Tribes"
+    - lang: pt-BR
+      name: Silkwing
+      description: "Este usuário é um Silkwing! [Category: Wings of Fire] Pantalan
+        Dragon Tribes"
+hivewing:
+  locales:
+    - lang: en
+      name: Hivewing
+      description: "This user is a Hivewing! [Category: Wings of Fire] Pantalan Dragon
+        Tribes"
+    - lang: pt-BR
+      name: Hivewing
+      description: "Este usuário é um Hivewing! [Category: Wings of Fire] Pantalan
+        Dragon Tribes"
+leafwing:
+  locales:
+    - lang: en
+      name: Leafwing
+      description: "This user is a Leafwing! [Category: Wings of Fire] Pantalan Dragon
+        Tribes"
+    - lang: pt-BR
+      name: Leafwing
+      description: "Este usuário é um Leafwing! [Category: Wings of Fire] Pantalan
+        Dragon Tribes"
+dobermann:
+  locales:
+    - lang: en
+      name: Dobermann
+      description: This user is a Dobermann!
+    - lang: pt-BR
+      name: Dobermann
+      description: Este usuário é um Dobermann!
+samoyed:
+  locales:
+    - lang: en
+      name: Samoyed
+      description: This user is a Samoyed!
+    - lang: pt-BR
+      name: Samoiedo
+      description: Este usuário é um Samoiedo!
+luxray:
+  locales:
+    - lang: en
+      name: Luxray
+      description: "This user is a Luxray! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Luxray
+      description: "Este usuário é um Luxray! [Category: Pokemon]"
+solgaleo:
+  locales:
+    - lang: en
+      name: Solgaleo
+      description: "This user is a Solgaleo! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Solgaleo
+      description: "Este usuário é um Solgaleo! [Category: Pokemon]"
+mew:
+  locales:
+    - lang: en
+      name: Mew
+      description: "This user is a Mew! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Mew
+      description: "Este usuário é um Mew! [Category: Pokemon]"
+pooka:
+  locales:
+    - lang: en
+      name: Pooka
+      description: "This user is a Pooka! [Category: Odin Sphere] #videogame
+        #lagomorph #alien #shapeshifter"
+    - lang: pt-BR
+      name: Pooka
+      description: "Este usuário é uma Pooka! [Category: Odin Sphere] #videogame
+        #lagomorfos #alien #metamorfo"
+rottweiler:
+  locales:
+    - lang: en
+      name: Rottweiler
+      description: This user is a Rottweiler!
+    - lang: pt-BR
+      name: Rottweiler
+      description: "Este usuário é um Rottweiler! AKA: Rottinho"
+succubus:
+  locales:
+    - lang: en
+      name: Succubus
+      description: "This user is a Succubus! [Category: Folklore]"
+    - lang: pt-BR
+      name: Súcubo
+      description: "Este usuário é um Súcubo! [Category: Folclore]"
+incubus:
+  locales:
+    - lang: en
+      name: Incubus
+      description: "This user is an Incubus! [Category: Folklore]"
+    - lang: pt-BR
+      name: Íncubo
+      description: "Este usuário é um Íncubo! [Category: Folclore]"
+dramster:
+  locales:
+    - lang: en
+      name: Dramster
+      description: "This user is a Dramster!
+        https://bsky.app/profile/dramsterden.bsky.social [Tags: open-species]"
+    - lang: pt-BR
+      name: Dramster
+      description: "Este usuário é um Dramster!
+        https://bsky.app/profile/dramsterden.bsky.social [Tags: livre-espécie]"
+time-lord:
+  locales:
+    - lang: en
+      name: Time Lord
+      description: "This user is a Time Lord! [Category: Doctor Who] Combine with
+        other species labels."
+    - lang: pt-BR
+      name: Senhor do Tempo
+      description: "Este usuário é um Senhor do Tempo! [Category: Doctor Who] Combine
+        com rótulos de outras espécies."
+iberian-lynx:
+  locales:
+    - lang: en
+      name: Iberian Lynx
+      description: This user is an Iberian Lynx!
+    - lang: pt-BR
+      name: Lince-ibérico
+      description: "Este usuário é um Lince-ibérico! AKA: liberne, lobo-cerval,
+        gato-fantasma, gato-cerval e gato-lince"
+amphimorpho:
+  locales:
+    - lang: en
+      name: Amphimorpho
+      description: "This user is an Amphimorpho!
+        https://amphimorpho.carrd.co/#info  [Tags: open-species]"
+    - lang: pt-BR
+      name: Amphimorpho
+      description: "Este usuário é um Amphimorpho!
+        https://amphimorpho.carrd.co/#info  [Tags: livre-espécie]"
+displacer-beast:
+  locales:
+    - lang: en
+      name: Displacer Beast
+      description: "This user is a Displacer Beast! [Category: D&D]
+        https://www.aidedd.org/dnd/monstres.php?vo=displacer-beast"
+    - lang: pt-BR
+      name: Besta Deslocadora
+      description: "Este usuário é uma Besta Deslocadora! AKA: Displacer Beast
+        [Category: D&D]
+        https://www.aidedd.org/dnd/monstres.php?vo=displacer-beast"
+totodile:
+  locales:
+    - lang: en
+      name: Totodile
+      description: "This user is a Totodile! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Totodile
+      description: "Este usuário é um Totodile! [Category: Pokemon]"
+glitchy:
+  locales:
+    - lang: en
+      name: Glitchy
+      description: "This user is glitchy! (in regards to a protogen or other
+        cybernetic species) [Tag: modifier]"
+    - lang: pt-BR
+      name: Bugado
+      description: "Este usuário é um Bugado! (em relação a um protogen ou outra
+        espécie cibernética) [Tag: modifier]"
+sable:
+  locales:
+    - lang: en
+      name: Sable
+      description: This user is a Sable!
+    - lang: pt-BR
+      name: Zibelina
+      description: "Este usuário é uma Zibelina! AKA: Marta-zibelina"
+inca-ren:
+  locales:
+    - lang: en
+      name: Inca-Ren
+      description: "This user is an Inca-Ren! [Tags: open-species]
+        https://www.furaffinity.net/view/4063389/"
+    - lang: pt-BR
+      name: Ren-Inca
+      description: "Este usuário é um Ren-Inca! [Tags: livre-espécie]
+        https://www.furaffinity.net/view/4063389/"
+peryton:
+  locales:
+    - lang: en
+      name: Peryton
+      description: This user is a Peryton!
+    - lang: pt-BR
+      name: Perítio
+      description: "Este usuário é um Perítio! AKA: Períton"
+faerie:
+  locales:
+    - lang: en
+      name: Faerie
+      description: "This user is a Faerie! AKA: Fairy [Category: Folklore]"
+    - lang: pt-BR
+      name: Fada
+      description: "Este usuário é uma Fada! [Category: Folclore]"
+valravn:
+  locales:
+    - lang: en
+      name: Valravn
+      description: "This user is a Valravn! [Category: Folklore]"
+    - lang: pt-BR
+      name: Valravn
+      description: "Este usuário é um Valravn! AKA: Corvo dos mortos"
+seraph:
+  locales:
+    - lang: en
+      name: Seraph
+      description: This user is a Seraph!
+    - lang: pt-BR
+      name: Anjo Serafim
+      description: Este usuário é um Anjo Serafim!
+werecreature:
+  locales:
+    - lang: en
+      name: Werecreature
+      description: This user is a Werecreature!
+    - lang: pt-BR
+      name: Homem-criatura
+      description: Este usuário é um Homem-criatura!
+burmecian:
+  locales:
+    - lang: en
+      name: Burmecian
+      description: "This user is a Burmecian! [Category: Final Fantasy];
+        https://finalfantasy.fandom.com/wiki/Burmecian"
+    - lang: pt-BR
+      name: Burmecian
+      description: "Este usuário é um Burmecian! [Category: Final Fantasy];
+        https://finalfantasy.fandom.com/wiki/Burmecian"
+absol:
+  locales:
+    - lang: en
+      name: Absol
+      description: "This user is an Absol! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Absol
+      description: "Este usuário é um Absol! [Category: Pokemon]"
+minotaur:
+  locales:
+    - lang: en
+      name: Minotaur
+      description: This user is a Minotaur!
+    - lang: pt-BR
+      name: Minotauro
+      description: Este usuário é um Minotauro!
+bull:
+  locales:
+    - lang: en
+      name: Bull
+      description: This user is a Bull!
+    - lang: pt-BR
+      name: Touro
+      description: Este usuário é um Touro!
+albatross:
+  locales:
+    - lang: en
+      name: Albatross
+      description: "This user is an Albatross! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Albatroz
+      description: "Este usuário é um Albatroz! AKA: Piau [Category: Ave/Pássaro]"
+mystian:
+  locales:
+    - lang: en
+      name: Mystian
+      description: "This user is a Mystian! [Tags: open-species]"
+    - lang: pt-BR
+      name: Mystian
+      description: "Este usuário é uma Mystian! [Tags: livre-espécie]"
+swift-fox:
+  locales:
+    - lang: en
+      name: Swift Fox
+      description: This user is a Swift Fox!
+    - lang: pt-BR
+      name: Raposa-orelhuda
+      description: "Este usuário é uma Raposa-orelhuda! AKA: Raposa-veloz"
+kangaroo-rat:
+  locales:
+    - lang: en
+      name: Kangaroo Rat
+      description: This user is a Kangaroo Rat!
+    - lang: pt-BR
+      name: Rato-Canguru
+      description: "Este usuário é um Rato-Canguru! AKA: Dipodomys"
+digital-creature:
+  locales:
+    - lang: en
+      name: Digital Creature
+      description: "This user is a Digital Creature! AKA: Computer Program"
+    - lang: pt-BR
+      name: Criatura Digital
+      description: "Este usuário é uma Criatura Digital! AKA: Programa de Computador"
+computer-virus:
+  locales:
+    - lang: en
+      name: Computer Virus
+      description: "This user is a Computer Virus! AKA: Malware"
+    - lang: pt-BR
+      name: Vírus de Computador
+      description: "Este usuário é um Vírus de Computador! AKA: Malware"
+slug:
+  locales:
+    - lang: en
+      name: Slug
+      description: This user is a Slug!
+    - lang: pt-BR
+      name: Lesma
+      description: Este usuário é uma Lesma!
+sea-slug:
+  locales:
+    - lang: en
+      name: Sea Slug
+      description: This user is a Sea Slug!
+    - lang: pt-BR
+      name: Lesma-marinha
+      description: "Este usuário é uma Lesma-marinha! AKA: Lesma-do-mar"
+eurasian-eagle-owl:
+  locales:
+    - lang: en
+      name: Eurasian Eagle Owl
+      description: "This user is an Eurasian Eagle Owl! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Bufo-real
+      description: "Este usuário é um Bufo-real! AKA: Bubo bubo"
+flying-fox:
+  locales:
+    - lang: en
+      name: Flying Fox
+      description: "This user is a Flying Fox! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Raposa-voadora
+      description: "Este usuário é uma Raposa-voadora! [Category: Ave/Pássaro]"
+guardian-spirit:
+  locales:
+    - lang: en
+      name: Spirit (Ori)
+      description: "This user is a Spirit! AKA: Guardian Spirit. From the Ori video games."
+    - lang: pt-BR
+      name: Espírito (Ori)
+      description: "Este usuário é um Espírito! AKA: Espírito Guardião. Do game Ori."
+bernese-mountain-dog:
+  locales:
+    - lang: en
+      name: Bernese Mountain Dog
+      description: This user is a Bernese Mountain Dog!
+    - lang: pt-BR
+      name: Boiadeiro-bernês
+      description: "Este usuário é um Boiadeiro-bernês! AKA: Boiadeiro de Berna"
+bangaa:
+  locales:
+    - lang: en
+      name: Bangaa
+      description: "This user is a Bangaa! [Category: Final Fantasy]
+        https://finalfantasy.fandom.com/wiki/Bangaa"
+    - lang: pt-BR
+      name: Bangaa
+      description: "Este usuário é um Bangaa! [Category: Final Fantasy]
+        https://finalfantasy.fandom.com/wiki/Bangaa"
+wickerbeast:
+  locales:
+    - lang: en
+      name: Wickerbeast
+      description: "This user is a Wickerbeast! #VRChat https://www.wickercave.net/
+        [Tags: open-species]"
+    - lang: pt-BR
+      name: Wickerbeast
+      description: "Este usuário é um Wickerbeast! #VRChat https://www.wickercave.net/
+        [Tags: livre-espécie]"
+alaskan-malamute:
+  locales:
+    - lang: en
+      name: Malamute
+      description: This user is an Alaskan Malamute!
+    - lang: pt-BR
+      name: Malamute
+      description: Este usuário é um Malamute do Alaska!
+monitor-lizard:
+  locales:
+    - lang: en
+      name: Monitor Lizard
+      description: This user is a Monitor Lizard!
+    - lang: pt-BR
+      name: Lagarto-monitor
+      description: "Este usuário é um Lagarto-monitor! AKA:  Varanus"
+blue-tongued-skink:
+  locales:
+    - lang: en
+      name: Blue-Tongued Skink
+      description: This user is a Blue-Tongued Skink!
+    - lang: pt-BR
+      name: Lagarto-de-língua-azul
+      description: Este usuário é um Lagarto-de-língua-azul!
+living-vehicle:
+  locales:
+    - lang: en
+      name: Living Vehicle
+      description: This user is a Living Vehicle!
+    - lang: pt-BR
+      name: Veículo Vivo
+      description: Este usuário é um Veículo Vivo!
+balinese:
+  locales:
+    - lang: en
+      name: Balinese
+      description: This user is a Balinese cat!
+    - lang: pt-BR
+      name: Gato Balinês
+      description: Este usuário é um gato Balinês!
+siamese:
+  locales:
+    - lang: en
+      name: Siamese
+      description: This user is a Siamese cat!
+    - lang: pt-BR
+      name: Gato Siamês
+      description: Este usuário é um gato Siamês!
+bison:
+  locales:
+    - lang: en
+      name: Bison
+      description: This user is a Bison!
+    - lang: pt-BR
+      name: Bisão
+      description: "Este usuário é um Bisão! AKA: búfalo"
+mewlin:
+  locales:
+    - lang: en
+      name: Mewlin
+      description: "This user is a Mewlin! #VRChat"
+    - lang: pt-BR
+      name: Mewlin
+      description: "Este usuário é um Mewlin! #VRChat"
+great-pyrenees:
+  locales:
+    - lang: en
+      name: Great Pyrenees
+      description: "This user is a Great Pyrenees! AKA: Pyrenean Mountain Dog, Chien
+        de Montagne des Pyrénées, Patou"
+    - lang: pt-BR
+      name: Cão de montanha dos Pirenéus
+      description: "Este usuário é um Cão de montanha dos Pirenéus! AKA: Chien de
+        Montagne des Pyrénées, Patou"
+charr:
+  locales:
+    - lang: en
+      name: Charr
+      description: This user is a Charr! (from Guild Wars)
+    - lang: pt-BR
+      name: Charr
+      description: Este usuário é um Charr!
+mule:
+  locales:
+    - lang: en
+      name: Mule
+      description: This user is a Mule!
+    - lang: pt-BR
+      name: Jumento
+      description: "Este usuário é uma Jumento! AKA: burro, asno, mula"
+ender-dragon:
+  locales:
+    - lang: en
+      name: Ender Dragon
+      description: This user is an Ender Dragon!
+    - lang: pt-BR
+      name: Dragão do Ender
+      description: Este usuário é um Dragão do Ender!
+stegosaurus:
+  locales:
+    - lang: en
+      name: Stegosaurus
+      description: "This user is a Stegosaurus! [Category: Dinosaur]"
+    - lang: pt-BR
+      name: Estegossauro
+      description: "Este usuário é um Estegossauro! AKA: estegossáurio [Category:
+        Dinossauro]"
+therian:
+  locales:
+    - lang: en
+      name: Therian
+      description: "This user is a Therian! [Category: Meta] While this label is not a
+        species, it denotes the user is a Therian and the user may use another
+        species label to denote a theriotype."
+    - lang: pt-BR
+      name: Therian
+      description: "Este usuário é Therian! [Category: Meta] Embora este rótulo não
+        seja uma espécie, ele indica que o usuário é um Therian e o usuário pode
+        usar outro rótulo de espécie para denotar um teriótipo."
+otherkin:
+  locales:
+    - lang: en
+      name: Otherkin
+      description: "This user is Otherkin! [Category: Meta] Otherkin are people who
+        identify as nonhuman in a nonphysical way, often involuntarily. Otherkin
+        identities are sometimes associated with reincarnation, brain wiring, or
+        a mix of species in one’s soul.
+        https://otherkin.fandom.com/wiki/Otherkin"
+alterhuman:
+  locales:
+    - lang: en
+      name: Alterhuman
+      description: "This user is Alterhuman! [Category: Meta] Alterhuman refers to
+        individuals whose identities extend beyond traditional human norms. They
+        may identify as non-human or as human in unconventional ways. The term
+        serves as an umbrella for various unique identities.
+        https://otherkin.fandom.com/wiki/Alterhuman"
+therian-and-furry:
+  locales:
+    - lang: en
+      name: Therian Furry
+      description: "This user is a Therian AND a furry! [Category: Meta] While this
+        label is not a species, it denotes the user is a Therian and the user
+        may use another species label to denote a theriotype. Also, not every
+        Therian is necessarily a furry, so this label lets the user be specific
+        that they are both!"
+    - lang: pt-BR
+      name: Therian Furry
+      description: "Este usuário é Therian e Furry! [Category: Meta] Embora este
+        rótulo não seja uma espécie, ele indica que o usuário é um Therian e o
+        usuário pode usar outro rótulo de espécie para denotar um teriótipo Além
+        disso, nem todo Therian é necessariamente furry, então esse rótulo
+        permite que o usuário especifique que é ambos!."
+spotted-hyena:
+  locales:
+    - lang: en
+      name: Spotted Hyena
+      description: This user is a Spotted Hyena!
+    - lang: pt-BR
+      name: Hiena-malhada
+      description: Este usuário é uma Hiena-malhada!
+swaria:
+  locales:
+    - lang: en
+      name: Swaria
+      description: "This user is a Swaria! #VRChat"
+    - lang: pt-BR
+      name: Swaria
+      description: "Este usuário é um Swaria! #VRChat"
+rikkor:
+  locales:
+    - lang: en
+      name: Rikkor
+      description: "This user is a Rikkor! #VRChat"
+    - lang: pt-BR
+      name: Rikkor
+      description: "Este usuário é um Rikkor! #VRChat"
+potoo:
+  locales:
+    - lang: en
+      name: Potoo
+      description: "This user is a Potoo! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Urutau
+      description: "Este usuário é um Urutau! [Category: Ave/Pássaro]"
+ampharos:
+  locales:
+    - lang: en
+      name: Ampharos
+      description: "This user is an Ampharos! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Ampharos
+      description: "Este usuário é um Ampharos! [Category: Pokemon]"
+corvid:
+  locales:
+    - lang: en
+      name: Corvid
+      description: "This user is a Corvid! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Corvídeo
+      description: "Este usuário é um Corvídeo! AKA: corvo, corvelo, gaio, gralha,
+        gralho, cornelha, pega, frouva, choia, chuca e quebra-nozes [Category:
+        Ave/Pássaro]"
+magpie:
+  locales:
+    - lang: en
+      name: Magpie
+      description: "This user is a Magpie! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Pega
+      description: "Este usuário é uma Pega! [Category: Ave/Pássaro]"
+scrub-jay:
+  locales:
+    - lang: en
+      name: Scrub Jay
+      description: "This user is a Scrub Jay! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Gaio-da-califórnia
+      description: Este usuário é um Gaio-da-califórnia!
+darkrai:
+  locales:
+    - lang: en
+      name: Darkrai
+      description: "This user is a Darkrai! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Darkrai
+      description: "Este usuário é um Darkrai! [Category: Pokemon]"
+zigzagoon:
+  locales:
+    - lang: en
+      name: Zigzagoon
+      description: "This user is a Zigzagoon! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Zigzagoon
+      description: "Este usuário é um Zigzagoon! [Category: Pokemon]"
+octopus:
+  locales:
+    - lang: en
+      name: Octopus
+      description: "This user is an Octopus! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Polvo
+      description: Este usuário é um Polvo!
+qilin:
+  locales:
+    - lang: en
+      name: Qilin
+      description: "This user is a Qilin. AKA: (麒麟 qílín), Kirin. [Category: Folklore]"
+kirin-pony:
+  locales:
+    - lang: en
+      name: Kirin (Pony)
+      description: This user is a Kirin (from My Little Pony)!
+    - lang: pt-BR
+      name: Kirin (PÔnei)
+      description: Este usuário é um Kirin (My Little Pony)!
+lycanroc:
+  locales:
+    - lang: en
+      name: Lycanroc
+      description: "This user is a Lycanroc! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Lycanroc
+      description: "Este usuário é um Lycanroc! [Category: Pokemon]"
+ivysaur:
+  locales:
+    - lang: en
+      name: Ivysaur
+      description: "This user is an Ivysaur! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Ivyssauro
+      description: "Este usuário é um Ivyssauro! [Category: Pokemon]"
+zeraora:
+  locales:
+    - lang: en
+      name: Zeraora
+      description: "This user is a Zeraora! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Zeraora
+      description: "Este usuário é um Zeraora! [Category: Pokemon]"
+skitty:
+  locales:
+    - lang: en
+      name: Skitty
+      description: "This user is a Skitty! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Skitty
+      description: "Este usuário é um Skitty [Category: Pokemon]!"
+liepard:
+  locales:
+    - lang: en
+      name: Liepard
+      description: "This user is a Liepard! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Liepard
+      description: "Este usuário é um Liepard! [Category: Pokemon]"
+mutt:
+  locales:
+    - lang: en
+      name: Mutt
+      description: "This user is a Mutt! AKA: mongrel, mixed-breed dog"
+    - lang: pt-BR
+      name: Vira-lata
+      description: "Este usuário é um Vira-lata! AKA: SRD"
+typhlosion:
+  locales:
+    - lang: en
+      name: Typhlosion
+      description: "This user is a Typhlosion! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Typhlosion
+      description: "Este usuário é um Typhlosion! [Category: Pokemon]"
+dracthyr:
+  locales:
+    - lang: en
+      name: Dracthyr
+      description: "This user is a Dracthyr! [Category: World of Warcraft]"
+    - lang: pt-BR
+      name: Dracthyr
+      description: "Este usuário é um Dracthyr! [Category: World of Warcraft]"
+aggron:
+  locales:
+    - lang: en
+      name: Aggron
+      description: "This user is an Aggron! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Aggron
+      description: "Este usuário é um Aggron! [Category: Pokemon]"
+halsanju-or-fecto:
+  locales:
+    - lang: en
+      name: Halsanju/Fecto
+      description: "This user is a Halsanju! AKA: Fecto. From Kirby and the Forgotten
+        Land (video game)."
+    - lang: pt-BR
+      name: Halsanju/Fecto
+      description: "Este usuário é um Halsanju!ecto! AKA: Fecto. From Kirby and the
+        Forgotten Land (video game)."
+swedish-vallhund:
+  locales:
+    - lang: en
+      name: Swedish Vallhund
+      description: This user is a Swedish Vallhund!
+    - lang: pt-BR
+      name: Vallhund Sueco
+      description: "Este usuário é um Vallhund Sueco! AKA: Spitz dos Visigodos"
+raichu:
+  locales:
+    - lang: en
+      name: Raichu
+      description: "This user is a Raichu! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Raichu
+      description: "Este usuário é um Raichu! [Category: Pokemon]"
+pokefusion:
+  locales:
+    - lang: en
+      name: Pokefusion
+      description: "This user is a Pokefusion! [Category: Pokemon] Similar to the
+        Hybrid label, but specific to Pokemon; use with other Pokemon species
+        labels!"
+    - lang: pt-BR
+      name: Pokefusão
+      description: "Este usuário é uma Pokefusão! [Category: Pokemon] Semelhante ao
+        rótulo Híbrido, mas específico para Pokémon; use com rótulos de outras
+        espécies de Pokémon!"
+croconaw:
+  locales:
+    - lang: en
+      name: Croconaw
+      description: "This user is a Croconaw! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Croconaw
+      description: "Este usuário é um Croconaw! [Category: Pokemon]"
+feraligatr:
+  locales:
+    - lang: en
+      name: Feraligatr
+      description: "This user is a Feraligatr! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Feraligatr
+      description: "Este usuário é um Feraligatr! [Category: Pokemon]"
+drizzile:
+  locales:
+    - lang: en
+      name: Drizzile
+      description: "This user is a Drizzile! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Drizzile
+      description: "Este usuário é um Drizzile! [Category: Pokemon]"
+serperior:
+  locales:
+    - lang: en
+      name: Serperior
+      description: "This user is a Serperior! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Serperior
+      description: "Este usuário é um Serperior! [Category: Pokemon]"
+pangoro:
+  locales:
+    - lang: en
+      name: Pangoro
+      description: "This user is a Pangoro! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Pangoro
+      description: "Este usuário é um Pangoro! [Category: Pokemon]"
+miqote:
+  locales:
+    - lang: en
+      name: Miqo'te
+      description: "This user is a Miqo'te! [Category: Final Fantasy]"
+    - lang: pt-BR
+      name: Miqo'te
+      description: "Este usuário é um Miqo'te! [Category: Pokemon]"
+kemonomimi:
+  locales:
+    - lang: en
+      name: Kemonomimi
+      description: This user is a Kemonomimi! Kemonomimi are characters that have
+        animal ears, tails or other animal characteristics on an otherwise human
+        body.
+    - lang: pt-BR
+      name: Kemonomimi
+      description: Este usuário é um Kemonomimi! Kemonomimi são personagens que
+        possuem orelhas, caudas ou outras características de animais em um corpo
+        humano.
+nekomimi:
+  locales:
+    - lang: en
+      name: Nekomimi
+      description: This user is a Nekomimi! Nekomimi are a type of Kemonomimi
+        (characters that have animal ears, tails or other animal characteristics
+        on an otherwise human body) where the character has cat ears, tails, or
+        other feline characteristics on an otherwise human body.
+    - lang: pt-BR
+      name: Nekomimi
+      description: Este usuário é um Nekomimi! Nekomimi são um tipo de Kemonomimi
+        (personagens que possuem orelhas de animais, caudas ou outras
+        características de animais em um corpo humano) onde o personagem tem
+        orelhas de gato, caudas ou outras características felinas em um corpo
+        humano.
+inumimi:
+  locales:
+    - lang: en
+      name: Inumimi
+      description: This user is a Inumimi! Inumimi are a type of Kemonomimi
+        (characters that have animal ears, tails or other animal characteristics
+        on an otherwise human body) where the character has dog ears, tails, or
+        other canine characteristics on an otherwise human body.
+    - lang: pt-BR
+      name: Inumimi
+      description: Este usuário é um Inumimi! Inumimi são um tipo de Kemonomimi
+        (personagens que possuem orelhas de animais, caudas ou outras
+        características de animais em um corpo humano) onde o personagem tem
+        orelhas de cachorro, caudas ou outras características caninas em um
+        corpo humano.
+sandslash:
+  locales:
+    - lang: en
+      name: Sandslash
+      description: "This user is a Sandslash! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Sandslash
+      description: "Este usuário é um Sandslash! [Category: Pokemon]"
+braixen:
+  locales:
+    - lang: en
+      name: Braixen
+      description: "This user is a Braixen! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Braixen
+      description: "Este usuário é um Braixen! [Category: Pokemon]"
+zangoose:
+  locales:
+    - lang: en
+      name: Zangoose
+      description: "This user is a Zangoose! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Zangoose
+      description: "Este usuário é um Zangoose! [Category: Pokemon]"
+boxer:
+  locales:
+    - lang: en
+      name: Boxer
+      description: This user is a Boxer!
+    - lang: pt-BR
+      name: Boxer
+      description: Este usuário é um Boxer!
+manta-ray:
+  locales:
+    - lang: en
+      name: Manta Ray
+      description: This user is a Manta Ray!
+    - lang: pt-BR
+      name: Arraia
+      description: "Este usuário é uma Arraia! AKA: jamanta, manta, maroma,
+        morcego-do-mar, peixe-diabo, raia-diabo, juneco"
+goblin:
+  locales:
+    - lang: en
+      name: Goblin
+      description: "This user is a Goblin! [Category: D&D]"
+    - lang: pt-BR
+      name: Goblin
+      description: "Este usuário é um Goblin! [Category: D&D]"
+snorlax:
+  locales:
+    - lang: en
+      name: Snorlax
+      description: "This user is a Snorlax! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Snorlax
+      description: "Este usuário é um Snorlax! [Category: Pokemon]"
+objecthead:
+  locales:
+    - lang: en
+      name: Objecthead
+      description: This user is an Objecthead! "Object Head" refers to humanoids or
+        creatures with objects for heads; a common example is a TV Head.
+    - lang: pt-BR
+      name: Cabeça de objeto
+      description: Este usuário é um Cabeça de objeto! Refere-se a humanóides ou
+        criaturas com objetos no lugar da cabeça; um exemplo comum é um Cabeça
+        de TV.
+skullcreature:
+  locales:
+    - lang: en
+      name: Skullcreature
+      description: This user is a Skullcreature! Similar to skulldog, but generalized
+        for all types of creatures.
+    - lang: pt-BR
+      name: Criatura-Caveira
+      description: Este usuário é uma Criatura-Caveira! Semelhante ao Skulldog, mas
+        generalizado para todos os tipos de criaturas.
+lalafell:
+  locales:
+    - lang: en
+      name: Lalafell
+      description: This user is a Lalafell!
+    - lang: pt-BR
+      name: Lalafell
+      description: Este usuário é uma Lalafell!
+tiefling:
+  locales:
+    - lang: en
+      name: Tiefling
+      description: "This user is a Tiefling! [Category: D&D]"
+    - lang: pt-BR
+      name: Tiefling
+      description: "Este usuário é um Tiefling! [Category: D&D]"
+espeon:
+  locales:
+    - lang: en
+      name: Espeon
+      description: "This user is an Espeon! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Espeon
+      description: "Este usuário é um Espeon! [Category: Pokemon]"
+gyrfalcon:
+  locales:
+    - lang: en
+      name: Gyrfalcon
+      description: "This user is a Gyrfalcon! [Category: Avian/Bird]"
+    - lang: pt-BR
+      name: Falcão-gerifalte
+      description: "Este usuário é um Falcão-gerifalte! [Category: Aves/Pássaros]"
+mimiga:
+  locales:
+    - lang: en
+      name: Mimiga
+      description: This user is a Mimiga! from Cave Story (video game)
+    - lang: pt-BR
+      name: Mimiga
+      description: Este usuário é um Mimiga! de Cave Story (video game)
+andean-bear:
+  locales:
+    - lang: en
+      name: Andean Bear
+      description: This user is an Andean Bear!
+    - lang: pt-BR
+      name: Urso Andino
+      description: "Este usuário é um Urso-de-óculos! AKA: Urso-de-Óculos,
+        Urso-de-Lunetas Urso Sul-Americano, Urso Andino, Urso-de-Face-Curta
+        Andino, Urso da Montanha, jukumari, ukumari or ukuku"
+glaceon:
+  locales:
+    - lang: en
+      name: Glaceon
+      description: "This user is a Glaceon! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Glaceon
+      description: "Este usuário é um Glaceon! [Category: Pokemon]"
+finnish-spitz:
+  locales:
+    - lang: en
+      name: Finnish Spitz
+      description: This user is a Finnish Spitz!
+    - lang: pt-BR
+      name: Spitz finlandês
+      description: Este usuário é um Spitz finlandês!
+behemoth:
+  locales:
+    - lang: en
+      name: Behemoth
+      description: "This user is a Behemoth! [Category: Final Fantasy]"
+    - lang: pt-BR
+      name: Behemoth
+      description: "Este usuário é um Behemoth! [Category: Final Fantasy]"
+gengar:
+  locales:
+    - lang: en
+      name: Gengar
+      description: "This user is a Gengar! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Gengar
+      description: "Este usuário é um Gengar! [Category: Pokemon]"
+riolu:
+  locales:
+    - lang: en
+      name: Riolu
+      description: "This user is a Riolu! [Category: Pokemon]"
+    - lang: pt-BR
+      name: Riolu
+      description: "Este usuário é um Riolu! [Category: Pokemon]"
+scavenger:
+  locales:
+    - lang: en
+      name: Scavenger (Rain World)
+      description: This user is a Scavenger! from Rain World (video game)
+    - lang: pt-BR
+      name: Scavenger (Rain World)
+      description: Este usuário é um Scavenger! de Rain World (video game)
+bald-eagle:
+  locales:
+    - lang: en
+      name: Bald Eagle
+      description: This user is a Bald Eagle!
+poochyena:
+  locales:
+    - lang: en
+      name: Poochyena
+      description: This user is a Poochyena!
+wolpertinger:
+  locales:
+    - lang: en
+      name: Wolpertinger
+      description: This user is a Wolpertinger!
+pichu:
+  locales:
+    - lang: en
+      name: Pichu
+      description: This user is a Pichu!
+highland-cow:
+  locales:
+    - lang: en
+      name: Highland Cow
+      description: This user is a Highland Cow!
+abra:
+  locales:
+    - lang: en
+      name: Abra
+      description: This user is an Abra!
+novabeast:
+  locales:
+    - lang: en
+      name: Novabeast
+      description: This user is a Novabeast!
+porygon:
+  locales:
+    - lang: en
+      name: Porygon
+      description: This user is a Porygon!
+imp:
+  locales:
+    - lang: en
+      name: Imp
+      description: This user is an Imp!
+grackle:
+  locales:
+    - lang: en
+      name: Grackle
+      description: This user is a Grackle!
+amphiptere:
+  locales:
+    - lang: en
+      name: Amphiptere
+      description: This user is an Amphiptere!
+marmot:
+  locales:
+    - lang: en
+      name: Marmot
+      description: This user is a Marmot!
+pit-bull:
+  locales:
+    - lang: en
+      name: Pit Bull
+      description: This user is a Pit Bull!
+tegu:
+  locales:
+    - lang: en
+      name: Tegu
+      description: This user is a Tegu!
+zorua:
+  locales:
+    - lang: en
+      name: Zorua
+      description: This user is a Zorua!
+delphox:
+  locales:
+    - lang: en
+      name: Delphox
+      description: This user is a Delphox!
+caiman:
+  locales:
+    - lang: en
+      name: Caiman
+      description: This user is a Caiman!
+gorilla:
+  locales:
+    - lang: en
+      name: Gorilla
+      description: This user is a Gorilla!
+ankylosaurus:
+  locales:
+    - lang: en
+      name: Ankylosaurus
+      description: This user is an Ankylosaurus!
+primarina:
+  locales:
+    - lang: en
+      name: Primarina
+      description: This user is a Primarina!
+dik-dik:
+  locales:
+    - lang: en
+      name: Dik Dik
+      description: This user is a Dik Dik!
+nightstalker:
+  locales:
+    - lang: en
+      name: Nightstalker
+      description: This user is a Nightstalker!
+dimetrodon:
+  locales:
+    - lang: en
+      name: Dimetrodon
+      description: This user is a Dimetrodon!
+gardevoir:
+  locales:
+    - lang: en
+      name: Gardevoir
+      description: This user is a Gardevoir!
+latex:
+  locales:
+    - lang: en
+      name: Latex
+      description: This user is made of Latex!
+rubber:
+  locales:
+    - lang: en
+      name: Rubber
+      description: This user is made of Rubber!
+synthetic:
+  locales:
+    - lang: en
+      name: Synthetic
+      description: This user is made of a synthetic material!
+plural-system:
+  locales:
+    - lang: en
+      name: Plural System
+      description: "This Bluesky profile is shared between multiple entities within a
+        plural system. [Category: Meta]"
+details-in-bio:
+  locales:
+    - lang: en
+      name: Details in Bio
+      description: "This user's species/fursona is explained in more detail in their
+        bio. [Category: Meta]"
+scolipede:
+  locales:
+    - lang: en
+      name: Scolipede
+      description: This user is a Scolipede!
+aftik:
+  locales:
+    - lang: en
+      name: Aftik
+      description: This user is an Aftik!
+azhdarchid:
+  locales:
+    - lang: en
+      name: Azhdarchid
+      description: This user is an Azhdarchid!
+gerbil:
+  locales:
+    - lang: en
+      name: Gerbil
+      description: This user is a Gerbil!
+manul:
+  locales:
+    - lang: en
+      name: Manul
+      description: This user is a Manul!
+regulus:
+  locales:
+    - lang: en
+      name: Regulus
+      description: This user is a Regulus!
+octoling:
+  locales:
+    - lang: en
+      name: Octoling
+      description: This user is an Octoling!
+torracat:
+  locales:
+    - lang: en
+      name: Torracat
+      description: This user is a Torracat!
+asiatic-cheetah:
+  locales:
+    - lang: en
+      name: Asiatic Cheetah
+      description: This user is an Asiatic Cheetah!
+mewtwo:
+  locales:
+    - lang: en
+      name: Mewtwo
+      description: This user is a Mewtwo!
+ceratosaurus:
+  locales:
+    - lang: en
+      name: Ceratosaurus
+      description: This user is a Ceratosaurus!
+secretarybird:
+  locales:
+    - lang: en
+      name: Secretarybird
+      description: This user is a Secretarybird!
+collie:
+  locales:
+    - lang: en
+      name: Collie
+      description: This user is a Collie!
+turaco:
+  locales:
+    - lang: en
+      name: Turaco
+      description: This user is a Turaco!
+great-dane:
+  locales:
+    - lang: en
+      name: Great Dane
+      description: This user is a Great Dane!
+gila-monster:
+  locales:
+    - lang: en
+      name: Gila Monster
+      description: This user is a Gila Monster!
+fennekin:
+  locales:
+    - lang: en
+      name: Fennekin
+      description: This user is a Fennekin!
+pawmot:
+  locales:
+    - lang: en
+      name: Pawmot
+      description: This user is a Pawmot!
+asura:
+  locales:
+    - lang: en
+      name: Asura
+      description: This user is an Asura!
+audino:
+  locales:
+    - lang: en
+      name: Audino
+      description: This user is an Audino!
+sendaen:
+  locales:
+    - lang: en
+      name: Sendaen
+      description: This user is a Sendaen!
+firekin:
+  locales:
+    - lang: en
+      name: Firekin
+      description: This user is a Firekin!
+kit-fox:
+  locales:
+    - lang: en
+      name: Kit Fox
+      description: This user is a Kit Fox!
+meowstic:
+  locales:
+    - lang: en
+      name: Meowstic
+      description: This user is a Meowstic!
+feline:
+  locales:
+    - lang: en
+      name: Feline
+      description: This user is a Feline!
+caprid:
+  locales:
+    - lang: en
+      name: Caprid
+      description: This user is a Caprid!
+inkling:
+  locales:
+    - lang: en
+      name: Inkling
+      description: This user is an Inkling!
+undead:
+  locales:
+    - lang: en
+      name: Undead
+      description: "Undead [Category: Meta]"
+crocodile-skink:
+  locales:
+    - lang: en
+      name: Crocodile Skink
+      description: This user is a Crocodile Skink!
+dalmatian:
+  locales:
+    - lang: en
+      name: Dalmatian
+      description: This user is a Dalmatian!
+shaymin:
+  locales:
+    - lang: en
+      name: Shaymin
+      description: This user is a Shaymin!
+floragato:
+  locales:
+    - lang: en
+      name: Floragato
+      description: This user is a Floragato!
+cockroach:
+  locales:
+    - lang: en
+      name: Cockroach
+      description: This user is a Cockroach!
+balloon:
+  locales:
+    - lang: en
+      name: Balloon
+      description: "Balloon [Category: Meta]"
+freakhound:
+  locales:
+    - lang: en
+      name: Freakhound
+      description: This user is a Freakhound! http://freakhoundstudios.com/freakhound
+hogzilla:
+  locales:
+    - lang: en
+      name: Hogzilla
+      description: This user is a Hogzilla!
+malkavian:
+  locales:
+    - lang: en
+      name: Malkavian
+      description: This user is a Malkavian!
+barn-owl:
+  locales:
+    - lang: en
+      name: Barn Owl
+      description: This user is a Barn Owl!
+zombie:
+  locales:
+    - lang: en
+      name: Zombie
+      description: "Zombie [Category: Meta]"
