@@ -1,7 +1,7 @@
 import * as fs from "fs";
 import YAML from 'yaml'
 
-export const generateBskyDefsEnglish = () => {
+export const generateBskyDefs = (englishOnly?: boolean) => {
     let onDiskDefs = YAML.parse(
         fs.readFileSync(
             `./sonasky.yaml`,
@@ -11,7 +11,7 @@ export const generateBskyDefsEnglish = () => {
     let labelValues = Object.keys(onDiskDefs);
     let labelValueDefinitions = labelValues.map((id) => ({
         "blurs": "none",
-        "locales": onDiskDefs[id].locales.filter((i: { lang: string; }) => i.lang == "en"),
+        "locales": englishOnly === true ? onDiskDefs[id].locales.filter((i: { lang: string; }) => i.lang == "en") : onDiskDefs[id].locales,
         "severity": "inform",
         "adultOnly": false,
         "identifier": id,
@@ -21,4 +21,8 @@ export const generateBskyDefsEnglish = () => {
         "labelValues": labelValues,
         "labelValueDefinitions": labelValueDefinitions
     }
+}
+
+export const generateBskyDefsEnglish = () => {
+    return generateBskyDefs(true)
 }
