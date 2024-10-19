@@ -4363,10 +4363,10 @@ primarina:
 dik-dik:
   locales:
     - lang: en
-      name: Dik Dik
+      name: Dik-Dik
       description: This user is a Dik Dik!
     - lang: pt-BR
-      name: Dik Dik
+      name: Dik-Dik
       description: Este usuário é um Dik Dik!
 nightstalker:
   locales:
@@ -4393,6 +4393,9 @@ gardevoir:
       name: Gardevoir
       description: Este usuário é um Gardevoir!
 latex:
+  category:
+    en: Modifier
+    pt-BR: Modifier
   locales:
     - lang: en
       name: Latex
@@ -4401,6 +4404,9 @@ latex:
       name: Látex
       description: Este usuário é feito de Látex!
 rubber:
+  category:
+    en: Modifier
+    pt-BR: Modifier
   locales:
     - lang: en
       name: Rubber
@@ -4409,6 +4415,9 @@ rubber:
       name: Borracha
       description: Este usuário é feito de Borracha!
 synthetic:
+  category:
+    en: Modifier
+    pt-BR: Modifier
   locales:
     - lang: en
       name: Synthetic
@@ -4439,6 +4448,9 @@ details-in-bio:
       name: Detalhes na Biografia
       description: "A espécie/fursona deste usuário é explicada com mais detalhes em sua biografia."
 scolipede:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
   locales:
     - lang: en
       name: Scolipede
@@ -4450,10 +4462,10 @@ aftik:
   locales:
     - lang: en
       name: Aftik
-      description: This user is an Aftik!
+      description: "This user is an Aftik! [Tags: open-species]"
     - lang: pt-BR
       name: Aftik
-      description: Este usuário é um Aftik!
+      description: "Este usuário é um Aftik! [Tags: open-species]"
 azhdarchid:
   locales:
     - lang: en
@@ -4474,7 +4486,7 @@ manul:
   locales:
     - lang: en
       name: Manul
-      description: This user is a Manul!
+      description: "This user is a Manul! AKA: Pallas's Cat"
     - lang: pt-BR
       name: Manul
       description: Este usuário é um Manul!
@@ -4482,19 +4494,22 @@ regulus:
   locales:
     - lang: en
       name: Regulus
-      description: This user is a Regulus!
+      description: This user is a Regulus! (VRChat)
     - lang: pt-BR
       name: Regulus
-      description: Este usuário é um Regulus!
+      description: Este usuário é um Regulus! (VRChat)
 octoling:
   locales:
     - lang: en
       name: Octoling
-      description: This user is an Octoling!
+      description: This user is an Octoling! from Splatoon (video game)
     - lang: pt-BR
       name: Octoling
-      description: Este usuário é um Octoling!
+      description: Este usuário é um Octoling! from Splatoon (video game)
 torracat:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
   locales:
     - lang: en
       name: Torracat
@@ -4511,6 +4526,9 @@ asiatic-cheetah:
       name: Guepardo Asiático
       description: Este usuário é um Guepardo Asiático!
 mewtwo:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
   locales:
     - lang: en
       name: Mewtwo
@@ -4527,10 +4545,13 @@ ceratosaurus:
       name: Ceratossauro
       description: Este usuário é um Ceratossauro!
 secretarybird:
+  category:
+    en: Avian/Bird
+    pt-BR: Ave/Pássaro
   locales:
     - lang: en
-      name: Secretarybird
-      description: This user is a Secretarybird!
+      name: Secretary Bird
+      description: This user is a Secretary Bird!
     - lang: pt-BR
       name: Secretaria
       description: Este usuário é uma Secretaria!
@@ -4543,6 +4564,9 @@ collie:
       name: Collie
       description: Este usuário é um Collie!
 turaco:
+  category:
+    en: Avian/Bird
+    pt-BR: Ave/Pássaro
   locales:
     - lang: en
       name: Turaco
@@ -4567,6 +4591,9 @@ gila-monster:
       name: Monstro de Gila
       description: Este usuário é um Monstro de Gila!
 fennekin:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
   locales:
     - lang: en
       name: Fennekin
@@ -4575,6 +4602,9 @@ fennekin:
       name: Fennekin
       description: Este usuário é um Fennekin!
 pawmot:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
   locales:
     - lang: en
       name: Pawmot
@@ -4586,11 +4616,14 @@ asura:
   locales:
     - lang: en
       name: Asura
-      description: This user is an Asura!
+      description: This user is an Asura! (Guild Wars 2)
     - lang: pt-BR
       name: Asura
-      description: Este usuário é um Asura!
+      description: Este usuário é um Asura! (Guild Wars 2)
 audino:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
   locales:
     - lang: en
       name: Audino
@@ -4602,15 +4635,15 @@ sendaen:
   locales:
     - lang: en
       name: Sendaen
-      description: This user is a Sendaen!
+      description: "This user is a Sendaen! [Tags: open-species]"
     - lang: pt-BR
       name: Sendaen
-      description: Este usuário é um Sendaen!
+      description: "Este usuário é um Sendaen! [Tags: open-species]"
 firekin:
   locales:
     - lang: en
       name: Firekin
-      description: This user is a Firekin!
+      description: This user is a Firekin! Generally describes a character who is made of/represents fire - can combine with another species label, e.g., Firekin + Fox = Firefox :3
     - lang: pt-BR
       name: Firekin
       description: Este usuário é um Firekin!
@@ -4623,6 +4656,9 @@ kit-fox:
       name: Raposa do Deserto
       description: Este usuário é uma Raposa do Deserto!
 meowstic:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
   locales:
     - lang: en
       name: Meowstic
@@ -4650,14 +4686,14 @@ inkling:
   locales:
     - lang: en
       name: Inkling
-      description: This user is an Inkling!
+      description: This user is an Inkling! from Splatoon (video game)
     - lang: pt-BR
       name: Inkling
-      description: Este usuário é um Inkling!
+      description: Este usuário é um Inkling! from Splatoon (video game)
 undead:
   category:
-    en: Meta
-    pt-BR: Meta
+    en: Modifier
+    pt-BR: Modifier
   locales:
     - lang: en
       name: Undead
@@ -4669,7 +4705,7 @@ crocodile-skink:
   locales:
     - lang: en
       name: Crocodile Skink
-      description: This user is a Crocodile Skink!
+      description: "This user is a Crocodile Skink! AKA: Tribolonotus gracilis, red-eyed crocodile skink"
     - lang: pt-BR
       name: Lagarto Crocodilo
       description: Este usuário é um Lagarto Crocodilo!
@@ -4682,6 +4718,9 @@ dalmatian:
       name: Dálmata
       description: Este usuário é um Dálmata!
 shaymin:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
   locales:
     - lang: en
       name: Shaymin
@@ -4690,6 +4729,9 @@ shaymin:
       name: Shaymin
       description: Este usuário é um Shaymin!
 floragato:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
   locales:
     - lang: en
       name: Floragato
@@ -4706,6 +4748,9 @@ cockroach:
       name: Barata
       description: Este usuário é uma Barata!
 balloon:
+  category:
+    en: Modifier
+    pt-BR: Modifier
   locales:
     - lang: en
       name: Balloon
@@ -4717,11 +4762,14 @@ freakhound:
   locales:
     - lang: en
       name: Freakhound
-      description: This user is a Freakhound! http://freakhoundstudios.com/freakhound
+      description: "This user is a Freakhound! http://freakhoundstudios.com/freakhound #VRChat"
     - lang: pt-BR
       name: Freakhound
-      description: Este usuário é um Freakhound! http://freakhoundstudios.com/freakhound
+      description: "Este usuário é um Freakhound! http://freakhoundstudios.com/freakhound #VRChat"
 hogzilla:
+  category:
+    en: Folklore
+    pt-BR: Folclore
   locales:
     - lang: en
       name: Hogzilla
@@ -4733,11 +4781,14 @@ malkavian:
   locales:
     - lang: en
       name: Malkavian
-      description: This user is a Malkavian!
+      description: "This user is a Malkavian! (Vampire: The Masquerade)"
     - lang: pt-BR
       name: Malkavian
-      description: Este usuário é um Malkavian!
+      description: "Este usuário é um Malkavian! (Vampire: The Masquerade)"
 barn-owl:
+  category:
+    en: Avian/Bird
+    pt-BR: Ave/Pássaro
   locales:
     - lang: en
       name: Barn Owl
@@ -4746,6 +4797,9 @@ barn-owl:
       name: Coruja de Celeiro
       description: Este usuário é uma Coruja de Celeiro!
 zombie:
+  category:
+    en: Modifier
+    pt-BR: Modifier
   locales:
     - lang: en
       name: Zombie

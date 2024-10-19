@@ -17,6 +17,13 @@ export const generateBskyDefs = (englishOnly?: boolean) => {
         "identifier": id,
         "defaultSetting": "warn"
     }))
+    fs.writeFileSync(
+        `/home/user/sonatools/scripts/newdefstmp.json`,
+        JSON.stringify({
+            "labelValues": labelValues,
+            "labelValueDefinitions": labelValueDefinitions
+        })
+    );
     return {
         "labelValues": labelValues,
         "labelValueDefinitions": labelValueDefinitions
@@ -26,3 +33,5 @@ export const generateBskyDefs = (englishOnly?: boolean) => {
 export const generateBskyDefsEnglish = () => {
     return generateBskyDefs(true)
 }
+
+generateBskyDefsEnglish()
