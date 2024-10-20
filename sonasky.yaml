@@ -4201,6 +4201,9 @@ scavenger:
       name: Scavenger (Rain World)
       description: Este usuário é um Scavenger! de Rain World (video game)
 bald-eagle:
+  category:
+    en: Avian/Bird
+    pt-BR: Ave/Pássaro
   locales:
     - lang: en
       name: Bald Eagle
@@ -4209,6 +4212,9 @@ bald-eagle:
       name: Águia Careca
       description: Este usuário é uma Águia Careca!
 poochyena:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
   locales:
     - lang: en
       name: Poochyena
@@ -4225,6 +4231,9 @@ wolpertinger:
       name: Wolpertinger
       description: Este usuário é um Wolpertinger!
 pichu:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
   locales:
     - lang: en
       name: Pichu
@@ -4241,6 +4250,9 @@ highland-cow:
       name: Vaca das Terras Altas
       description: Este usuário é uma Vaca das Terras Altas!
 abra:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
   locales:
     - lang: en
       name: Abra
@@ -4257,6 +4269,9 @@ novabeast:
       name: Novabeast
       description: Este usuário é um Novabeast!
 porygon:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
   locales:
     - lang: en
       name: Porygon
@@ -4273,6 +4288,9 @@ imp:
       name: Imp
       description: Este usuário é um Imp!
 grackle:
+  category:
+    en: Avian/Bird
+    pt-BR: Ave/Pássaro
   locales:
     - lang: en
       name: Grackle
@@ -4313,6 +4331,9 @@ tegu:
       name: Tegu
       description: Este usuário é um Tegu!
 zorua:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
   locales:
     - lang: en
       name: Zorua
@@ -4321,6 +4342,9 @@ zorua:
       name: Zorua
       description: Este usuário é um Zorua!
 delphox:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
   locales:
     - lang: en
       name: Delphox
@@ -4353,6 +4377,9 @@ ankylosaurus:
       name: Anquilossauro
       description: Este usuário é um Anquilossauro!
 primarina:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
   locales:
     - lang: en
       name: Primarina
@@ -4385,6 +4412,9 @@ dimetrodon:
       name: Dimetrodon
       description: Este usuário é um Dimetrodon!
 gardevoir:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
   locales:
     - lang: en
       name: Gardevoir
