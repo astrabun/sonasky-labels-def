@@ -5468,3 +5468,10 @@ angoramon:
   category:
     en: Digimon
     pt-BR: Digimon
+antlered:
+  category:
+    en: Modifier
+  locales:
+    - lang: en
+      name: Antlered
+      description: "This user has antlers!"
