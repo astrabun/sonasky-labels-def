@@ -599,7 +599,7 @@ saber-toothed-cat:
   locales:
     - lang: en
       name: Saber-Toothed Cat
-      description: This user is a Saber-Toothed Cat!
+      description: "This user is a Saber-Toothed Cat! AKA: Smilodon"
     - lang: pt-BR
       name: Smilodon
       description: "Este usuário é um Smilodon! AKA: Tigre-dente-de-sabre."
@@ -5353,3 +5353,32 @@ zinogre:
   category:
     en: Monster Hunter
     pt-BR: Monster Hunter
+wyrm:
+  locales:
+  - lang: en
+    name: Wyrm
+    description: This user is a Wyrm
+  category:
+    en: Folklore
+    pt-BR: Folclore
+brionne:
+  locales:
+  - lang: en
+    name: Brionne
+    description: This user is a Brionne
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+schnauzer:
+  locales:
+  - lang: en
+    name: Schnauzer
+    description: This user is a Schnauzer
+mimic:
+  category:
+    en: D&D
+    pt-BR: D&D
+  locales:
+    - lang: en
+      name: Mimic
+      description: "This user is a totally normal chest full of treasure, and DEFINITELY isn't a Mimic!"
