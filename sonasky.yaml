@@ -5420,3 +5420,35 @@ droukkits:
     - lang: en
       name: Droukkits
       description: "This user is a Droukkits (a radioactive hybrid cave dweller)! [Tags: open-species] by thespecialbeans"
+uxie:
+  locales:
+  - lang: en
+    name: Uxie
+    description: This user is an Uxie!
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+mesprit:
+  locales:
+  - lang: en
+    name: Mesprit
+    description: This user is a Mesprit!
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+azelf:
+  locales:
+  - lang: en
+    name: Azelf
+    description: This user is an Azelf!
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+lake-guardian:
+  locales:
+  - lang: en
+    name: Lake Spirit
+    description: "This user is a Lake Spirit! AKA: Lake Guardian, member of the Lake Trio (from Pokemon)"
+  category:
+    en: Pokemon-Lore
+    pt-BR: Pokemon-Lore
