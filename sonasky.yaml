@@ -5314,3 +5314,42 @@ eevee:
   category:
     en: Pokemon
     pt-BR: Pokemon
+au-ra:
+  locales:
+  - lang: en
+    name: Au Ra
+    description: This user is an Au Ra (Final Fantasy)
+  category:
+    en: Final Fantasy
+nekomata:
+  locales:
+  - lang: en
+    name: Nekomata
+    description: This user is a Nekomata
+  category:
+    en: Folklore
+    pt-BR: Folclore
+buneary:
+  locales:
+  - lang: en
+    name: Buneary
+    description: This user is a Buneary
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+lopunny:
+  locales:
+  - lang: en
+    name: Lopunny
+    description: This user is a Lopunny
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+zinogre:
+  locales:
+  - lang: en
+    name: Zinogre
+    description: This user is a Zinogre (Monster Hunter)
+  category:
+    en: Monster Hunter
+    pt-BR: Monster Hunter
