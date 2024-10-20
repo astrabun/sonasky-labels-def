@@ -5475,3 +5475,159 @@ antlered:
     - lang: en
       name: Antlered
       description: "This user has antlers!"
+akitainu:
+  locales:
+    - lang: en
+      name: Akitainu
+      description: "This user is an Akitainu! AKA: Akita, Japanese Akitainu"
+american-akita:
+  locales:
+    - lang: en
+      name: American Akita
+      description: "This user is an American Akita! AKA: Akita, American Akita"
+silvally:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+  locales:
+    - lang: en
+      name: Silvally
+      description: "This user is a Silvally!"
+    - lang: pt-BR
+      name: Silvally
+      description: "Este usuário é um Silvally!"
+sprigatito:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+  locales:
+    - lang: en
+      name: Sprigatito
+      description: "This user is a Sprigatito!"
+    - lang: pt-BR
+      name: Sprigatito
+      description: "Este usuário é um Sprigatito!"
+alatreon:
+  category:
+    en: Monster Hunter
+  locales:
+    - lang: en
+      name: Alatreon
+      description: "This user is an Alatreon!"
+sawsbuck:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+  locales:
+    - lang: en
+      name: Sawsbuck
+      description: "This user is a Sawsbuck!"
+    - lang: pt-BR
+      name: Sawsbuck
+      description: "Este usuário é um Sawsbuck!"
+jolteon:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+  locales:
+    - lang: en
+      name: Jolteon
+      description: "This user is a Jolteon!"
+    - lang: pt-BR
+      name: Jolteon
+      description: "Este usuário é um Jolteon!"
+flareon:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+  locales:
+    - lang: en
+      name: Flareon
+      description: "This user is a Flareon!"
+    - lang: pt-BR
+      name: Flareon
+      description: "Este usuário é um Flareon!"
+leopard-cat:
+  locales:
+    - lang: en
+      name: Leopard Cat
+      description: "This user is a Leopard Cat!"
+popori:
+  category:
+    en: Tera (MMO)
+  locales:
+    - lang: en
+      name: Popori
+      description: "This user is a Popori! from Tera (MMO)"
+chinchilla:
+  locales:
+    - lang: en
+      name: Chinchilla
+      description: "This user is a Chinchilla!"
+carolina-dog:
+  locales:
+    - lang: en
+      name: Carolina Dog
+      description: "This user is a Carolina Dog!"
+aipom:
+  category:
+    en: Pokemon
+  locales:
+    - lang: en
+      name: Aipom
+      description: "This user is an Aipom!"
+tinkaton:
+  category:
+    en: Pokemon
+  locales:
+    - lang: en
+      name: Tinkaton
+      description: "This user is a Tinkaton!"
+kremling:
+  locales:
+    - lang: en
+      name: Kremling
+      description: "This user is a Kremling! (Donkey Kong)"
+king-shepherd:
+  locales:
+    - lang: en
+      name: King Shepherd
+      description: "This user is a King Shepherd!"
+chinese-crested-dog:
+  locales:
+    - lang: en
+      name: Chinese Crested Dog
+      description: "This user is a Chinese Crested Dog!"
+compsognathus:
+  locales:
+    - lang: en
+      name: Compsognathus
+      description: "This user is a Compsognathus!"
+maine-coon:
+  locales:
+    - lang: en
+      name: Maine Coon
+      description: "This user is a Maine Coon!"
+gemsbok:
+  locales:
+    - lang: en
+      name: Gemsbok
+      description: "This user is a Gemsbok!"
+antelope:
+  locales:
+    - lang: en
+      name: Antelope
+      description: "This user is an Antelope!"
+tak:
+  locales:
+    - lang: en
+      name: Tak
+      description: "This user is a Tak! [Tags: open-species] created by Itzu.bsky.social and moth.gay"
+median-system:
+  category:
+    en: Meta
+    pt-BR: Meta
+  locales:
+    - lang: en
+      name: Median System
+      description: "This Bluesky profile belongs to someone/a system who is part of a median system, experiencing life somewhere between being singlet and plural."
