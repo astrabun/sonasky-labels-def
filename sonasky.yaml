@@ -5631,3 +5631,10 @@ median-system:
     - lang: en
       name: Median System
       description: "This Bluesky profile belongs to someone/a system who is part of a median system, experiencing life somewhere between being singlet and plural."
+multi-headed:
+  category:
+    en: Modifier
+  locales:
+    - lang: en
+      name: Multi Headed
+      description: "This user's character has multiple heads (e.g., Cerberus)"
