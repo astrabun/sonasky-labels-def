@@ -5638,3 +5638,8 @@ multi-headed:
     - lang: en
       name: Multi Headed
       description: "This user's character has multiple heads (e.g., Cerberus)"
+papillon-dog:
+  locales:
+    - lang: en
+      name: Papillon (Dog)
+      description: "This user is a Papillon (dog)! AKA: Butterfly Dog"
