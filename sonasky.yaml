@@ -5452,3 +5452,19 @@ lake-guardian:
   category:
     en: Pokemon-Lore
     pt-BR: Pokemon-Lore
+growlithe:
+  locales:
+  - lang: en
+    name: Growlithe
+    description: This user is a Growlithe!
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+angoramon:
+  locales:
+  - lang: en
+    name: Angoramon
+    description: This user is an Angoramon!
+  category:
+    en: Digimon
+    pt-BR: Digimon
