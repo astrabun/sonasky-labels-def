@@ -2,7 +2,7 @@ rabbit:
   locales:
     - lang: en
       name: Rabbit
-      description: "This user is a Rabbit! AKA: bunny, bnuy, bun"
+      description: "This user is a Rabbit! AKA: bunny, bnuy, bun :3c"
     - lang: pt-BR
       name: Coelha/Coelho
       description: "Este usuário é um Coelho! AKA: Coelho, Coelinho."
