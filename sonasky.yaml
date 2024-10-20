@@ -5382,3 +5382,41 @@ mimic:
     - lang: en
       name: Mimic
       description: "This user is a totally normal chest full of treasure, and DEFINITELY isn't a Mimic!"
+osprey:
+  category:
+    en: Avian/Bird
+    pt-BR: Ave/Pássaro
+  locales:
+    - lang: en
+      name: Osprey
+      description: "This user is an Osprey!"
+karelian-bear-dog:
+  locales:
+    - lang: en
+      name: Karelian Bear Dog
+      description: "This user is a Karelian Bear Dog!"
+frankenstein:
+  locales:
+    - lang: en
+      name: Frankenstein
+      description: "This user is a Frankenstein! (Modifier)"
+night-fury:
+  locales:
+    - lang: en
+      name: Night Fury
+      description: "This user is a Night Fury! (HTTYD)"
+mamagen:
+  locales:
+    - lang: en
+      name: Mamagen
+      description: "This user is a Mamagen! (VRChat)"
+swampling:
+  locales:
+    - lang: en
+      name: Swampling
+      description: "This user is a Swampling! [Tags: open-species] by meltymoth"
+droukkit:
+  locales:
+    - lang: en
+      name: Droukkit
+      description: "This user is a Droukkit (a radioactive hybrid cave dweller)! [Tags: open-species] by thespecialbeans"
