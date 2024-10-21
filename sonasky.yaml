@@ -4444,6 +4444,14 @@ rubber:
     - lang: pt-BR
       name: Borracha
       description: Este usuário é feito de Borracha!
+goo:
+  category:
+    en: Modifier
+    pt-BR: Modifier
+  locales:
+    - lang: en
+      name: Goo
+      description: This user is made of Goo!
 synthetic:
   category:
     en: Modifier
