@@ -5711,3 +5711,8 @@ rodent:
     - lang: en
       name: Rodent
       description: "This user is a Rodent!"
+lumistera:
+  locales:
+    - lang: en
+      name: Lumistera
+      description: "This user is a Lumistera! #VRChat About: https://corvidcurse.com/vrcavatars"
