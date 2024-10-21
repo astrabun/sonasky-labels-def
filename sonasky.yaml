@@ -5547,6 +5547,17 @@ flareon:
     - lang: pt-BR
       name: Flareon
       description: "Este usuário é um Flareon!"
+leafeon:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+  locales:
+    - lang: en
+      name: Leafeon
+      description: "This user is a Leafeon!"
+    - lang: pt-BR
+      name: Flareon
+      description: "Este usuário é um Leafeon!"
 leopard-cat:
   locales:
     - lang: en
@@ -5650,3 +5661,53 @@ domestic:
     - lang: en
       name: Domestic (Modifier)
       description: "This user is a domestic variant of a species (see their other labels)!"
+aeromorph:
+  locales:
+    - lang: en
+      name: Aeromorph
+      description: "This user is an Aeromorph! AKA: Anthro plane/jet/etc."
+nu-mou:
+  category:
+    en: Final Fantasy
+  locales:
+    - lang: en
+      name: Nu Mou
+      description: "This user is a Nu Mou! from Final Fantasy"
+bakeneko:
+  category:
+    en: Folklore
+    pt-BR: Folclore
+  locales:
+    - lang: en
+      name: Bakeneko
+      description: "This user is a Bakeneko!"
+sand-cat:
+  locales:
+    - lang: en
+      name: Sand Cat
+      description: "This user is a Sand Cat! (breed of cat)"
+grizzly-bear:
+  locales:
+    - lang: en
+      name: Grizzly Bear
+      description: "This user is a Grizzly Bear! AKA: North American brown bear, grizzly"
+beetle:
+  locales:
+    - lang: en
+      name: Beetle
+      description: "This user is a Beetle!"
+vernid:
+  locales:
+    - lang: en
+      name: Vernid
+      description: "This user is a Vernid! [Tags: closed-species] by lilaira"
+manatee:
+  locales:
+    - lang: en
+      name: Manatee
+      description: "This user is a Manatee!"
+rodent:
+  locales:
+    - lang: en
+      name: Rodent
+      description: "This user is a Rodent!"
