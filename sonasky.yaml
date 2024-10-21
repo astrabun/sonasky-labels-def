@@ -5643,3 +5643,10 @@ papillon-dog:
     - lang: en
       name: Papillon (Dog)
       description: "This user is a Papillon (dog)! AKA: Butterfly Dog"
+domestic:
+  category:
+    en: Modifier
+  locales:
+    - lang: en
+      name: Domestic (Modifier)
+      description: "This user is a domestic variant of a species (see their other labels)!"
