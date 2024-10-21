@@ -5685,7 +5685,7 @@ sand-cat:
   locales:
     - lang: en
       name: Sand Cat
-      description: "This user is a Sand Cat! (breed of cat)"
+      description: "This user is a Sand Cat! (species of cat)"
 grizzly-bear:
   locales:
     - lang: en
