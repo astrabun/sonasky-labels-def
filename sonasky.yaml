@@ -5688,6 +5688,14 @@ antlered:
   - lang: pt-BR
     name: Com Chifres
     description: Este usuário tem chifres!
+horned:
+  category:
+    en: Modifier
+    pt-BR: Modificador
+  locales:
+  - lang: en
+    name: Horned
+    description: This user has horns!
 akitainu:
   locales:
   - lang: en
@@ -6039,3 +6047,253 @@ lumistera:
   - lang: pt-BR
     name: Lumistera
     description: 'Este usuário é um Lumistera! #VRChat Sobre: https://corvidcurse.com/vrcavatars'
+siberian-cat:
+  locales:
+  - lang: en
+    name: Siberian Cat
+    description: 'This user is a Siberian Cat!'
+naga:
+  locales:
+  - lang: en
+    name: Naga
+    description: 'This user is a Naga!'
+  - lang: pt-BR
+    name: Naga
+    description: 'Este usuário é um Naga!'
+bateleur-eagle:
+  locales:
+  - lang: en
+    name: Bateleur Eagle
+    description: 'This user is a Bateleur Eagle! AKA: Bateleur'
+  - lang: pt-BR
+    name: Águia Bateleur
+    description: 'Este usuário é um Bateleur Eagle! Também conhecido como: Bateleur'
+nightbeast:
+  locales:
+  - lang: en
+    name: Nightbeast
+    description: 'This user is a Nightbeast! #VRChat'
+  - lang: pt-BR
+    name: Nightbeast
+    description: 'Este usuário é um Nightbeast! #VRChat'
+mystimew:
+  locales:
+  - lang: en
+    name: Mystimew
+    description: 'This user is a Mystimew! https://myvstrica.neocities.org/species/mystimews'
+  - lang: pt-BR
+    name: Mystimew
+    description: 'Este usuário é um Mystimew! https://myvstrica.neocities.org/species/mystimews'
+draksune:
+  locales:
+  - lang: en
+    name: Draksune
+    description: 'This user is a Draksune! https://docs.google.com/document/d/1PhWkiB9CSMmd5IRKkck-Nz76IzOBxBhOl9uz8vDC0Yk/edit?tab=t.0 by @azemkek.art'
+  - lang: pt-BR
+    name: Draksune
+    description: 'Este usuário é um Draksune! https://docs.google.com/document/d/1PhWkiB9CSMmd5IRKkck-Nz76IzOBxBhOl9uz8vDC0Yk/edit?tab=t.0 por @azemkek.art'
+chipmunk:
+  locales:
+  - lang: en
+    name: Chipmunk
+    description: 'This user is a Chipmunk!'
+  - lang: pt-BR
+    name: Esquilo
+    description: 'Este usuário é um Esquilo!'
+giratina:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+  locales:
+  - lang: en
+    name: Giratina
+    description: This user is a Giratina!
+  - lang: pt-BR
+    name: Giratina
+    description: 'Este usuário é um Giratina!'
+kyrinith:
+  locales:
+  - lang: en
+    name: Kyrinith
+    description: 'This user is a Kyrinith! by Vendryk'
+  - lang: pt-BR
+    name: Kyrinith
+    description: 'Este usuário é um Kyrinith! por Vendryk'
+monferno:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+  locales:
+  - lang: en
+    name: Monferno
+    description: This user is a Monferno!
+  - lang: pt-BR
+    name: Monferno
+    description: 'Este usuário é um Giratina!'
+bull-terrier:
+  locales:
+  - lang: en
+    name: Bull Terrier
+    description: This user is a Bull Terrier!
+dewott:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+  locales:
+  - lang: en
+    name: Dewott
+    description: This user is a Dewott!
+  - lang: pt-BR
+    name: Dewott
+    description: 'Este usuário é um Dewott!'
+halonyx:
+  locales:
+  - lang: en
+    name: Halonyx
+    description: 'This user is a Halonyx! #VRChat'
+  - lang: pt-BR
+    name: Halonyx
+    description: 'Este usuário é um Halonyx! #VRChat'
+verbunny:
+  locales:
+  - lang: en
+    name: Verbunny
+    description: 'This user is a Verbunny! #VRChat'
+  - lang: pt-BR
+    name: Verbunny
+    description: 'Este usuário é um Verbunny! #VRChat'
+xenomorph:
+  locales:
+  - lang: en
+    name: Xenomorph
+    description: 'This user is a Xenomorph!'
+  - lang: pt-BR
+    name: Xenomorph
+    description: 'Este usuário é um Xenomorph!'
+starrcat:
+  locales:
+  - lang: en
+    name: Starrcat
+    description: 'This user is a Starrcat! [Tags: open-species] https://docs.google.com/document/d/1b7dRejjc5WtEZ7YIubom9GChJnPQHBA91g7KH3BRPMo/edit'
+odogaron:
+  category:
+    en: Monster Hunter
+    pt-BR: Monster Hunter
+  locales:
+  - lang: en
+    name: Odogaron
+    description: This user is an Odogaron!
+  - lang: pt-BR
+    name: Odogaron
+    description: Este usuário é um Odogaron!
+smeargle:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+  locales:
+  - lang: en
+    name: Smeargle
+    description: This user is a Smeargle!
+  - lang: pt-BR
+    name: Smeargle
+    description: 'Este usuário é um Smeargle!'
+sea-otter:
+  locales:
+  - lang: en
+    name: Sea Otter
+    description: This user is a Sea Otter!
+mizutsune:
+  category:
+    en: Monster Hunter
+    pt-BR: Monster Hunter
+  locales:
+  - lang: en
+    name: Mizutsune
+    description: This user is a Mizutsune!
+  - lang: pt-BR
+    name: Mizutsune
+    description: Este usuário é um Mizutsune!
+toucan:
+  category:
+    en: Avian/Bird
+    pt-BR: Ave/Pássaro
+  locales:
+  - lang: en
+    name: Toucan
+    description: This user is a Toucan!
+  - lang: pt-BR
+    name: Tucano
+    description: Este usuário é um tucano!
+moogle:
+  category:
+    en: Final Fantasy
+    pt-BR: Final Fantasy
+  locales:
+  - lang: en
+    name: Moogle
+    description: This user is a Moogle! (Final Fantasy)
+  - lang: pt-BR
+    name: Moogle
+    description: Este usuário é um Moogle! (Final Fantasy)
+scimitar-toothed-cat:
+  locales:
+  - lang: en
+    name: Scimitar-Toothed Cat
+    description: 'This user is a Scimitar-Toothed Cat! AKA: Homotherium'
+gaomon:
+  category:
+    en: Digimon
+    pt-BR: Digimon
+  locales:
+  - lang: en
+    name: Gaomon
+    description: This user is a Gaomon!
+  - lang: pt-BR
+    name: Gaomon
+    description: Este usuário é um Gaomon!
+boston-terrier:
+  locales:
+  - lang: en
+    name: Boston Terrier
+    description: This user is a Boston Terrier!
+wallaby:
+  locales:
+  - lang: en
+    name: Wallaby
+    description: This user is a Wallaby!
+grovyle:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+  locales:
+  - lang: en
+    name: Grovyle
+    description: This user is a Grovyle!
+  - lang: pt-BR
+    name: Grovyle
+    description: Este usuário é um Grovyle!
+grumpus:
+  locales:
+  - lang: en
+    name: Grumpus
+    description: This user is a Grumpus! (Bugsnax)
+aardvark:
+  locales:
+  - lang: en
+    name: Aardvark
+    description: This user is an Aardvark!
+toad:
+  locales:
+  - lang: en
+    name: Toad
+    description: This user is a Toad!
+anomaly:
+  locales:
+  - lang: en
+    name: Anomaly
+    description: This user is an Anomaly! Who knows what they really are.
+lunborn:
+  locales:
+  - lang: en
+    name: Lunborn
+    description: 'This user is a Lunborn! [Tags: closed-species] https://www.furaffinity.net/view/58554149/'
