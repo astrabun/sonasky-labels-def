@@ -6297,3 +6297,8 @@ lunborn:
   - lang: en
     name: Lunborn
     description: 'This user is a Lunborn! [Tags: closed-species] https://www.furaffinity.net/view/58554149/'
+dragonfly:
+  locales:
+  - lang: en
+    name: Dragonfly
+    description: 'This user is a Dragonfly!'
