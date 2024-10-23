@@ -6353,14 +6353,14 @@ material-shifter:
   - lang: en
     name: Material-Shifter
     description: "This user is able to change their body's material composition"
-hippocampus:
+hippocamp:
   category:
     en: Folklore
     pt-BR: Folclore
   locales:
   - lang: en
     name: Hippocamp
-    description: 'This user is a Hippocamp! AKA: Sea-Horse'
+    description: 'This user is a Hippocampus! AKA: Hippocamp, Sea-Horse'
 geroo:
   locales:
   - lang: en
