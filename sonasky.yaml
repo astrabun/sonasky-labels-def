@@ -1623,10 +1623,10 @@ skulldog:
   locales:
   - lang: en
     name: Skulldog
-    description: This user is a Skulldog!
+    description: 'This user is a Skulldog! [Tags: open-species] https://www.deviantart.com/skulldog/art/Ultimate-Guide-to-Skulldogs-693728429'
   - lang: pt-BR
     name: Skulldog
-    description: Este usuário é um Skulldog!
+    description: 'Este usuário é um Skulldog! [Tags: open-species] https://www.deviantart.com/skulldog/art/Ultimate-Guide-to-Skulldogs-693728429'
 toon:
   locales:
   - lang: en
@@ -6302,3 +6302,205 @@ dragonfly:
   - lang: en
     name: Dragonfly
     description: 'This user is a Dragonfly!'
+alexander-archipelago-wolf:
+  locales:
+  - lang: en
+    name: Alexander Archipelago Wolf
+    description: 'This user is an Alexander Archipelago Wolf!'
+beezle:
+  locales:
+  - lang: en
+    name: Beezle
+    description: 'This user is a Beezle (species by Skully Hellfire)! #VRChat'
+gremlin:
+  locales:
+  - lang: en
+    name: Gremlin
+    description: 'This user is a Gremlin!'
+joltik:
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+  locales:
+  - lang: en
+    name: Joltik
+    description: This user is a Joltik!
+  - lang: pt-BR
+    name: Joltik
+    description: Este usuário é um Joltik!
+tigerbee:
+  locales:
+  - lang: en
+    name: Tigerbee
+    description: 'This user is a Tigerbee! #VRChat'
+cyber:
+  category:
+    en: Modifier
+  locales:
+  - lang: en
+    name: Cyber
+    description: This user is cybernetic (modifier)!
+impim:
+  locales:
+  - lang: en
+    name: Impim
+    description: 'This user is an Impim! #VRChat'
+material-shifter:
+  category:
+    en: Modifier
+  locales:
+  - lang: en
+    name: Material-Shifter
+    description: "This user is able to change their body's material composition"
+hippocampus:
+  category:
+    en: Folklore
+    pt-BR: Folclore
+  locales:
+  - lang: en
+    name: Hippocamp
+    description: 'This user is a Hippocamp! AKA: Sea-Horse'
+geroo:
+  locales:
+  - lang: en
+    name: Geroo
+    description: 'This user is a Geroo! (Species by Rick Griffin)'
+pandaren:
+  category:
+    en: World of Warcraft
+  locales:
+  - lang: en
+    name: Pandaren
+    description: 'This user is a Pandaren!'
+bulgae:
+  category:
+    en: Folklore
+  locales:
+  - lang: en
+    name: Bulgae
+    description: 'This user is a Bulgae!'
+carnotaurus:
+  locales:
+  - lang: en
+    name: Carnotaurus
+    description: 'This user is a Carnotaurus!'
+furred-raptor:
+  locales:
+  - lang: en
+    name: Furred Raptor
+    description: 'This user is a Furred Raptor!'
+leopard-seal:
+  locales:
+  - lang: en
+    name: Leopard Seal
+    description: 'This user is a Leopard Seal! AKA: Sea Leopard'
+bengal-cat:
+  locales:
+  - lang: en
+    name: Bengal Cat
+    description: 'This user is a Bengal Cat!'
+water-deer:
+  locales:
+  - lang: en
+    name: Water Deer
+    description: 'This user is a Water Deer!'
+tufted-deer:
+  locales:
+  - lang: en
+    name: Tufted Deer
+    description: 'This user is a Tufted Deer!'
+centipede:
+  locales:
+  - lang: en
+    name: Centipede
+    description: 'This user is a Centipede!'
+weevil:
+  locales:
+  - lang: en
+    name: Weevil
+    description: 'This user is a Weevil!'
+archen:
+  category:
+    en: Pokemon
+  locales:
+  - lang: en
+    name: Archen
+    description: This user is an Archen!
+armadillomon:
+  category:
+    en: Digimon
+  locales:
+  - lang: en
+    name: Armadillomon
+    description: This user is an Armadillomon!
+culpeo:
+  locales:
+  - lang: en
+    name: Culpeo
+    description: 'This user is a Culpeo! AKA: Culpeo zorro, Andean zorro, Andean fox, Paramo wolf, Andean wolf, and colpeo fox. This is species of South American fox. Despite the name, it is not a true fox, but more closely related to wolves and jackals.'
+greninja:
+  category:
+    en: Pokemon
+  locales:
+  - lang: en
+    name: Greninja
+    description: This user is a Greninja!
+# anthro-fruit:
+#   locales:
+#   - lang: en
+#     name: Anthropomorphic Fruit
+#     description: This user is an Anthropomorphic Fruit!
+chesnaught:
+  locales:
+  - lang: en
+    name: Chesnaught
+    description: This user is a Chesnaught!
+puca:
+  category:
+    en: Folklore
+  locales:
+  - lang: en
+    name: Púca
+    description: 'This user is a Púca! AKA: Pooka, pwca, phouka, puck'
+bugbear:
+  category:
+    en: D&D
+  locales:
+  - lang: en
+    name: Bugbear
+    description: This user is a Bugbear!
+iberian-wolf:
+  locales:
+  - lang: en
+    name: Iberian Wolf
+    description: This user is an Iberian Wolf!
+loon:
+  locales:
+  - lang: en
+    name: Loon
+    description: This user is a Loon!
+sea-angel:
+  locales:
+  - lang: en
+    name: Sea Angel
+    description: This user is a Sea Angel!
+pterosaur:
+  locales:
+  - lang: en
+    name: Pterosaur
+    description: This user is a Pterosaur!
+machine:
+  locales:
+  - lang: en
+    name: Machine
+    description: This user is a Machine!
+peakit:
+  locales:
+  - lang: en
+    name: Peakit
+    description: 'This user is a Peakit! [Tags: open-species] by Yuyake'
+jex:
+  locales:
+  - lang: en
+    name: Jex
+    description: 'This user is a Jex! (Second Life)'
