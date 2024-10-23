@@ -1,3 +1,4 @@
+# COMMENTED OUT = planned on adding but then I hit the max data size again :/
 rabbit:
   locales:
   - lang: en
@@ -6531,3 +6532,103 @@ diamond-dog:
   - lang: en
     name: Diamond Dog
     description: 'This user is a Diamond Dog! (My Little Pony)'
+puffin:
+  category:
+    en: Avian/Bird
+    pt-BR: Ave/Pássaro
+  locales:
+  - lang: en
+    name: Puffin
+    description: This user is a Puffin!
+mimikyu:
+  category:
+    en: Pokemon
+  locales:
+  - lang: en
+    name: Mimikyu
+    description: This user is a Mimikyu!
+dire-wolf:
+  locales:
+  - lang: en
+    name: Dire Wolf
+    description: This user is a Dire Wolf!
+ringed-plover:
+  category:
+    en: Avian/Bird
+    pt-BR: Ave/Pássaro
+  locales:
+  - lang: en
+    name: Ringed Plover
+    description: This user is a Ringed Plover!
+capricorn:
+  category:
+    en: Folklore
+    pt-BR: Folclore
+  locales:
+  - lang: en
+    name: Capricorn
+    description: 'This user is a Capricorn! AKA: sea goat or goat fish'
+ghost:
+  category:
+    en: Modifier
+    pt-BR: Modifier
+  locales:
+  - lang: en
+    name: Ghost
+    description: This user is... a... g-g-g-GHOST!
+# mech:
+#   category:
+#     en: Modifier
+#   locales:
+#   - lang: en
+#     name: Mech
+#     description: 'This user is a Mecha/Mech!'
+# valstrax:
+#   category:
+#     en: Monster Hunter
+#   locales:
+#   - lang: en
+#     name: Valstrax
+#     description: 'This user is a Valstrax!'
+# shih-tzu:
+#   locales:
+#     - lang: en
+#       name: Shih Tzu
+#       description: 'This user is a Shih Tzu!'
+# gatox:
+#   locales:
+#   - lang: en
+#     name: Gatox
+#     description: 'This user is a Gatox! [Tags: closed-species] by Muzz/Mooz'
+# cavalier-king-charles-spaniel:
+#   locales:
+#   - lang: en
+#     name: Cavalier King Charles Spaniel
+#     description: 'This user is a Cavalier King Charles Spaniel! AKA: Cavalier'
+# parasaurolophus:
+#   locales:
+#   - lang: en
+#     name: Parasaurolophus
+#     description: This user is a Parasaurolophus!
+# pinata:
+#   category:
+#     en: Modifier
+#   locales:
+#   - lang: en
+#     name: Piñata
+#     description: This user is a Piñata! (Modifier)
+# zeyzell:
+#   category:
+#     en: Nature of Predators
+#   locales:
+#   - lang: en
+#     name: Zeyzell
+#     description: 'This user is a Zeyzell! (from Nature of Predators) [Tags: open-species]'
+# najarala:
+#   category:
+#     en: Monster Hunter
+#     pt-BR: Monster Hunter
+#   locales:
+#   - lang: en
+#     name: Najarala
+#     description: 'This user is a Najarala!'
