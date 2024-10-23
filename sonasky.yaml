@@ -6477,6 +6477,9 @@ iberian-wolf:
     name: Iberian Wolf
     description: This user is an Iberian Wolf!
 loon:
+  category:
+    en: Avian/Bird
+    pt-BR: Ave/Pássaro
   locales:
   - lang: en
     name: Loon
