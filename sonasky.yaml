@@ -6445,11 +6445,11 @@ greninja:
   - lang: en
     name: Greninja
     description: This user is a Greninja!
-# anthro-fruit:
-#   locales:
-#   - lang: en
-#     name: Anthropomorphic Fruit
-#     description: This user is an Anthropomorphic Fruit!
+anthro-fruit:
+  locales:
+  - lang: en
+    name: Anthropomorphic Fruit
+    description: This user is an Anthropomorphic Fruit!
 chesnaught:
   locales:
   - lang: en
