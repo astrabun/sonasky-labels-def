@@ -6509,11 +6509,11 @@ jex:
   - lang: en
     name: Jex
     description: 'This user is a Jex! (Second Life)'
-mazzakin:
+mazzikin:
   locales:
   - lang: en
-    name: Mazzakin
-    description: 'This user is a Mazzakin! (Jewish Mysticism)'
+    name: Mazzikin
+    description: 'This user is a Mazzikin! (Jewish Mysticism)'
 microchimera:
   locales:
   - lang: en
