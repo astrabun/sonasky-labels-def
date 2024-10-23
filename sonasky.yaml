@@ -6451,6 +6451,8 @@ anthro-fruit:
     name: Anthropomorphic Fruit
     description: This user is an Anthropomorphic Fruit!
 chesnaught:
+  category:
+    en: Pokemon
   locales:
   - lang: en
     name: Chesnaught
