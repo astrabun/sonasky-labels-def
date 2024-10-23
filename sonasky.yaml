@@ -6524,3 +6524,10 @@ sodaroo:
   - lang: en
     name: Sodaroo
     description: 'This user is a Sodaroo!'
+diamond-dog:
+  category:
+    en: My Little Pony
+  locales:
+  - lang: en
+    name: Diamond Dog
+    description: 'This user is a Diamond Dog! (My Little Pony)'
