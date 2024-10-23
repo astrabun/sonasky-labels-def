@@ -6519,3 +6519,8 @@ microchimera:
   - lang: en
     name: Microchimera
     description: 'This user is a Microchimera! [Tags: open-species] by Micromera'
+sodaroo:
+  locales:
+  - lang: en
+    name: Sodaroo
+    description: 'This user is a Sodaroo!'
