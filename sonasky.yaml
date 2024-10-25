@@ -3061,116 +3061,116 @@ bat-pony:
   - lang: pt-BR
     name: Pônei Morcego
     description: Este usuário é um Pônei Morcego!
-sandwing:
-  category:
-    en: Wings of Fire
-    pt-BR: Wings of Fire
-  locales:
-  - lang: en
-    name: Sandwing
-    description: This user is a Sandwing! Pyrrhian Dragon Tribes
-  - lang: pt-BR
-    name: Sandwing
-    description: Este usuário é um Sandwing! Pyrrhian Dragon Tribes
-icewing:
-  category:
-    en: Wings of Fire
-    pt-BR: Wings of Fire
-  locales:
-  - lang: en
-    name: Icewing
-    description: This user is an Icewing! Pyrrhian Dragon Tribes
-  - lang: pt-BR
-    name: Icewing
-    description: Este usuário é um Icewing! Pyrrhian Dragon Tribes
-rainwing:
-  category:
-    en: Wings of Fire
-    pt-BR: Wings of Fire
-  locales:
-  - lang: en
-    name: Rainwing
-    description: This user is a Rainwing! Pyrrhian Dragon Tribes
-  - lang: pt-BR
-    name: Rainwing
-    description: Este usuário é um Rainwing! Pyrrhian Dragon Tribes
-nightwing:
-  category:
-    en: Wings of Fire
-    pt-BR: Wings of Fire
-  locales:
-  - lang: en
-    name: Nightwing
-    description: This user is a Nightwing! Pyrrhian Dragon Tribes
-  - lang: pt-BR
-    name: Nightwing
-    description: Este usuário é um Nightwing! Pyrrhian Dragon Tribes
-mudwing:
-  category:
-    en: Wings of Fire
-    pt-BR: Wings of Fire
-  locales:
-  - lang: en
-    name: Mudwing
-    description: This user is a Mudwing! Pyrrhian Dragon Tribes
-  - lang: pt-BR
-    name: Mudwing
-    description: Este usuário é um Mudwing! Pyrrhian Dragon Tribes
-skywing:
-  category:
-    en: Wings of Fire
-    pt-BR: Wings of Fire
-  locales:
-  - lang: en
-    name: Skywing
-    description: This user is a Skywing! Pyrrhian Dragon Tribes
-  - lang: pt-BR
-    name: Skywing
-    description: Este usuário é um Skywing! Pyrrhian Dragon Tribes
-seawing:
-  category:
-    en: Wings of Fire
-    pt-BR: Wings of Fire
-  locales:
-  - lang: en
-    name: Seawing
-    description: This user is a Seawing! Pyrrhian Dragon Tribes
-  - lang: pt-BR
-    name: Seawing
-    description: Este usuário é um Seawing! Pyrrhian Dragon Tribes
-silkwing:
-  category:
-    en: Wings of Fire
-    pt-BR: Wings of Fire
-  locales:
-  - lang: en
-    name: Silkwing
-    description: This user is a Silkwing! Pantalan Dragon Tribes
-  - lang: pt-BR
-    name: Silkwing
-    description: Este usuário é um Silkwing! Pantalan Dragon Tribes
-hivewing:
-  category:
-    en: Wings of Fire
-    pt-BR: Wings of Fire
-  locales:
-  - lang: en
-    name: Hivewing
-    description: This user is a Hivewing! Pantalan Dragon Tribes
-  - lang: pt-BR
-    name: Hivewing
-    description: Este usuário é um Hivewing! Pantalan Dragon Tribes
-leafwing:
-  category:
-    en: Wings of Fire
-    pt-BR: Wings of Fire
-  locales:
-  - lang: en
-    name: Leafwing
-    description: This user is a Leafwing! Pantalan Dragon Tribes
-  - lang: pt-BR
-    name: Leafwing
-    description: Este usuário é um Leafwing! Pantalan Dragon Tribes
+# sandwing:
+#   category:
+#     en: Wings of Fire
+#     pt-BR: Wings of Fire
+#   locales:
+#   - lang: en
+#     name: Sandwing
+#     description: This user is a Sandwing! Pyrrhian Dragon Tribes
+#   - lang: pt-BR
+#     name: Sandwing
+#     description: Este usuário é um Sandwing! Pyrrhian Dragon Tribes
+# icewing:
+#   category:
+#     en: Wings of Fire
+#     pt-BR: Wings of Fire
+#   locales:
+#   - lang: en
+#     name: Icewing
+#     description: This user is an Icewing! Pyrrhian Dragon Tribes
+#   - lang: pt-BR
+#     name: Icewing
+#     description: Este usuário é um Icewing! Pyrrhian Dragon Tribes
+# rainwing:
+#   category:
+#     en: Wings of Fire
+#     pt-BR: Wings of Fire
+#   locales:
+#   - lang: en
+#     name: Rainwing
+#     description: This user is a Rainwing! Pyrrhian Dragon Tribes
+#   - lang: pt-BR
+#     name: Rainwing
+#     description: Este usuário é um Rainwing! Pyrrhian Dragon Tribes
+# nightwing:
+#   category:
+#     en: Wings of Fire
+#     pt-BR: Wings of Fire
+#   locales:
+#   - lang: en
+#     name: Nightwing
+#     description: This user is a Nightwing! Pyrrhian Dragon Tribes
+#   - lang: pt-BR
+#     name: Nightwing
+#     description: Este usuário é um Nightwing! Pyrrhian Dragon Tribes
+# mudwing:
+#   category:
+#     en: Wings of Fire
+#     pt-BR: Wings of Fire
+#   locales:
+#   - lang: en
+#     name: Mudwing
+#     description: This user is a Mudwing! Pyrrhian Dragon Tribes
+#   - lang: pt-BR
+#     name: Mudwing
+#     description: Este usuário é um Mudwing! Pyrrhian Dragon Tribes
+# skywing:
+#   category:
+#     en: Wings of Fire
+#     pt-BR: Wings of Fire
+#   locales:
+#   - lang: en
+#     name: Skywing
+#     description: This user is a Skywing! Pyrrhian Dragon Tribes
+#   - lang: pt-BR
+#     name: Skywing
+#     description: Este usuário é um Skywing! Pyrrhian Dragon Tribes
+# seawing:
+#   category:
+#     en: Wings of Fire
+#     pt-BR: Wings of Fire
+#   locales:
+#   - lang: en
+#     name: Seawing
+#     description: This user is a Seawing! Pyrrhian Dragon Tribes
+#   - lang: pt-BR
+#     name: Seawing
+#     description: Este usuário é um Seawing! Pyrrhian Dragon Tribes
+# silkwing:
+#   category:
+#     en: Wings of Fire
+#     pt-BR: Wings of Fire
+#   locales:
+#   - lang: en
+#     name: Silkwing
+#     description: This user is a Silkwing! Pantalan Dragon Tribes
+#   - lang: pt-BR
+#     name: Silkwing
+#     description: Este usuário é um Silkwing! Pantalan Dragon Tribes
+# hivewing:
+#   category:
+#     en: Wings of Fire
+#     pt-BR: Wings of Fire
+#   locales:
+#   - lang: en
+#     name: Hivewing
+#     description: This user is a Hivewing! Pantalan Dragon Tribes
+#   - lang: pt-BR
+#     name: Hivewing
+#     description: Este usuário é um Hivewing! Pantalan Dragon Tribes
+# leafwing:
+#   category:
+#     en: Wings of Fire
+#     pt-BR: Wings of Fire
+#   locales:
+#   - lang: en
+#     name: Leafwing
+#     description: This user is a Leafwing! Pantalan Dragon Tribes
+#   - lang: pt-BR
+#     name: Leafwing
+#     description: Este usuário é um Leafwing! Pantalan Dragon Tribes
 dobermann:
   locales:
   - lang: en
