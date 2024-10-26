@@ -15,8 +15,8 @@ async function main() {
       appLabelers: [process.env[`${realm.toUpperCase()}_OZONE_SERVICE_USER_DID`] ?? ""],
     });
     await agent.login({
-      identifier: process.env[`${realm.toUpperCase()}_BSKY_USER`] as string,
-      password: process.env[`${realm.toUpperCase()}_BSKY_PASS`] as string,
+      identifier: (process.env[`${realm.toUpperCase()}_BSKY_USER`] as string).toString(),
+      password: (process.env[`${realm.toUpperCase()}_BSKY_PASS`] as string).toString(),
     });
 
     const uploadLocalizationLabels = async () => {
