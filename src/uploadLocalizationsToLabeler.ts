@@ -6,17 +6,17 @@ async function main() {
   const realms = generateRealmsOptions();
   realms.forEach(async (realm: string) => {
     const defs = generateBskyDefsEnglish(realm);
-    const ozone_service_user_did = process.env[`${realm.toUpperCase()}__OZONE_SERVICE_USER_DID`] as string;
+    const ozone_service_user_did = process.env[`${realm.toUpperCase()}_OZONE_SERVICE_USER_DID`] as string;
     const agent = new BskyAgent({
       service: "https://bsky.social",
     });
 
     BskyAgent.configure({
-      appLabelers: [process.env[`${realm.toUpperCase()}__OZONE_SERVICE_USER_DID`] ?? ""],
+      appLabelers: [process.env[`${realm.toUpperCase()}_OZONE_SERVICE_USER_DID`] ?? ""],
     });
     await agent.login({
-      identifier: process.env[`${realm.toUpperCase()}__BSKY_USER`] as string,
-      password: process.env[`${realm.toUpperCase()}__BSKY_PASS`] as string,
+      identifier: process.env[`${realm.toUpperCase()}_BSKY_USER`] as string,
+      password: process.env[`${realm.toUpperCase()}_BSKY_PASS`] as string,
     });
 
     const uploadLocalizationLabels = async () => {
