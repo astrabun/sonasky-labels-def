@@ -9,9 +9,12 @@ jobs:
     # runs-on: self-hosted
     runs-on: ubuntu-latest
     env:
-      OZONE_SERVICE_USER_DID: ${{ secrets.OZONE_SERVICE_USER_DID }}
-      BSKY_USER: ${{ secrets.BSKY_USER }}
-      BSKY_PASS: ${{ secrets.BSKY_PASS }}
+      PRIME_OZONE_SERVICE_USER_DID: ${{ secrets.PRIME_OZONE_SERVICE_USER_DID }}
+      PRIME_BSKY_USER: ${{ secrets.PRIME_BSKY_USER }}
+      PRIME_BSKY_PASS: ${{ secrets.PRIME_BSKY_PASS }}
+      POKEMON_OZONE_SERVICE_USER_DID: ${{ secrets.POKEMON_OZONE_SERVICE_USER_DID }}
+      POKEMON_BSKY_USER: ${{ secrets.POKEMON_BSKY_USER }}
+      POKEMON_BSKY_PASS: ${{ secrets.POKEMON_BSKY_PASS }}
     steps:
     - uses: actions/checkout@v4
     - name: Use Node.js 22.x
