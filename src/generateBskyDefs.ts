@@ -1,14 +1,17 @@
 import * as fs from "fs";
 import YAML from 'yaml'
 
-export const generateBskyDefs = (englishOnly?: boolean) => {
+const DEFAULT_REALM = "prime";
+
+export const generateBskyDefs = (realm?: string, englishOnly?: boolean) => {
+    const useRealm = realm || DEFAULT_REALM;
     let onDiskDefs = YAML.parse(
         fs.readFileSync(
             `./sonasky.yaml`,
             "utf8"
         )
     )
-    let labelValues = Object.keys(onDiskDefs);
+    let labelValues = Object.keys(onDiskDefs).filter(i => onDiskDefs[i].realm === useRealm);
     let labelValueDefinitions = labelValues.map((id) => ({
         "blurs": "none",
         "locales": englishOnly === true ? onDiskDefs[id].locales.filter((i: { lang: string; }) => i.lang == "en") : onDiskDefs[id].locales,
@@ -30,8 +33,8 @@ export const generateBskyDefs = (englishOnly?: boolean) => {
     }
 }
 
-export const generateBskyDefsEnglish = () => {
-    return generateBskyDefs(true)
+export const generateBskyDefsEnglish = (realm?: string) => {
+    return generateBskyDefs(realm || DEFAULT_REALM, true)
 }
 
 generateBskyDefsEnglish()

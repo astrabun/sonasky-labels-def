@@ -1,5 +1,6 @@
 # COMMENTED OUT = planned on adding but then I hit the max data size again :/
 rabbit:
+  realm: prime
   locales:
   - lang: en
     name: Rabbit
@@ -8,6 +9,7 @@ rabbit:
     name: Coelha/Coelho
     description: 'Este usuário é um Coelho! AKA: Coelho, Coelinho.'
 fox:
+  realm: prime
   locales:
   - lang: en
     name: Fox
@@ -16,6 +18,7 @@ fox:
     name: Raposa
     description: 'Este usuário é uma Raposa! AKA: Raposo, Raposa, Raposinho, Raposinha.'
 red-panda:
+  realm: prime
   locales:
   - lang: en
     name: Red Panda
@@ -24,6 +27,7 @@ red-panda:
     name: Panda Vermelho
     description: 'Este usuário é um Panda vermelho! AKA: wawawa'
 deer:
+  realm: prime
   locales:
   - lang: en
     name: Deer
@@ -32,6 +36,9 @@ deer:
     name: Veado
     description: Este usuário é um Veado!
 pokemon:
+  realm: prime
+  category:
+    en: Pokemon
   locales:
   - lang: en
     name: Pokemon
@@ -40,6 +47,7 @@ pokemon:
     name: Pokémon
     description: Este usuário é um Pokémon! Qualquer tipo!
 dog:
+  realm: prime
   locales:
   - lang: en
     name: Dog
@@ -48,6 +56,7 @@ dog:
     name: Cachorro
     description: 'Este usuário é um Cachorro! AKA: Cachorrinho, Doguinho.'
 dragon:
+  realm: prime
   locales:
   - lang: en
     name: Dragon
@@ -56,6 +65,7 @@ dragon:
     name: Dragão
     description: Este usuário é um Dragão!
 skunk:
+  realm: prime
   locales:
   - lang: en
     name: Skunk
@@ -64,6 +74,7 @@ skunk:
     name: Gambá
     description: 'Este usuário é um Gambá! '
 hyena:
+  realm: prime
   locales:
   - lang: en
     name: Hyena
@@ -72,6 +83,7 @@ hyena:
     name: Hiena
     description: Este usuário é uma Hiena!
 horse:
+  realm: prime
   locales:
   - lang: en
     name: Horse
@@ -80,6 +92,7 @@ horse:
     name: Cavalo
     description: Este usuário é um Cavalo!
 bear:
+  realm: prime
   locales:
   - lang: en
     name: Bear
@@ -88,6 +101,7 @@ bear:
     name: Urso
     description: Este usuário é um Urso! Qualquer tipo de urso!
 otter:
+  realm: prime
   locales:
   - lang: en
     name: Otter
@@ -96,6 +110,7 @@ otter:
     name: Lontra
     description: 'Este usuário é uma Lontra! AKA: Leão-marinho.'
 bird:
+  realm: prime
   locales:
   - lang: en
     name: Bird
@@ -104,6 +119,7 @@ bird:
     name: Pássaro
     description: 'Este usuário é um Pássaro! AKA: Piriquito, Piu.'
 raccoon:
+  realm: prime
   locales:
   - lang: en
     name: Raccoon
@@ -112,6 +128,7 @@ raccoon:
     name: Guaxinim
     description: 'Este usuário é um Guaxinim! AKA: Guaxo'
 mouse:
+  realm: prime
   locales:
   - lang: en
     name: Mouse
@@ -120,6 +137,7 @@ mouse:
     name: Roedor
     description: 'Este usuário é um Roedor! AKA: Rato.'
 rat:
+  realm: prime
   locales:
   - lang: en
     name: Rat
@@ -128,6 +146,7 @@ rat:
     name: Rato
     description: Este usuário é um Rato!
 cat:
+  realm: prime
   locales:
   - lang: en
     name: Cat
@@ -136,6 +155,7 @@ cat:
     name: Gato
     description: 'Este usuário é um Gato! AKA: Gatinho.'
 big-cat:
+  realm: prime
   locales:
   - lang: en
     name: Big Cat
@@ -144,6 +164,7 @@ big-cat:
     name: Gato Grande
     description: 'Este usuário é um Gato Grande! AKA: Gatão, Onças'
 wolf:
+  realm: prime
   locales:
   - lang: en
     name: Wolf
@@ -152,6 +173,7 @@ wolf:
     name: Lobo
     description: 'Este usuário é um Lobo! AKA: Lobão, Lobinho.'
 hybrid:
+  realm: prime
   locales:
   - lang: en
     name: Hybrid
@@ -160,6 +182,7 @@ hybrid:
     name: Híbrido
     description: Este usuário é um Híbrido!
 protogen:
+  realm: prime
   locales:
   - lang: en
     name: Protogen
@@ -168,6 +191,7 @@ protogen:
     name: Protogen
     description: 'Este usuário é um Protogen! AKA: Torradeira.'
 kanvi:
+  realm: prime
   locales:
   - lang: en
     name: Kan'vi
@@ -176,6 +200,7 @@ kanvi:
     name: Kan'vi
     description: 'Este usuário é um Kan''vi! https://kanvi.carrd.co/ [Tags: livre-espécie]'
 taur:
+  realm: prime
   locales:
   - lang: en
     name: Taur
@@ -184,6 +209,7 @@ taur:
     name: Touro
     description: Este usuário é um Touro! (Verifique as outras tags para o tipo.)
 snake:
+  realm: prime
   category:
     en: Snake
     pt-BR: Cobra
@@ -195,6 +221,7 @@ snake:
     name: Cobra
     description: Este usuário é uma Cobra!
 shark:
+  realm: prime
   locales:
   - lang: en
     name: Shark
@@ -203,6 +230,7 @@ shark:
     name: Tubarão
     description: 'Este usuário é um Tubarão! AKA: Tubas.'
 sergal:
+  realm: prime
   locales:
   - lang: en
     name: Sergal
@@ -211,6 +239,7 @@ sergal:
     name: Sergal
     description: Este usuário é um Sergal!
 orca:
+  realm: prime
   locales:
   - lang: en
     name: Orca
@@ -219,6 +248,7 @@ orca:
     name: Orca
     description: Este usuário é uma Orca!
 seal:
+  realm: prime
   locales:
   - lang: en
     name: Seal
@@ -227,6 +257,7 @@ seal:
     name: Foca
     description: 'Este usuário é uma Foca! AKA: Foca-Marinha.'
 tiger:
+  realm: prime
   locales:
   - lang: en
     name: Tiger
@@ -235,6 +266,7 @@ tiger:
     name: Tigre
     description: Este usuário é um Tigre!
 chameleon:
+  realm: prime
   locales:
   - lang: en
     name: Chameleon
@@ -243,6 +275,7 @@ chameleon:
     name: Camaleão
     description: Este usuário é um Camaleão!
 capybara:
+  realm: prime
   locales:
   - lang: en
     name: Capybara
@@ -251,6 +284,7 @@ capybara:
     name: Capivara
     description: 'Este usuário é uma Capivara! AKA: Capi.'
 jackal:
+  realm: prime
   locales:
   - lang: en
     name: Jackal
@@ -259,6 +293,7 @@ jackal:
     name: Chacal
     description: 'Este usuário é um Chacal! AKA: Lacaio.'
 yinglet:
+  realm: prime
   locales:
   - lang: en
     name: Yinglet
@@ -267,6 +302,7 @@ yinglet:
     name: Yinglet
     description: Este usuário é um Yinglet! https://en.wikifur.com/wiki/Out-of-Placers
 kangaroo:
+  realm: prime
   locales:
   - lang: en
     name: Kangaroo
@@ -275,6 +311,7 @@ kangaroo:
     name: Canguru
     description: Este usuário é um Canguru!
 coyote:
+  realm: prime
   locales:
   - lang: en
     name: Coyote
@@ -283,6 +320,7 @@ coyote:
     name: Coiote
     description: 'Este usuário é um Coiote! AKA: Lobo da América.'
 squirrel:
+  realm: prime
   locales:
   - lang: en
     name: Squirrel
@@ -291,6 +329,7 @@ squirrel:
     name: Esquilo
     description: 'Este usuário é um Esquilo! AKA: Roedor.'
 cheetah:
+  realm: prime
   locales:
   - lang: en
     name: Cheetah
@@ -299,6 +338,7 @@ cheetah:
     name: Leopardo
     description: 'Este usuário é um Leopardo! AKA: Pantera, Chita.'
 snow-leopard:
+  realm: prime
   locales:
   - lang: en
     name: Snow Leopard
@@ -307,6 +347,7 @@ snow-leopard:
     name: Leopardo da neve
     description: Este usuário é um Leopardo da Neve!
 possum:
+  realm: prime
   locales:
   - lang: en
     name: Possum
@@ -317,6 +358,7 @@ possum:
     description: 'Este usuário é um Possum! (Alternativos: Diferente do outro nomeado
       de "Opossum" e derivados.)'
 bat:
+  realm: prime
   locales:
   - lang: en
     name: Bat
@@ -325,6 +367,7 @@ bat:
     name: Morcego
     description: Este usuário é um Morcego!
 mustelid:
+  realm: prime
   category:
     en: Mustelid
     pt-BR: Mustelídeo
@@ -336,6 +379,7 @@ mustelid:
     name: Texugo
     description: 'Este usuário é um Téxugo!AKA: Lontras, Doninhas, Furões e derivados.'
 marten:
+  realm: prime
   category:
     en: Mustelid
     pt-BR: Mustelídeo
@@ -347,6 +391,7 @@ marten:
     name: Marto
     description: Este usuário é um Marto!
 ferret:
+  realm: prime
   category:
     en: Mustelid
     pt-BR: Mustelídeo
@@ -358,6 +403,7 @@ ferret:
     name: Furão
     description: Este usuário é um Furão!
 weasel:
+  realm: prime
   locales:
   - lang: en
     name: Weasel
@@ -366,6 +412,7 @@ weasel:
     name: Furão
     description: 'Este usuário é um Furão! AKA: Furãozinho, Lontra.'
 stoat:
+  realm: prime
   category:
     en: Mustelid
     pt-BR: Mustelídeo
@@ -377,6 +424,7 @@ stoat:
     name: Arminho
     description: 'Este usuário é um Arminho! AKA: Furão.'
 unicorn:
+  realm: prime
   locales:
   - lang: en
     name: Unicorn
@@ -385,6 +433,7 @@ unicorn:
     name: Unicórnio
     description: 'Este usuário é um Unicórnio! AKA: Cavalo.'
 crocodile:
+  realm: prime
   locales:
   - lang: en
     name: Crocodile
@@ -393,6 +442,7 @@ crocodile:
     name: Crocodilo
     description: 'Este usuário é um Crocodilo! AKA: Lodilo.'
 alligator:
+  realm: prime
   locales:
   - lang: en
     name: Alligator
@@ -401,6 +451,7 @@ alligator:
     name: Jacaré
     description: 'Este usuário é um Jacaré! AKA: Jaré.'
 alpaca:
+  realm: prime
   locales:
   - lang: en
     name: Alpaca
@@ -409,6 +460,7 @@ alpaca:
     name: Alpaca
     description: 'Este usuário é uma Alpaca! AKA: Llama.'
 llama:
+  realm: prime
   locales:
   - lang: en
     name: Llama
@@ -417,6 +469,7 @@ llama:
     name: Llama
     description: 'Este usuário é uma Llama! AKA: Alpaca, Lama.'
 goat:
+  realm: prime
   locales:
   - lang: en
     name: Goat
@@ -425,6 +478,7 @@ goat:
     name: Cabra
     description: 'Este usuário é uma Cabra! AKA: Cabrito, Bode.'
 phoenix:
+  realm: prime
   locales:
   - lang: en
     name: Phoenix
@@ -433,6 +487,7 @@ phoenix:
     name: Fênix
     description: Este usuário é uma Fẽnix!
 eel:
+  realm: prime
   locales:
   - lang: en
     name: Eel
@@ -441,6 +496,7 @@ eel:
     name: Enguia
     description: Este usuário é uma Enguia!
 fish:
+  realm: prime
   locales:
   - lang: en
     name: Fish
@@ -449,6 +505,7 @@ fish:
     name: Peixe
     description: 'Este usuário é um Peixe! AKA: Peixinho'
 plane-dragon:
+  realm: prime
   locales:
   - lang: en
     name: Plane Dragon
@@ -457,6 +514,7 @@ plane-dragon:
     name: Dragão Nave
     description: Este usuário é um Dragão Nave!
 lizard:
+  realm: prime
   locales:
   - lang: en
     name: Lizard
@@ -465,6 +523,7 @@ lizard:
     name: Lagarto
     description: 'Este usuário é um Lagarto! AKA: Lagartixa, Camaleão.'
 manokit:
+  realm: prime
   locales:
   - lang: en
     name: Manokit
@@ -473,6 +532,7 @@ manokit:
     name: Manokit
     description: Este usuário é um Manokit!
 gryphon:
+  realm: prime
   locales:
   - lang: en
     name: Gryphon
@@ -481,6 +541,7 @@ gryphon:
     name: Grifo
     description: Este usuário é um Grifo!
 wolverine:
+  realm: prime
   locales:
   - lang: en
     name: Wolverine
@@ -489,6 +550,7 @@ wolverine:
     name: Carcaju
     description: 'Este usuário é um Carcajo! AKA: Lobão, Wolverine.'
 lynx:
+  realm: prime
   locales:
   - lang: en
     name: Lynx
@@ -497,6 +559,7 @@ lynx:
     name: Lince
     description: 'Este usuário é um Lince! AKA: Gato, Lobo-cerval.'
 werewolf:
+  realm: prime
   locales:
   - lang: en
     name: Werewolf
@@ -505,6 +568,7 @@ werewolf:
     name: Lobisomen
     description: Este usuário é um Lobisomen!
 coywolf:
+  realm: prime
   locales:
   - lang: en
     name: Coywolf
@@ -513,6 +577,7 @@ coywolf:
     name: Coiote
     description: 'Este usuário é um Coiote! AKA: Lobo.'
 boar:
+  realm: prime
   locales:
   - lang: en
     name: Boar
@@ -521,6 +586,7 @@ boar:
     name: Javali
     description: 'Este usuário é um Javali! AKA: Varão.'
 kobold:
+  realm: prime
   locales:
   - lang: en
     name: Kobold
@@ -529,6 +595,7 @@ kobold:
     name: Kobold
     description: Este usuário é um Kobold!
 cryptid:
+  realm: prime
   locales:
   - lang: en
     name: Cryptid
@@ -537,6 +604,7 @@ cryptid:
     name: Cryptid
     description: 'Este usuário é um Cryptid! AKA: Híbrido.'
 mythical-creature:
+  realm: prime
   locales:
   - lang: en
     name: Mythical Creature
@@ -545,6 +613,7 @@ mythical-creature:
     name: Criatura Mítica
     description: Este usuário é uma Criatura Mítica!
 eldritch-creature:
+  realm: prime
   locales:
   - lang: en
     name: Eldritch Creature
@@ -553,6 +622,7 @@ eldritch-creature:
     name: Criatura Sobrenatural
     description: 'Este usuário é uma Criatura Sobrenatural! AKA: Eldricth, Mítico.'
 puma:
+  realm: prime
   locales:
   - lang: en
     name: Puma
@@ -561,6 +631,7 @@ puma:
     name: Puma
     description: 'Este usuário é uma Puma! AKA: Onça-parda.'
 tanuki:
+  realm: prime
   locales:
   - lang: en
     name: Tanuki
@@ -569,6 +640,7 @@ tanuki:
     name: Tanuki
     description: 'Este usuário é um Tanuki! AKA: Guaxinim.'
 bovine:
+  realm: prime
   locales:
   - lang: en
     name: Bovine
@@ -577,6 +649,7 @@ bovine:
     name: Bovino
     description: Este usuário é um Bovino!
 red-wolf:
+  realm: prime
   locales:
   - lang: en
     name: Red Wolf
@@ -585,6 +658,7 @@ red-wolf:
     name: Lobo Cinzento
     description: 'Este usuário é um Lobo Cinzento! AKA: Lobo.'
 fennec-fox:
+  realm: prime
   locales:
   - lang: en
     name: Fennec Fox
@@ -593,6 +667,7 @@ fennec-fox:
     name: Raposa Feneco
     description: 'Este usuário é uma Raposa Feneco! AKA: Raposa.'
 saber:
+  realm: prime
   locales:
   - lang: en
     name: Saber
@@ -601,6 +676,7 @@ saber:
     name: Saber
     description: Este usuário é um Saber!
 saber-toothed-cat:
+  realm: prime
   locales:
   - lang: en
     name: Saber-Toothed Cat
@@ -609,6 +685,7 @@ saber-toothed-cat:
     name: Smilodon
     description: 'Este usuário é um Smilodon! AKA: Tigre-dente-de-sabre.'
 donkey:
+  realm: prime
   locales:
   - lang: en
     name: Donkey
@@ -617,6 +694,7 @@ donkey:
     name: Burro
     description: Este usuário é um Burro! Não literalmente.
 leopard:
+  realm: prime
   locales:
   - lang: en
     name: Leopard
@@ -625,6 +703,7 @@ leopard:
     name: Leopardo
     description: 'Este usuário é um Leopardo! AKA: Pantera, Leão.'
 chakat:
+  realm: prime
   locales:
   - lang: en
     name: Chakat
@@ -633,6 +712,7 @@ chakat:
     name: Chakat
     description: 'Este usuário é um Chakat! AKA: Pantera, Onça.'
 hedgehog:
+  realm: prime
   locales:
   - lang: en
     name: Hedgehog
@@ -641,6 +721,7 @@ hedgehog:
     name: Ouriço
     description: 'Este usuário é um Ouriço! AKA: Roedor, Gandú.'
 monster-dog:
+  realm: prime
   locales:
   - lang: en
     name: Monster Dog
@@ -649,6 +730,7 @@ monster-dog:
     name: Dog Monstro
     description: 'Este usuário é um Dog Monstro! AKA: Híbrido, Cachorro.'
 pooltoy:
+  realm: prime
   locales:
   - lang: en
     name: Pooltoy
@@ -657,6 +739,7 @@ pooltoy:
     name: Pooltoy
     description: 'Este usuário é um tipo de Pooltoy! AKA: Borracha, Piscina.'
 dolphin:
+  realm: prime
   locales:
   - lang: en
     name: Dolphin
@@ -665,6 +748,7 @@ dolphin:
     name: Golfinho
     description: Este usuário é um Golfinho!
 dinosaur:
+  realm: prime
   locales:
   - lang: en
     name: Dinosaur
@@ -673,6 +757,7 @@ dinosaur:
     name: Dinossauro
     description: Este usuário é um DInossauro! Rawr!
 deathclaw:
+  realm: prime
   locales:
   - lang: en
     name: Deathclaw
@@ -681,6 +766,7 @@ deathclaw:
     name: Deathclaw
     description: 'Este usuário é um Deathclaw! AKA: Dragão'
 lion:
+  realm: prime
   locales:
   - lang: en
     name: Lion
@@ -689,6 +775,7 @@ lion:
     name: Leão
     description: 'Este usuário é um Leão! AKA: Gato.'
 reptile:
+  realm: prime
   locales:
   - lang: en
     name: Reptile
@@ -697,6 +784,7 @@ reptile:
     name: Réptil
     description: Este usuário é um Réptil!
 unknown:
+  realm: prime
   locales:
   - lang: en
     name: 404 Fursona Not Found
@@ -706,6 +794,7 @@ unknown:
     name: 404 Usuário não achado
     description: Este usuário é.. não descoberto ainda! Ainda tentando desvendar.
 species-fluid:
+  realm: prime
   locales:
   - lang: en
     name: Species Fluid
@@ -714,6 +803,7 @@ species-fluid:
     name: Espécie Líquida
     description: Este usuário é ser que transforma muito!
 snail:
+  realm: prime
   locales:
   - lang: en
     name: Snail
@@ -722,6 +812,7 @@ snail:
     name: Lesma
     description: 'Este usuário é uma Lesma! AKA: Caracol.'
 insect:
+  realm: prime
   locales:
   - lang: en
     name: Insect
@@ -730,6 +821,7 @@ insect:
     name: Inseto
     description: Este usuário é um Inseto! Bzzzz!
 avali:
+  realm: prime
   locales:
   - lang: en
     name: Avali
@@ -738,6 +830,7 @@ avali:
     name: Avali
     description: Este usuário é um Avali! https://en.wikifur.com/wiki/Avali
 alien:
+  realm: prime
   locales:
   - lang: en
     name: Alien
@@ -746,6 +839,7 @@ alien:
     name: Alien
     description: Este usuário é um Alien!
 dingo:
+  realm: prime
   locales:
   - lang: en
     name: Dingo
@@ -754,6 +848,7 @@ dingo:
     name: Dingo
     description: 'Este usuário é um Dingo! AKA: Cachorro, Lobo.'
 coastal-wolf:
+  realm: prime
   locales:
   - lang: en
     name: Coastal Wolf
@@ -762,6 +857,7 @@ coastal-wolf:
     name: Lobo Costeiro
     description: Este usuário é um Lobo Costeiro! https://en.wikipedia.org/wiki/Vancouver_Coastal_Sea_wolf
 maned-wolf:
+  realm: prime
   locales:
   - lang: en
     name: Maned Wolf
@@ -770,6 +866,7 @@ maned-wolf:
     name: Lobo-Guará
     description: 'Este usuário é um Lobo-Guará! AKA: Lobo.'
 jackalope:
+  realm: prime
   locales:
   - lang: en
     name: Jackalope
@@ -778,6 +875,7 @@ jackalope:
     name: Lebrípole
     description: 'Este usuário é um Lebrípole! AKA: Coelho, Cervo, Jackalope.'
 shiba-inu:
+  realm: prime
   locales:
   - lang: en
     name: Shiba Inu
@@ -786,6 +884,7 @@ shiba-inu:
     name: Shiba Inu
     description: Este usuário é um Shiba! Au au!
 shikoku-inu:
+  realm: prime
   locales:
   - lang: en
     name: Shikoku Inu
@@ -794,6 +893,7 @@ shikoku-inu:
     name: Shikoku Inu
     description: 'Este usuário é um Shikoku Inu! AKA: Cachorro.'
 vampire:
+  realm: prime
   locales:
   - lang: en
     name: Vampire
@@ -802,6 +902,7 @@ vampire:
     name: Vampiro
     description: Este usuário é um Vampiro!
 supernatural-creature:
+  realm: prime
   locales:
   - lang: en
     name: Supernatural Creature
@@ -810,6 +911,7 @@ supernatural-creature:
     name: Criatura Sobrenatural
     description: Este usuário é uma Criatura Sobrenatural!
 yokai:
+  realm: prime
   locales:
   - lang: en
     name: Yokai
@@ -818,6 +920,7 @@ yokai:
     name: Youkai
     description: 'Este usuário é um Yokai! AKA: Criatura Mágica, Kitsune.'
 hellhound:
+  realm: prime
   locales:
   - lang: en
     name: Hellhound
@@ -826,6 +929,7 @@ hellhound:
     name: Hellhound
     description: 'Este usuário é um Cérbero! AKA: Cérbero, Cachorro'
 demon:
+  realm: prime
   locales:
   - lang: en
     name: Demon
@@ -834,6 +938,7 @@ demon:
     name: Demônio
     description: Este usuário é um Demônio!
 salamander:
+  realm: prime
   locales:
   - lang: en
     name: Salamander
@@ -842,6 +947,7 @@ salamander:
     name: Salamandra
     description: Este usuário é uma Salamandra!
 neopet:
+  realm: prime
   category:
     en: Neopet
     pt-BR: Neopet
@@ -853,6 +959,7 @@ neopet:
     name: Neopet
     description: Este usuário é um mascote Neopet!
 crux:
+  realm: prime
   locales:
   - lang: en
     name: Crux
@@ -861,6 +968,7 @@ crux:
     name: Crux
     description: Este usuário é um Crux!
 raptor:
+  realm: prime
   category:
     en: Dinosaur
     pt-BR: Dinossauro
@@ -872,6 +980,7 @@ raptor:
     name: Velociraptor
     description: Este usuário é um Velociraptor!
 shapeshifter:
+  realm: prime
   locales:
   - lang: en
     name: Shapeshifter
@@ -880,6 +989,7 @@ shapeshifter:
     name: Metamorfo
     description: Este usuário é um Metamorfo!
 axolotl:
+  realm: prime
   locales:
   - lang: en
     name: Axolotl
@@ -888,6 +998,7 @@ axolotl:
     name: Axolote
     description: Este usuário é um Axolote
 eagle:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -899,6 +1010,7 @@ eagle:
     name: Águia
     description: Este usuário é uma Águia!
 falcon:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -910,6 +1022,7 @@ falcon:
     name: Falcão
     description: Este usuário é um Falcão!
 chicken:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -921,6 +1034,7 @@ chicken:
     name: Galinha
     description: Este usuário é uma Galinha! có-có-có!
 duck:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -932,6 +1046,7 @@ duck:
     name: Pato
     description: Este usuário é uma Pato! quac-quac!
 parrot:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -943,6 +1058,7 @@ parrot:
     name: Papagaio
     description: Este usuário é um Papagaio!
 crow:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -954,6 +1070,7 @@ crow:
     name: Corvo
     description: Este usuário é um Corvo!
 raven:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -965,6 +1082,7 @@ raven:
     name: Corvo
     description: Este usuário é um Corvo!
 blue-jay:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -976,6 +1094,7 @@ blue-jay:
     name: Gaio-azul
     description: Este usuário é um Gaio-azul!
 goose:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -987,6 +1106,7 @@ goose:
     name: Ganso
     description: Este usuário é um Ganso! quá quá!
 swan:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -998,6 +1118,7 @@ swan:
     name: Cisne
     description: Este usuário é um Cisne!
 penguin:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -1009,6 +1130,7 @@ penguin:
     name: Pinguim
     description: Este usuário é um Pinguim!
 pigeon:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -1020,6 +1142,7 @@ pigeon:
     name: Pombo
     description: Este usuário é um Pombo! prú prú
 dove:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -1031,6 +1154,7 @@ dove:
     name: Pombo
     description: Este usuário é um Pombo! prú prú
 cardinal:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -1042,6 +1166,7 @@ cardinal:
     name: 'Cardeal '
     description: Este usuário é um Cardeal!
 robin:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -1053,6 +1178,7 @@ robin:
     name: Pisco
     description: Este usuário é um Pisco-de-peito-ruivo!
 gecko:
+  realm: prime
   locales:
   - lang: en
     name: Gecko
@@ -1061,6 +1187,7 @@ gecko:
     name: 'Gecko '
     description: Este usuário é um Gecko!
 quox:
+  realm: prime
   locales:
   - lang: en
     name: Quox
@@ -1069,6 +1196,7 @@ quox:
     name: 'Quox '
     description: Este usuário é um Quox! https://breezewiki.com/towerofdruaga/wiki/Quox
 chimera:
+  realm: prime
   locales:
   - lang: en
     name: Chimera
@@ -1077,6 +1205,7 @@ chimera:
     name: 'Quimera '
     description: Este usuário é uma Quimera!
 kitsune:
+  realm: prime
   locales:
   - lang: en
     name: Kitsune
@@ -1085,6 +1214,7 @@ kitsune:
     name: 'Kitsune '
     description: Este usuário é um Kitsune!
 sheep:
+  realm: prime
   locales:
   - lang: en
     name: Sheep
@@ -1093,6 +1223,7 @@ sheep:
     name: 'Ovelha '
     description: Este usuário é uma Ovelha!
 ram:
+  realm: prime
   locales:
   - lang: en
     name: Ram
@@ -1101,6 +1232,7 @@ ram:
     name: Carneiro
     description: 'Este usuário é um Carneiro!! AKA: Ram'
 owl:
+  realm: prime
   locales:
   - lang: en
     name: Owl
@@ -1109,6 +1241,7 @@ owl:
     name: Coruja
     description: 'Este usuário é uma Coruja!! AKA: Owl'
 robot:
+  realm: prime
   locales:
   - lang: en
     name: Robot
@@ -1117,6 +1250,7 @@ robot:
     name: Robô
     description: 'Este usuário é um Robô!! AKA: Robot'
 komodo-dragon:
+  realm: prime
   locales:
   - lang: en
     name: Komodo Dragon
@@ -1125,6 +1259,7 @@ komodo-dragon:
     name: Dragão de Komodo
     description: 'Este usuário é um Dragão de Komodo! AKA: Komodo Dragon'
 pig:
+  realm: prime
   locales:
   - lang: en
     name: Pig
@@ -1133,6 +1268,7 @@ pig:
     name: Porco
     description: 'Este usuário é um Porco!! AKA: Pig'
 golden-retriever:
+  realm: prime
   locales:
   - lang: en
     name: Golden Retriever
@@ -1141,6 +1277,7 @@ golden-retriever:
     name: Golden Retriever
     description: Este usuário é um Golden Retriever!
 peafowl:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -1152,6 +1289,7 @@ peafowl:
     name: Pavão
     description: 'Este usuário é um Pavão! AKA: Peafowl'
 serval:
+  realm: prime
   locales:
   - lang: en
     name: Serval
@@ -1160,6 +1298,7 @@ serval:
     name: Serval
     description: Este usuário é um Serval!
 lionbear:
+  realm: prime
   locales:
   - lang: en
     name: Lionbear
@@ -1168,6 +1307,7 @@ lionbear:
     name: Usro-Leão
     description: 'Este usuário é um Urso-Leão! AKA: Lionbear'
 elk:
+  realm: prime
   locales:
   - lang: en
     name: Elk
@@ -1176,6 +1316,7 @@ elk:
     name: Alce
     description: 'Este usuário é um Alce!  AKA: Elk'
 mightyena:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -1187,6 +1328,7 @@ mightyena:
     name: Mightyena
     description: 'Este usuário é um Mightyena! AKA: Mightyena'
 moose:
+  realm: prime
   locales:
   - lang: en
     name: Moose
@@ -1195,6 +1337,7 @@ moose:
     name: Alce
     description: 'Este usuário é um Alce!  AKA: Moose'
 sloth:
+  realm: prime
   locales:
   - lang: en
     name: Sloth
@@ -1203,6 +1346,7 @@ sloth:
     name: Preguiça
     description: 'Este usuário é uma Preguiça!  AKA: Sloth'
 macaw:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -1214,6 +1358,7 @@ macaw:
     name: Arara
     description: 'Este usuário é uma Arara! AKA: Macaw'
 giant-panda:
+  realm: prime
   locales:
   - lang: en
     name: Giant Panda
@@ -1222,6 +1367,7 @@ giant-panda:
     name: Panda-Gigante
     description: 'Este usuário é um Panda-Gigante!  AKA: Giant Panda'
 hamster:
+  realm: prime
   locales:
   - lang: en
     name: Hamster
@@ -1230,6 +1376,7 @@ hamster:
     name: Hamster
     description: Este usuário é um Hamster!
 polar-bear:
+  realm: prime
   locales:
   - lang: en
     name: Polar Bear
@@ -1238,6 +1385,7 @@ polar-bear:
     name: Urso Polar
     description: 'Este usuário é um Urso Polar!  AKA: Polar Bear'
 frog:
+  realm: prime
   locales:
   - lang: en
     name: Frog
@@ -1246,6 +1394,7 @@ frog:
     name: Sapo
     description: 'Este usuário é um Sapo!  AKA: Frog'
 gnoll:
+  realm: prime
   locales:
   - lang: en
     name: Gnoll
@@ -1254,6 +1403,7 @@ gnoll:
     name: Gnoll
     description: Este usuário é um Gnoll!
 african-crested-porcupine:
+  realm: prime
   locales:
   - lang: en
     name: African Crested Porcupine
@@ -1263,6 +1413,7 @@ african-crested-porcupine:
     description: 'Este usuário é um Porco-Espinho-de-Crista-Africano!  AKA: African
       Crested Porcupine'
 arctic-fox:
+  realm: prime
   locales:
   - lang: en
     name: Snowfox
@@ -1271,6 +1422,7 @@ arctic-fox:
     name: Raposa do Ártico
     description: 'Este usuário é uma Raposa do Ártico!  AKA: Arctic Fox'
 tasmanian-devil:
+  realm: prime
   locales:
   - lang: en
     name: Tasmanian Devil
@@ -1279,6 +1431,7 @@ tasmanian-devil:
     name: Demônio-da-Tasmânia
     description: 'Este usuário é um Demônio-da-Tasmânia!  AKA: Tasmanian Devil'
 pangolin:
+  realm: prime
   locales:
   - lang: en
     name: Pangolin
@@ -1287,6 +1440,7 @@ pangolin:
     name: Pangolim
     description: 'Este usuário é um Pangolim!  AKA: Pangolin'
 rhino:
+  realm: prime
   locales:
   - lang: en
     name: Rhino
@@ -1295,6 +1449,7 @@ rhino:
     name: Rinoceronte
     description: 'Este usuário é um Rinoceronte!  AKA: Rhino'
 porcupine:
+  realm: prime
   locales:
   - lang: en
     name: Porcupine
@@ -1303,6 +1458,7 @@ porcupine:
     name: Porco-Espinho
     description: 'Este usuário é um Porco-Espinho!  AKA: Porcupine'
 gargoyle:
+  realm: prime
   locales:
   - lang: en
     name: Gargoyle
@@ -1311,6 +1467,7 @@ gargoyle:
     name: Gárgula
     description: 'Este usuário é uma Gárgula!  AKA: Gargoyle'
 zebra:
+  realm: prime
   locales:
   - lang: en
     name: Zebra
@@ -1319,6 +1476,7 @@ zebra:
     name: Zebra
     description: Este usuário é uma Zebra!
 hawk:
+  realm: prime
   locales:
   - lang: en
     name: Hawk
@@ -1327,6 +1485,7 @@ hawk:
     name: Falcão
     description: 'Este usuário é um Falcão!  AKA: Hawk'
 monkey:
+  realm: prime
   locales:
   - lang: en
     name: Monkey
@@ -1335,6 +1494,7 @@ monkey:
     name: Macaco
     description: 'Este usuário é um Macaco!  AKA: Monkey'
 cabbit:
+  realm: prime
   locales:
   - lang: en
     name: Cabbit
@@ -1343,6 +1503,7 @@ cabbit:
     name: Gatoelho
     description: 'Este usuário é um Gatoelho!  AKA: Cabbit'
 badger:
+  realm: prime
   category:
     en: Mustelid
     pt-BR: Mustelídeo
@@ -1354,6 +1515,7 @@ badger:
     name: Texugo
     description: 'Este usuário é um Texugo! AKA: Badger'
 jaguar:
+  realm: prime
   locales:
   - lang: en
     name: Jaguar
@@ -1362,6 +1524,7 @@ jaguar:
     name: Jaguar
     description: Este usuário é um Jaguar!
 giraffe:
+  realm: prime
   locales:
   - lang: en
     name: Giraffe
@@ -1370,6 +1533,7 @@ giraffe:
     name: Girafa
     description: 'Este usuário é uma Girafa!  AKA: Giraffe'
 spider:
+  realm: prime
   locales:
   - lang: en
     name: Spider
@@ -1378,6 +1542,7 @@ spider:
     name: Aranha
     description: 'Este usuário é uma Aranha!  AKA: Spider'
 langurhali:
+  realm: prime
   locales:
   - lang: en
     name: Langurhali
@@ -1386,6 +1551,7 @@ langurhali:
     name: Langurhali
     description: Este usuário é um Langurhali!   https://en.wikifur.com/wiki/Vera#Langurhali
 black-bear:
+  realm: prime
   locales:
   - lang: en
     name: Black Bear
@@ -1394,6 +1560,7 @@ black-bear:
     name: Urso-Negro
     description: 'Este usuário é um Urso-Negro!  AKA: Black Bear'
 platypus:
+  realm: prime
   locales:
   - lang: en
     name: Platypus
@@ -1402,6 +1569,7 @@ platypus:
     name: Ornitorrinco
     description: 'Este usuário é um Ornitorrinco!  AKA: Platypus'
 bee:
+  realm: prime
   locales:
   - lang: en
     name: Bee
@@ -1410,6 +1578,7 @@ bee:
     name: Abelha
     description: 'Este usuário é uma Abelha!  AKA: Bee'
 husky:
+  realm: prime
   locales:
   - lang: en
     name: Husky
@@ -1418,6 +1587,7 @@ husky:
     name: Husky
     description: Este usuário é um Husky!
 sparkledog:
+  realm: prime
   locales:
   - lang: en
     name: Sparkledog
@@ -1426,6 +1596,7 @@ sparkledog:
     name: Alce
     description: Este usuário é um Sparkledog!  https://en.wikifur.com/wiki/Sparkledog
 sparklefur:
+  realm: prime
   locales:
   - lang: en
     name: Sparklefur
@@ -1434,6 +1605,7 @@ sparklefur:
     name: Sparklefur
     description: Este usuário é um Sparklefur!
 lemur:
+  realm: prime
   locales:
   - lang: en
     name: Lemur
@@ -1442,6 +1614,7 @@ lemur:
     name: Lêmure
     description: 'Este usuário é um Lêmure!  AKA: Lemur'
 toy:
+  realm: prime
   locales:
   - lang: en
     name: Toy
@@ -1450,6 +1623,7 @@ toy:
     name: Brinquedo
     description: 'Este usuário é um Brinquedo!  AKA: Toy'
 meerkat:
+  realm: prime
   locales:
   - lang: en
     name: Meerkat
@@ -1458,6 +1632,7 @@ meerkat:
     name: Suricate
     description: 'Este usuário é um Suricate!  AKA: Meerkat'
 kudu:
+  realm: prime
   locales:
   - lang: en
     name: Kudu
@@ -1466,6 +1641,7 @@ kudu:
     name: Cudo / Antílope
     description: 'Este usuário é um Cudo!  AKA: Kudu'
 gorgonopsid:
+  realm: prime
   locales:
   - lang: en
     name: Gorgonopsid
@@ -1474,6 +1650,7 @@ gorgonopsid:
     name: Gorgonopsia
     description: 'Este usuário é uma Gorgonopsia!  AKA: Gorgonopsid'
 plushie:
+  realm: prime
   locales:
   - lang: en
     name: Plushie
@@ -1482,6 +1659,7 @@ plushie:
     name: Pelúcia
     description: 'Este usuário é uma Pelúcia!  AKA: Plushie'
 weavile:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -1493,6 +1671,7 @@ weavile:
     name: Weavile
     description: Este usuário é um Weavile!
 blue-marlin:
+  realm: prime
   locales:
   - lang: en
     name: Blue Marlin
@@ -1501,6 +1680,7 @@ blue-marlin:
     name: Marlim-Azul
     description: 'Este usuário é um Marlim-Azul!  AKA: Blue Marlin'
 elephant:
+  realm: prime
   locales:
   - lang: en
     name: Elephant
@@ -1509,6 +1689,7 @@ elephant:
     name: Elefante
     description: 'Este usuário é um Elefante!  AKA: Elephant'
 mammoth:
+  realm: prime
   locales:
   - lang: en
     name: Mammoth
@@ -1517,6 +1698,7 @@ mammoth:
     name: Mamute
     description: 'Este usuário é um Mamute!  AKA: Mammoth'
 caracal:
+  realm: prime
   locales:
   - lang: en
     name: Caracal
@@ -1525,6 +1707,7 @@ caracal:
     name: Caracal
     description: Este usuário é um Caracal!
 bobcat:
+  realm: prime
   locales:
   - lang: en
     name: Bobcat
@@ -1533,6 +1716,7 @@ bobcat:
     name: Lince
     description: 'Este usuário é um Lince!  AKA: Bobcat'
 kaiju:
+  realm: prime
   locales:
   - lang: en
     name: Kaiju
@@ -1541,6 +1725,7 @@ kaiju:
     name: Kaiju
     description: Este usuário é um Kaiju!
 monster:
+  realm: prime
   locales:
   - lang: en
     name: Monster
@@ -1549,6 +1734,7 @@ monster:
     name: Monstro
     description: 'Este usuário é um Monstro!  AKA: Monster'
 cow:
+  realm: prime
   locales:
   - lang: en
     name: Cow
@@ -1557,6 +1743,7 @@ cow:
     name: Vaca
     description: 'Este usuário é uma Vaca/Vaquinha!  AKA: Cow'
 muscovy-duck:
+  realm: prime
   locales:
   - lang: en
     name: Muscovy Duck
@@ -1565,6 +1752,7 @@ muscovy-duck:
     name: Pato-do-Mato
     description: 'Este usuário é um Pato-do-Mato!  AKA: Muscovy Duck'
 dachshund:
+  realm: prime
   locales:
   - lang: en
     name: Dachshund
@@ -1573,6 +1761,7 @@ dachshund:
     name: Salsichinha
     description: 'Este usuário é um Salsichinha!  AKA: Dachshund'
 hound-dog:
+  realm: prime
   locales:
   - lang: en
     name: Hound Dog
@@ -1581,6 +1770,7 @@ hound-dog:
     name: Cão de Caça
     description: 'Este usuário é um Cão de Caça!  AKA: Hound Dog'
 small-dog:
+  realm: prime
   locales:
   - lang: en
     name: Small Dog
@@ -1589,6 +1779,7 @@ small-dog:
     name: Cachorro Pequeno
     description: 'Este usuário é um Cachorro Pequeno!  AKA: Small Dog'
 tiger-dragon:
+  realm: prime
   locales:
   - lang: en
     name: Tiger-Dragon
@@ -1597,6 +1788,7 @@ tiger-dragon:
     name: Tigre-Dragão
     description: 'Este usuário é um Tigre-Dragão!  AKA: Tiger-Dragon'
 dracat:
+  realm: prime
   locales:
   - lang: en
     name: Dracat
@@ -1605,6 +1797,7 @@ dracat:
     name: Dragato
     description: 'Este usuário é um Dragato (Dragão-Gato)!  AKA: Dracat'
 chihuahua:
+  realm: prime
   locales:
   - lang: en
     name: Chihuahua
@@ -1613,6 +1806,7 @@ chihuahua:
     name: Chihuahua
     description: Este usuário é um Chihuahua!
 african-wild-dog:
+  realm: prime
   locales:
   - lang: en
     name: African Wild Dog
@@ -1621,6 +1815,7 @@ african-wild-dog:
     name: Mabeco
     description: 'Este usuário é um Mabeco!  AKA: African Wild Dog'
 skulldog:
+  realm: prime
   locales:
   - lang: en
     name: Skulldog
@@ -1629,6 +1824,7 @@ skulldog:
     name: Skulldog
     description: 'Este usuário é um Skulldog! [Tags: open-species] https://www.deviantart.com/skulldog/art/Ultimate-Guide-to-Skulldogs-693728429'
 toon:
+  realm: prime
   locales:
   - lang: en
     name: Toon
@@ -1637,6 +1833,7 @@ toon:
     name: Desenho Animado
     description: 'Este usuário é um Desenho Animado!  AKA: Toon'
 coral-reef:
+  realm: prime
   locales:
   - lang: en
     name: Coral Reef
@@ -1645,6 +1842,7 @@ coral-reef:
     name: Recife de Corais
     description: 'Este usuário é um Recife de Corais!  AKA: Coral Reef'
 hummingbird:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -1656,6 +1854,7 @@ hummingbird:
     name: Colibri
     description: 'Este usuário é um Colibri! AKA: Hummingbird'
 lucario:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -1667,6 +1866,7 @@ lucario:
     name: Lucario
     description: Este usuário é um Lucario!
 cocker-spaniel:
+  realm: prime
   locales:
   - lang: en
     name: Cocker Spaniel
@@ -1675,6 +1875,7 @@ cocker-spaniel:
     name: Cocker Spaniel
     description: Este usuário é um Cocker Spaniel!
 angel:
+  realm: prime
   locales:
   - lang: en
     name: Angel
@@ -1683,6 +1884,7 @@ angel:
     name: Anjo
     description: 'Este usuário é um Anjo!  AKA: Angel'
 solar:
+  realm: prime
   locales:
   - lang: en
     name: Solar
@@ -1691,6 +1893,7 @@ solar:
     name: Solar
     description: O Fursona desse usuário pode ser descrito como um Solar!
 wolf-dragon:
+  realm: prime
   locales:
   - lang: en
     name: Wolf Dragon
@@ -1699,6 +1902,7 @@ wolf-dragon:
     name: Cachorro-Dragão
     description: 'Este usuário é um Cachorro-Dragão!  AKA: Wolf Dragon'
 ocelot:
+  realm: prime
   locales:
   - lang: en
     name: Ocelot
@@ -1707,6 +1911,7 @@ ocelot:
     name: Jaguatirica
     description: 'Este usuário é uma Jaguatirica!  AKA: Ocelot'
 pembroke-welsh-corgi:
+  realm: prime
   locales:
   - lang: en
     name: Pembroke Welsh Corgi
@@ -1715,6 +1920,7 @@ pembroke-welsh-corgi:
     name: Pembroke Welsh Corgi
     description: Este usuário é um Pembroke Welsh Corgi!
 cardigan-welsh-corgi:
+  realm: prime
   locales:
   - lang: en
     name: Cardigan Welsh Corgi
@@ -1723,6 +1929,7 @@ cardigan-welsh-corgi:
     name: Cardigan Welsh Corgi
     description: Este usuário é um Cardigan Welsh Corgi!
 beaver:
+  realm: prime
   locales:
   - lang: en
     name: Beaver
@@ -1731,6 +1938,7 @@ beaver:
     name: Castor
     description: 'Este usuário é um Castor!  AKA: Beaver'
 tayra:
+  realm: prime
   category:
     en: Mustelid
     pt-BR: Mustelídeo
@@ -1742,6 +1950,7 @@ tayra:
     name: Tayra
     description: Este usuário é um Tayra!
 golden-jackal:
+  realm: prime
   locales:
   - lang: en
     name: Golden Jackal
@@ -1750,6 +1959,7 @@ golden-jackal:
     name: Chacal Dourado
     description: 'Este usuário é um Chacal Dourado!  AKA: Golden Jackal'
 teshari:
+  realm: prime
   locales:
   - lang: en
     name: Teshari
@@ -1758,6 +1968,7 @@ teshari:
     name: Teshari
     description: Este usuário é um Teshari!  https://ss13polaris.com/index.php?title=Teshari
 yoshi:
+  realm: prime
   locales:
   - lang: en
     name: Yoshi
@@ -1766,6 +1977,7 @@ yoshi:
     name: Yoshi
     description: Este usuário é um Yoshi!
 guinea-pig:
+  realm: prime
   locales:
   - lang: en
     name: Guinea Pig
@@ -1774,6 +1986,7 @@ guinea-pig:
     name: Porquinho-da-Índia
     description: 'Este usuário é um Porquinho-da-Índia!  AKA: Guinea Pig'
 arctic-wolf:
+  realm: prime
   locales:
   - lang: en
     name: Arctic Wolf
@@ -1784,6 +1997,7 @@ arctic-wolf:
     description: 'Este usuário é um Lobo do Ártico! Ou Lobo Branco, Lobo Polar, Lobo
       Cinza Polar AKA: Arctic Wolf'
 tibetan-fox:
+  realm: prime
   locales:
   - lang: en
     name: Tibetan Fox
@@ -1792,6 +2006,7 @@ tibetan-fox:
     name: Raposa do Himalaia
     description: 'Este usuário é um Raposa do Himalaia!  AKA: Tibetan Fox'
 rexouium:
+  realm: prime
   locales:
   - lang: en
     name: Rexouium
@@ -1800,6 +2015,7 @@ rexouium:
     name: Rexouium
     description: 'Este usuário é um Rexouium! #VRChat About: https://www.furaffinity.net/view/36134921/'
 housefly:
+  realm: prime
   locales:
   - lang: en
     name: Housefly
@@ -1808,6 +2024,7 @@ housefly:
     name: Mosca-Doméstica
     description: 'Este usuário é um Mosca-Doméstica!  AKA: Housefly'
 ninetales:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -1819,6 +2036,7 @@ ninetales:
     name: Ninetales
     description: Este usuário é um Ninetales!
 reindeer:
+  realm: prime
   locales:
   - lang: en
     name: Reindeer/Caribou
@@ -1827,6 +2045,7 @@ reindeer:
     name: Rena/Caribu
     description: 'Este usuário é um Rena/Caribu!  AKA: Reindeer/Caribou'
 taidum:
+  realm: prime
   locales:
   - lang: en
     name: Taidum
@@ -1835,6 +2054,7 @@ taidum:
     name: Taidum
     description: 'Este usuário é um Taidum! #VRChat - https://en.wikifur.com/wiki/Taidum'
 bohemian-shepherd:
+  realm: prime
   locales:
   - lang: en
     name: Bohemian Shepherd
@@ -1843,6 +2063,7 @@ bohemian-shepherd:
     name: Pastor Boêbio
     description: 'Este usuário é um Pastor Boêmio!  AKA: Bohemian Shepherd'
 obstagoon:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -1854,6 +2075,7 @@ obstagoon:
     name: Obstagoon
     description: Este usuário é um Obstagoon!
 golden-eagle:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -1865,6 +2087,7 @@ golden-eagle:
     name: Águia-Dourada
     description: 'Este usuário é um Águia-Dourada! AKA: Golden Eagle'
 genet:
+  realm: prime
   locales:
   - lang: en
     name: Genet
@@ -1873,6 +2096,7 @@ genet:
     name: Genetta
     description: 'Este usuário é uma Genetta!  AKA: Genet'
 wyvern:
+  realm: prime
   locales:
   - lang: en
     name: Wyvern
@@ -1881,6 +2105,7 @@ wyvern:
     name: Wyvern
     description: 'Este usuário é um Wyvern, Serpe ou Dragonete!  AKA: Wyvern'
 heeler:
+  realm: prime
   locales:
   - lang: en
     name: Heeler
@@ -1889,6 +2114,7 @@ heeler:
     name: Boiadeiro-australiano
     description: 'Este usuário é um Boiadeiro-australiano!  AKA: Heeler'
 blue-heeler:
+  realm: prime
   locales:
   - lang: en
     name: Blue Heeler
@@ -1897,6 +2123,7 @@ blue-heeler:
     name: Boiadeiro-australiano Azulado
     description: 'Este usuário é um Boiadeiro-australiano Azulado!  AKA: Blue Heeler'
 red-heeler:
+  realm: prime
   locales:
   - lang: en
     name: Red Heeler
@@ -1905,6 +2132,7 @@ red-heeler:
     name: Boiadeiro-australiano Avermelhado
     description: 'Este usuário é um Boiadeiro-australiano Avermelhado!  AKA: Red Heeler'
 carbuncle:
+  realm: prime
   category:
     en: Final Fantasy
     pt-BR: Final Fantasy
@@ -1916,6 +2144,7 @@ carbuncle:
     name: Carbuncle
     description: Este usuário é um Carbuncle! https://finalfantasy.fandom.com/wiki/Carbuncle_(summon)
 alicorn:
+  realm: prime
   locales:
   - lang: en
     name: Alicorn
@@ -1925,6 +2154,7 @@ alicorn:
     description: 'Este usuário é um Alicórnio ou Unicórnio-Alado!  AKA: Alicorn or
       Winged Unicorn'
 pegasus:
+  realm: prime
   locales:
   - lang: en
     name: Pegasus
@@ -1933,6 +2163,7 @@ pegasus:
     name: Pégasus
     description: 'Este usuário é um Pégasus!  AKA: Pegasus'
 hyacinth-macaw:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -1944,6 +2175,7 @@ hyacinth-macaw:
     name: Arara-Azul
     description: 'Este usuário é um Arara-Azul! AKA: hyacinth-macaw'
 digimon:
+  realm: prime
   locales:
   - lang: en
     name: Digimon
@@ -1952,6 +2184,7 @@ digimon:
     name: Digimon
     description: Este usuário é um Digimon!
 slipfin:
+  realm: prime
   locales:
   - lang: en
     name: Slipfin
@@ -1960,6 +2193,7 @@ slipfin:
     name: Slipfin
     description: 'Este usuário é um Slipfin! #VRChat'
 goodra:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -1971,6 +2205,7 @@ goodra:
     name: Goodra
     description: Este usuário é um Goodra!
 bat-eared-fox:
+  realm: prime
   locales:
   - lang: en
     name: Bat-Eared Fox
@@ -1980,6 +2215,7 @@ bat-eared-fox:
     description: 'Este usuário é um Raposa Orelha-de-Morcego ou Raposa-Orelhuda!  AKA:
       Bat-Eared Fox'
 werefox:
+  realm: prime
   locales:
   - lang: en
     name: Werefox
@@ -1988,6 +2224,7 @@ werefox:
     name: Alce
     description: 'Este usuário é um Werefox!  AKA: Werefox'
 orangutan:
+  realm: prime
   locales:
   - lang: en
     name: Orangutan
@@ -1996,6 +2233,7 @@ orangutan:
     name: Orangotango
     description: 'Este usuário é um Orangotango!  AKA: Orangutan'
 bug:
+  realm: prime
   locales:
   - lang: en
     name: Bug
@@ -2004,6 +2242,7 @@ bug:
     name: Inseto
     description: 'Este usuário é um Inseto!  AKA: Bug'
 border-collie:
+  realm: prime
   locales:
   - lang: en
     name: Border Collie
@@ -2012,6 +2251,7 @@ border-collie:
     name: Border Collie
     description: Este usuário é um Border Collie!
 white-tiger:
+  realm: prime
   locales:
   - lang: en
     name: White Tiger
@@ -2020,6 +2260,7 @@ white-tiger:
     name: Tigre Branco
     description: 'Este usuário é um Tigre Branco!  AKA: White Tiger'
 salandit:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -2031,6 +2272,7 @@ salandit:
     name: Salandit
     description: Este usuário é um Salandit!
 cacomistle:
+  realm: prime
   category:
     en: Cacomistle
     pt-BR: Cacomistle
@@ -2042,6 +2284,7 @@ cacomistle:
     name: Cacomistle
     description: Este usuário é um Cacomistle!
 ringtail:
+  realm: prime
   category:
     en: Cacomistle
     pt-BR: Cacomistle
@@ -2053,6 +2296,7 @@ ringtail:
     name: Alce
     description: Este usuário é um Bassarisco!
 kingfisher:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -2064,6 +2308,7 @@ kingfisher:
     name: Martim-pescador
     description: 'Este usuário é um Martim-pescador!  AKA: Kingfisher'
 fisher:
+  realm: prime
   category:
     en: Mustelid
     pt-BR: Mustelídeo
@@ -2075,6 +2320,7 @@ fisher:
     name: Marta-Pescadora
     description: 'Este usuário é uma Marta-Pescadora!  AKA: Fisher'
 stellers-jay:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -2086,6 +2332,7 @@ stellers-jay:
     name: Gaio de Steller
     description: 'Este usuário é um Gaio de Steller!  AKA: Steller''s Jay'
 pikachu:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -2097,6 +2344,7 @@ pikachu:
     name: Pikachu
     description: Este usuário é um Pikachu!
 oni:
+  realm: prime
   category:
     en: Folklore
     pt-BR: Folclore
@@ -2108,6 +2356,7 @@ oni:
     name: Oni
     description: Este usuário é um Oni!
 marsupial:
+  realm: prime
   category:
     en: Marsupial
     pt-BR: Marsupial
@@ -2119,6 +2368,7 @@ marsupial:
     name: Marsupial
     description: Este usuário é um Marsupial!
 tasmanian-tiger:
+  realm: prime
   category:
     en: Marsupial
     pt-BR: Marsupial
@@ -2130,6 +2380,7 @@ tasmanian-tiger:
     name: Lobo-da-tasmânia
     description: Este usuário é um Lobo-da-tasmânia ou Thylacine!
 vulture:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Aves/Pássaros
@@ -2141,6 +2392,7 @@ vulture:
     name: Abutre
     description: Este usuário é um Abutre!
 bearded-vulture:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Aves/Pássaros
@@ -2152,6 +2404,7 @@ bearded-vulture:
     name: Abutre-barbudo
     description: 'Este usuário é um Abutre-barbudo! AKA: quebra-ossos'
 zoroark:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -2163,6 +2416,7 @@ zoroark:
     name: Zoroark
     description: Este usuário é um Zoroark!
 opossum:
+  realm: prime
   category:
     en: Marsupial
     pt-BR: Marsupial
@@ -2174,6 +2428,7 @@ opossum:
     name: Gambá
     description: 'Este usuário é um Gambá!  AKA: Possum, Opossum'
 cobra:
+  realm: prime
   category:
     en: Snake
     pt-BR: Cobra
@@ -2185,6 +2440,7 @@ cobra:
     name: Cobra
     description: Este usuário é uma Cobra!
 boa-constrictor:
+  realm: prime
   category:
     en: Snake
     pt-BR: Cobra
@@ -2196,6 +2452,7 @@ boa-constrictor:
     name: Jiboia-constritora
     description: 'Este usuário é uma Jiboia-constritora!  AKA: Jiboia-constritora'
 bird-wyvern:
+  realm: prime
   category:
     en: Monster Hunter
     pt-BR: Monster Hunter
@@ -2207,6 +2464,7 @@ bird-wyvern:
     name: Bird Wyvern
     description: Este usuário é um Bird Wyvern!
 charmander:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -2218,6 +2476,7 @@ charmander:
     name: Charmander
     description: Este usuário é um Charmander!
 multiple-characters:
+  realm: prime
   category:
     en: Meta
     pt-BR: Meta
@@ -2229,6 +2488,7 @@ multiple-characters:
     name: Multi-personagem
     description: Este usuário tem múltiplos personagens/fursonas!
 multiple-forms:
+  realm: prime
   category:
     en: Meta
     pt-BR: Meta
@@ -2243,6 +2503,7 @@ multiple-forms:
     description: Este usuário é Multiforme! Por exemplo, às vezes pode ser descrito
       como uma espécie e outras vezes como outra. Veja outros rótulos!
 therian:
+  realm: prime
   category:
     en: Meta
     pt-BR: Meta
@@ -2258,6 +2519,7 @@ therian:
       ele indica que o usuário é um Therian e o usuário pode usar outro rótulo de
       espécie para denotar um teriótipo.
 therian-and-furry:
+  realm: prime
   category:
     en: Meta
     pt-BR: Meta
@@ -2275,6 +2537,7 @@ therian-and-furry:
       espécie para denotar um teriótipo Além disso, nem todo Therian é necessariamente
       furry, então esse rótulo permite que o usuário especifique que é ambos!.
 vulpix:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -2286,6 +2549,7 @@ vulpix:
     name: Vulpix
     description: Este usuário é um Vulpix!
 flamingo:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -2297,6 +2561,7 @@ flamingo:
     name: Flamingo
     description: Este usuário é um Flamingo!
 plant:
+  realm: prime
   locales:
   - lang: en
     name: Plant
@@ -2305,6 +2570,7 @@ plant:
     name: Planta
     description: Este usuário é uma Planta!
 argonian:
+  realm: prime
   locales:
   - lang: en
     name: Argonian
@@ -2313,6 +2579,7 @@ argonian:
     name: Argoniano
     description: Este usuário é um Argoniano!
 lombax:
+  realm: prime
   locales:
   - lang: en
     name: Lombax
@@ -2321,6 +2588,7 @@ lombax:
     name: Lombax
     description: Este usuário é um Lombax!
 nargacuga:
+  realm: prime
   category:
     en: Monster Hunter
     pt-BR: Monster Hunter
@@ -2332,6 +2600,7 @@ nargacuga:
     name: Nargacuga
     description: Este usuário é um Nargacuga!
 swampert:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -2343,6 +2612,7 @@ swampert:
     name: Swampert
     description: Este usuário é um Swampert!
 vaporeon:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -2354,6 +2624,7 @@ vaporeon:
     name: Vaporeon
     description: Este usuário é um Vaporeon!
 stingray:
+  realm: prime
   locales:
   - lang: en
     name: Stingray
@@ -2362,6 +2633,7 @@ stingray:
     name: Arraia
     description: Este usuário é uma Arraia!
 seagull:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -2373,6 +2645,7 @@ seagull:
     name: Gaivota
     description: Este usuário é uma Gaivota!
 triceratops:
+  realm: prime
   locales:
   - lang: en
     name: Triceratops
@@ -2381,6 +2654,7 @@ triceratops:
     name: Triceratops
     description: Este usuário é um Triceratops!
 australian-shepherd:
+  realm: prime
   locales:
   - lang: en
     name: Australian Shepherd
@@ -2389,6 +2663,7 @@ australian-shepherd:
     name: Pastor Australiano
     description: Este usuário é um Pastor Australiano!
 hrothgar:
+  realm: prime
   locales:
   - lang: en
     name: Hrothgar
@@ -2397,6 +2672,7 @@ hrothgar:
     name: Hrothgar
     description: Este usuário é um Hrothgar!
 greyhound:
+  realm: prime
   locales:
   - lang: en
     name: Greyhound
@@ -2405,6 +2681,7 @@ greyhound:
     name: Galgo
     description: Este usuário é um Galgo!
 umbreon:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -2416,6 +2693,7 @@ umbreon:
     name: Umbreon
     description: Este usuário é um Umbreon!
 platinum-fox:
+  realm: prime
   locales:
   - lang: en
     name: Platinum Fox
@@ -2426,6 +2704,7 @@ platinum-fox:
     description: Este usuário é uma Raposa Platina! Um fenótipo comum em populações
       de raposas criadas em fazendas, derivadas da Raposa Prateada.
 silver-fox:
+  realm: prime
   locales:
   - lang: en
     name: Silver Fox
@@ -2434,6 +2713,7 @@ silver-fox:
     name: Raposa Prateada
     description: 'Este usuário é uma Raposa Prateada! AKA: raposa preta, raposa azul.'
 bandicoot:
+  realm: prime
   category:
     en: Marsupial
     pt-BR: Marsupial
@@ -2445,6 +2725,7 @@ bandicoot:
     name: Bandicoot
     description: Este usuário é um Bandicoot!
 koala:
+  realm: prime
   category:
     en: Marsupial
     pt-BR: Marsupial
@@ -2456,6 +2737,7 @@ koala:
     name: Coala
     description: Este usuário é um Coala!
 potoroo:
+  realm: prime
   category:
     en: Marsupial
     pt-BR: Marsupial
@@ -2467,6 +2749,7 @@ potoroo:
     name: Potoroo
     description: Este usuário é um Potoroo!
 sugar-glider:
+  realm: prime
   category:
     en: Marsupial
     pt-BR: Marsupial
@@ -2478,6 +2761,7 @@ sugar-glider:
     name: Petauro-do-Açúcar
     description: Este usuário é um Petauro-do-Açúcar!
 cougar:
+  realm: prime
   locales:
   - lang: en
     name: Cougar
@@ -2486,6 +2770,7 @@ cougar:
     name: Puma
     description: Este usuário é um Puma!
 buizel:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -2497,6 +2782,7 @@ buizel:
     name: Buizel
     description: Este usuário é um Buizel!
 lupe:
+  realm: prime
   category:
     en: Neopet
     pt-BR: Neopet
@@ -2508,6 +2794,7 @@ lupe:
     name: Lupe
     description: Este usuário é um Lupe!
 aisha:
+  realm: prime
   category:
     en: Neopet
     pt-BR: Neopet
@@ -2519,6 +2806,7 @@ aisha:
     name: Aisha
     description: Este usuário é um Aisha!
 bori:
+  realm: prime
   category:
     en: Neopet
     pt-BR: Neopet
@@ -2530,6 +2818,7 @@ bori:
     name: Bori
     description: Este usuário é um Bori!
 ixi:
+  realm: prime
   category:
     en: Neopet
     pt-BR: Neopet
@@ -2541,6 +2830,7 @@ ixi:
     name: Ixi
     description: Este usuário é um Ixi!
 kougra:
+  realm: prime
   category:
     en: Neopet
     pt-BR: Neopet
@@ -2552,6 +2842,7 @@ kougra:
     name: Kougra
     description: Este usuário é um Kougra!
 xweetok:
+  realm: prime
   category:
     en: Neopet
     pt-BR: Neopet
@@ -2563,6 +2854,7 @@ xweetok:
     name: Xweetok
     description: Este usuário é um Xweetok!
 zafara:
+  realm: prime
   category:
     en: Neopet
     pt-BR: Neopet
@@ -2574,6 +2866,7 @@ zafara:
     name: Zafara
     description: Este usuário é um Zafara!
 liger:
+  realm: prime
   locales:
   - lang: en
     name: Liger
@@ -2582,6 +2875,7 @@ liger:
     name: Ligre
     description: Este usuário é um Ligre!
 sabertooth-liger:
+  realm: prime
   locales:
   - lang: en
     name: Sabertooth Liger
@@ -2590,6 +2884,7 @@ sabertooth-liger:
     name: Ligre dente de sabre
     description: Este usuário é um Ligre dente de sabre!
 grey-wolf:
+  realm: prime
   locales:
   - lang: en
     name: Grey Wolf
@@ -2598,6 +2893,7 @@ grey-wolf:
     name: Lobo-cinzento
     description: Este usuário é um Lobo-cinzento!
 borzoi:
+  realm: prime
   locales:
   - lang: en
     name: Borzoi
@@ -2606,6 +2902,7 @@ borzoi:
     name: Borzoi
     description: Este usuário é um Borzoi!
 fossa:
+  realm: prime
   locales:
   - lang: en
     name: Fossa
@@ -2614,6 +2911,7 @@ fossa:
     name: Fossa
     description: 'Este usuário é uma Fossa! AKA: fosa.'
 cross-fox:
+  realm: prime
   locales:
   - lang: en
     name: Cross Fox
@@ -2622,6 +2920,7 @@ cross-fox:
     name: Raposa-vermelha
     description: Este usuário é uma Raposa-vermelha!
 gray-fox:
+  realm: prime
   locales:
   - lang: en
     name: Gray Fox
@@ -2630,6 +2929,7 @@ gray-fox:
     name: Raposa-cinzenta
     description: Este usuário é uma Raposa-cinzenta!
 island-fox:
+  realm: prime
   locales:
   - lang: en
     name: Island Fox
@@ -2638,6 +2938,7 @@ island-fox:
     name: Raposa-das-ilhas
     description: Este usuário é uma Raposa-das-ilhas!
 satyr:
+  realm: prime
   locales:
   - lang: en
     name: Satyr
@@ -2646,6 +2947,7 @@ satyr:
     name: Sátiro
     description: Este usuário é um Sátiro!
 pony:
+  realm: prime
   locales:
   - lang: en
     name: Pony
@@ -2654,6 +2956,7 @@ pony:
     name: Pônei
     description: Este usuário é um Pônei!
 radioactive:
+  realm: prime
   locales:
   - lang: en
     name: Radioactive
@@ -2662,6 +2965,7 @@ radioactive:
     name: Radioativo
     description: ☢️Este usuário é Radioativo!☢️
 dovekie:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -2673,6 +2977,7 @@ dovekie:
     name: Torda-anã
     description: 'Este usuário é uma Torda-anã! AKA: torda-miúda-do-atlântico.'
 human:
+  realm: prime
   locales:
   - lang: en
     name: Human
@@ -2683,6 +2988,7 @@ human:
     description: Este usuário pode não ter necessariamente uma fursona, mas apoia
       os furries/o fandom!
 chocobo:
+  realm: prime
   category:
     en: Final Fantasy
     pt-BR: Final Fantasy
@@ -2694,6 +3000,7 @@ chocobo:
     name: Chocobo
     description: Este usuário é um Chocobo!
 chao:
+  realm: prime
   category:
     en: Sonic the Hedgehog
     pt-BR: Sonic the Hedgehog
@@ -2705,6 +3012,7 @@ chao:
     name: Chao
     description: Este usuário é um Chao!
 binturong:
+  realm: prime
   locales:
   - lang: en
     name: Binturong
@@ -2713,6 +3021,7 @@ binturong:
     name: Binturongue
     description: 'Este usuário é um Binturongue! AKA: binturong, urso-gato-asiático'
 dryad:
+  realm: prime
   locales:
   - lang: en
     name: Dryad
@@ -2721,6 +3030,7 @@ dryad:
     name: Dryad
     description: Este usuário é uma Dryad!
 nimbat:
+  realm: prime
   locales:
   - lang: en
     name: Nimbat
@@ -2729,6 +3039,7 @@ nimbat:
     name: Nimbat
     description: 'Este usuário é um Nimbat! (de Dust: An Elysian Tail)'
 gieeg:
+  realm: prime
   locales:
   - lang: en
     name: Gieeg
@@ -2737,6 +3048,7 @@ gieeg:
     name: Gieeg
     description: 'Este usuário é um Gieeg! AKA: Geeg. De Earthbound.'
 pup:
+  realm: prime
   locales:
   - lang: en
     name: Pup
@@ -2745,6 +3057,7 @@ pup:
     name: Pup
     description: 'Este usuário é um Pup! AKA: filhote, filhotinho'
 leopard-gecko:
+  realm: prime
   locales:
   - lang: en
     name: Leopard Gecko
@@ -2753,6 +3066,7 @@ leopard-gecko:
     name: Lagartixa-leopardo
     description: 'Este usuário é uma Lagartixa-leopardo! AKA: osga-leopardo, geco-leopardo'
 slugcat:
+  realm: prime
   locales:
   - lang: en
     name: Slugcat (Rain World)
@@ -2761,6 +3075,7 @@ slugcat:
     name: Lesgato
     description: Este usuário é um Lesgato!
 cape-fox:
+  realm: prime
   locales:
   - lang: en
     name: Cape Fox
@@ -2769,6 +3084,7 @@ cape-fox:
     name: Raposa-do-cabo
     description: Este usuário é uma Raposa-do-cabo!
 salmonid:
+  realm: prime
   locales:
   - lang: en
     name: Salmonid
@@ -2777,6 +3093,7 @@ salmonid:
     name: Salmonídeo
     description: 'Este usuário é um Salmonídeo! from Splatoon (video game) AKA: Salmonid'
 hobkin:
+  realm: prime
   locales:
   - lang: en
     name: Hobkin
@@ -2785,6 +3102,7 @@ hobkin:
     name: Hobkin
     description: 'Este usuário é um Hobkin! #VRChat https://en.wikifur.com/wiki/Hobkin'
 chipori:
+  realm: prime
   locales:
   - lang: en
     name: Chipori
@@ -2793,6 +3111,7 @@ chipori:
     name: Chipori
     description: 'Este usuário é um Chipori! #VRChat'
 slime:
+  realm: prime
   locales:
   - lang: en
     name: Slime
@@ -2801,6 +3120,7 @@ slime:
     name: Limo
     description: 'Este usuário é um Limo! AKA: Slime'
 quaker-parrot:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Aves/Pássaros
@@ -2813,6 +3133,7 @@ quaker-parrot:
     description: 'Este usuário é uma Caturrita! AKA: periquito torrenho, catorra,
       miranha ou cocota'
 nardoragon:
+  realm: prime
   locales:
   - lang: en
     name: Nardoragon
@@ -2821,6 +3142,7 @@ nardoragon:
     name: Nardoragon
     description: 'Este usuário é um Nardoragon! #VRChat'
 caitian:
+  realm: prime
   category:
     en: Star Trek
     pt-BR: Star Trek
@@ -2832,6 +3154,7 @@ caitian:
     name: Caitian
     description: Este usuário é um Caitian!
 gorn:
+  realm: prime
   category:
     en: Star Trek
     pt-BR: Star Trek
@@ -2843,6 +3166,7 @@ gorn:
     name: Gorn
     description: Este usuário é um Gorn!
 zora:
+  realm: prime
   category:
     en: The Legend of Zelda
     pt-BR: The Legend of Zelda
@@ -2854,6 +3178,7 @@ zora:
     name: Zora
     description: Este usuário é um Zora!
 rito:
+  realm: prime
   category:
     en: The Legend of Zelda
     pt-BR: The Legend of Zelda
@@ -2865,6 +3190,7 @@ rito:
     name: Rito
     description: Este usuário é um Rito!
 faun:
+  realm: prime
   locales:
   - lang: en
     name: Faun
@@ -2873,6 +3199,7 @@ faun:
     name: Fauno
     description: Este usuário é um Fauno!
 winged:
+  realm: prime
   locales:
   - lang: en
     name: Winged
@@ -2881,6 +3208,7 @@ winged:
     name: Alado
     description: Este usuário é Alado (significa que têm asas)!
 soundbyte:
+  realm: prime
   locales:
   - lang: en
     name: Soundbyte
@@ -2889,6 +3217,7 @@ soundbyte:
     name: Soundbyte
     description: 'Este usuário é um Soundbyte! #VRChat'
 purobyte:
+  realm: prime
   locales:
   - lang: en
     name: Purobyte
@@ -2897,6 +3226,7 @@ purobyte:
     name: Purobyte
     description: 'Este usuário é um Purobyte! #VRChat'
 mongoose:
+  realm: prime
   locales:
   - lang: en
     name: Mongoose
@@ -2905,6 +3235,7 @@ mongoose:
     name: Mangusto
     description: Este usuário é um Mangusto!
 felkin:
+  realm: prime
   locales:
   - lang: en
     name: Felkin
@@ -2913,6 +3244,7 @@ felkin:
     name: Felkin
     description: 'Este usuário é um Felkin! [Tags: espécie-fechada] https://www.deviantart.com/leachymonster/art/Official-Felkin-Species-Guide-522020670'
 cockatiel:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -2924,6 +3256,7 @@ cockatiel:
     name: Calopsita
     description: 'Este usuário é uma Calopsita! AKA: caturra'
 pronghorn:
+  realm: prime
   locales:
   - lang: en
     name: Pronghorn
@@ -2932,6 +3265,7 @@ pronghorn:
     name: Antilocapra
     description: 'Este usuário é um Antilocapra! AKA: antílope-americano'
 pudu:
+  realm: prime
   locales:
   - lang: en
     name: Pudu
@@ -2940,6 +3274,7 @@ pudu:
     name: Pudu
     description: Este usuário é um Pudu!
 orc:
+  realm: prime
   locales:
   - lang: en
     name: Orc
@@ -2948,6 +3283,7 @@ orc:
     name: Orque
     description: 'Este usuário é um Orque! AKA: orc, ork, orco'
 skiltaire:
+  realm: prime
   locales:
   - lang: en
     name: Skiltaire
@@ -2958,6 +3294,7 @@ skiltaire:
     description: 'Este usuário é um Skiltaire! AKA: Skiltare. https://en.wikifur.com/wiki/Skiltaire.
       Criado por Mark Merlino (Sylys Sable) em 1971.'
 mobian:
+  realm: prime
   category:
     en: Sonic the Hedgehog
     pt-BR: Sonic the Hedgehog
@@ -2969,6 +3306,7 @@ mobian:
     name: Mobian
     description: Este usuário é um Mobian!
 cornerian:
+  realm: prime
   category:
     en: Star Fox
     pt-BR: Star Fox
@@ -2980,6 +3318,7 @@ cornerian:
     name: Cornerian
     description: Este usuário é um Cornerian!
 allosaurus:
+  realm: prime
   category:
     en: Dinosaur
     pt-BR: Dinossauro
@@ -2991,6 +3330,7 @@ allosaurus:
     name: Alossauro
     description: Este usuário é um Alossauro!
 dragonborn:
+  realm: prime
   category:
     en: D&D
     pt-BR: D&D
@@ -3002,6 +3342,7 @@ dragonborn:
     name: Dragonborn
     description: Este usuário é um Dragonborn!
 worgen:
+  realm: prime
   category:
     en: World of Warcraft
     pt-BR: World of Warcraft
@@ -3013,6 +3354,7 @@ worgen:
     name: Worgen
     description: Este usuário é um Worgen!
 drone:
+  realm: prime
   category:
     en: Modifier
     pt-BR: Modifier
@@ -3024,6 +3366,7 @@ drone:
     name: Drone
     description: Este usuário é um Drone!
 samurott:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3035,6 +3378,7 @@ samurott:
     name: Samurott
     description: Este usuário é um Samurott!
 iguana:
+  realm: prime
   locales:
   - lang: en
     name: Iguana
@@ -3043,6 +3387,7 @@ iguana:
     name: Iguana
     description: Este usuário é um Iguana!
 bearded-dragon:
+  realm: prime
   locales:
   - lang: en
     name: Bearded Dragon
@@ -3051,6 +3396,7 @@ bearded-dragon:
     name: Dragão-barbudo
     description: 'Este usuário é um Dragão-barbudo! AKA: Pogona'
 bat-pony:
+  realm: prime
   category:
     en: My Little Pony
     pt-BR: My Little Pony
@@ -3062,6 +3408,7 @@ bat-pony:
     name: Pônei Morcego
     description: Este usuário é um Pônei Morcego!
 # sandwing:
+#   realm: prime
 #   category:
 #     en: Wings of Fire
 #     pt-BR: Wings of Fire
@@ -3073,6 +3420,7 @@ bat-pony:
 #     name: Sandwing
 #     description: Este usuário é um Sandwing! Pyrrhian Dragon Tribes
 # icewing:
+#   realm: prime
 #   category:
 #     en: Wings of Fire
 #     pt-BR: Wings of Fire
@@ -3084,6 +3432,7 @@ bat-pony:
 #     name: Icewing
 #     description: Este usuário é um Icewing! Pyrrhian Dragon Tribes
 # rainwing:
+#   realm: prime
 #   category:
 #     en: Wings of Fire
 #     pt-BR: Wings of Fire
@@ -3095,6 +3444,7 @@ bat-pony:
 #     name: Rainwing
 #     description: Este usuário é um Rainwing! Pyrrhian Dragon Tribes
 # nightwing:
+#   realm: prime
 #   category:
 #     en: Wings of Fire
 #     pt-BR: Wings of Fire
@@ -3106,6 +3456,7 @@ bat-pony:
 #     name: Nightwing
 #     description: Este usuário é um Nightwing! Pyrrhian Dragon Tribes
 # mudwing:
+#   realm: prime
 #   category:
 #     en: Wings of Fire
 #     pt-BR: Wings of Fire
@@ -3117,6 +3468,7 @@ bat-pony:
 #     name: Mudwing
 #     description: Este usuário é um Mudwing! Pyrrhian Dragon Tribes
 # skywing:
+#   realm: prime
 #   category:
 #     en: Wings of Fire
 #     pt-BR: Wings of Fire
@@ -3128,6 +3480,7 @@ bat-pony:
 #     name: Skywing
 #     description: Este usuário é um Skywing! Pyrrhian Dragon Tribes
 # seawing:
+#   realm: prime
 #   category:
 #     en: Wings of Fire
 #     pt-BR: Wings of Fire
@@ -3139,6 +3492,7 @@ bat-pony:
 #     name: Seawing
 #     description: Este usuário é um Seawing! Pyrrhian Dragon Tribes
 # silkwing:
+#   realm: prime
 #   category:
 #     en: Wings of Fire
 #     pt-BR: Wings of Fire
@@ -3150,6 +3504,7 @@ bat-pony:
 #     name: Silkwing
 #     description: Este usuário é um Silkwing! Pantalan Dragon Tribes
 # hivewing:
+#   realm: prime
 #   category:
 #     en: Wings of Fire
 #     pt-BR: Wings of Fire
@@ -3161,6 +3516,7 @@ bat-pony:
 #     name: Hivewing
 #     description: Este usuário é um Hivewing! Pantalan Dragon Tribes
 # leafwing:
+#   realm: prime
 #   category:
 #     en: Wings of Fire
 #     pt-BR: Wings of Fire
@@ -3172,6 +3528,7 @@ bat-pony:
 #     name: Leafwing
 #     description: Este usuário é um Leafwing! Pantalan Dragon Tribes
 dobermann:
+  realm: prime
   locales:
   - lang: en
     name: Dobermann
@@ -3180,6 +3537,7 @@ dobermann:
     name: Dobermann
     description: Este usuário é um Dobermann!
 samoyed:
+  realm: prime
   locales:
   - lang: en
     name: Samoyed
@@ -3188,6 +3546,7 @@ samoyed:
     name: Samoiedo
     description: Este usuário é um Samoiedo!
 luxray:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3199,6 +3558,7 @@ luxray:
     name: Luxray
     description: Este usuário é um Luxray!
 solgaleo:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3210,6 +3570,7 @@ solgaleo:
     name: Solgaleo
     description: Este usuário é um Solgaleo!
 mew:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3221,6 +3582,7 @@ mew:
     name: Mew
     description: Este usuário é um Mew!
 pooka:
+  realm: prime
   category:
     en: Odin Sphere
     pt-BR: Odin Sphere
@@ -3232,6 +3594,7 @@ pooka:
     name: Pooka
     description: 'Este usuário é uma Pooka! #videogame #lagomorfos #alien #metamorfo'
 rottweiler:
+  realm: prime
   locales:
   - lang: en
     name: Rottweiler
@@ -3240,6 +3603,7 @@ rottweiler:
     name: Rottweiler
     description: 'Este usuário é um Rottweiler! AKA: Rottinho'
 succubus:
+  realm: prime
   category:
     en: Folklore
     pt-BR: Folclore
@@ -3251,6 +3615,7 @@ succubus:
     name: Súcubo
     description: Este usuário é um Súcubo!
 incubus:
+  realm: prime
   category:
     en: Folklore
     pt-BR: Folclore
@@ -3262,6 +3627,7 @@ incubus:
     name: Íncubo
     description: Este usuário é um Íncubo!
 dramster:
+  realm: prime
   locales:
   - lang: en
     name: Dramster
@@ -3272,6 +3638,7 @@ dramster:
     description: 'Este usuário é um Dramster! https://bsky.app/profile/dramsterden.bsky.social
       [Tags: livre-espécie]'
 time-lord:
+  realm: prime
   category:
     en: Doctor Who
     pt-BR: Doctor Who
@@ -3284,6 +3651,7 @@ time-lord:
     description: Este usuário é um Senhor do Tempo! Combine com rótulos de outras
       espécies.
 iberian-lynx:
+  realm: prime
   locales:
   - lang: en
     name: Iberian Lynx
@@ -3293,6 +3661,7 @@ iberian-lynx:
     description: 'Este usuário é um Lince-ibérico! AKA: liberne, lobo-cerval, gato-fantasma,
       gato-cerval e gato-lince'
 amphimorpho:
+  realm: prime
   locales:
   - lang: en
     name: Amphimorpho
@@ -3303,6 +3672,7 @@ amphimorpho:
     description: 'Este usuário é um Amphimorpho! https://amphimorpho.carrd.co/#info
       [Tags: livre-espécie]'
 displacer-beast:
+  realm: prime
   category:
     en: D&D
     pt-BR: D&D
@@ -3314,6 +3684,7 @@ displacer-beast:
     name: Besta Deslocadora
     description: 'Este usuário é uma Besta Deslocadora! AKA: Displacer Beast https://www.aidedd.org/dnd/monstres.php?vo=displacer-beast'
 totodile:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3325,6 +3696,7 @@ totodile:
     name: Totodile
     description: Este usuário é um Totodile!
 glitchy:
+  realm: prime
   category:
     en: Modifier
     pt-BR: Modifier
@@ -3338,6 +3710,7 @@ glitchy:
     description: Este usuário é um Bugado! (em relação a um protogen ou outra espécie
       cibernética)
 sable:
+  realm: prime
   locales:
   - lang: en
     name: Sable
@@ -3346,6 +3719,7 @@ sable:
     name: Zibelina
     description: 'Este usuário é uma Zibelina! AKA: Marta-zibelina'
 inca-ren:
+  realm: prime
   locales:
   - lang: en
     name: Inca-Ren
@@ -3354,6 +3728,7 @@ inca-ren:
     name: Ren-Inca
     description: 'Este usuário é um Ren-Inca! [Tags: livre-espécie] https://www.furaffinity.net/view/4063389/'
 peryton:
+  realm: prime
   locales:
   - lang: en
     name: Peryton
@@ -3362,6 +3737,7 @@ peryton:
     name: Perítio
     description: 'Este usuário é um Perítio! AKA: Períton'
 faerie:
+  realm: prime
   category:
     en: Folklore
     pt-BR: Folclore
@@ -3373,6 +3749,7 @@ faerie:
     name: Fada
     description: Este usuário é uma Fada!
 valravn:
+  realm: prime
   category:
     en: Folklore
     pt-BR: Folclore
@@ -3384,6 +3761,7 @@ valravn:
     name: Valravn
     description: 'Este usuário é um Valravn! AKA: Corvo dos mortos'
 seraph:
+  realm: prime
   locales:
   - lang: en
     name: Seraph
@@ -3392,6 +3770,7 @@ seraph:
     name: Anjo Serafim
     description: Este usuário é um Anjo Serafim!
 werecreature:
+  realm: prime
   locales:
   - lang: en
     name: Werecreature
@@ -3400,6 +3779,7 @@ werecreature:
     name: Homem-criatura
     description: Este usuário é um Homem-criatura!
 burmecian:
+  realm: prime
   category:
     en: Final Fantasy
     pt-BR: Final Fantasy
@@ -3411,6 +3791,7 @@ burmecian:
     name: Burmecian
     description: Este usuário é um Burmecian! https://finalfantasy.fandom.com/wiki/Burmecian
 absol:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3422,6 +3803,7 @@ absol:
     name: Absol
     description: Este usuário é um Absol!
 minotaur:
+  realm: prime
   locales:
   - lang: en
     name: Minotaur
@@ -3430,6 +3812,7 @@ minotaur:
     name: Minotauro
     description: Este usuário é um Minotauro!
 bull:
+  realm: prime
   locales:
   - lang: en
     name: Bull
@@ -3438,6 +3821,7 @@ bull:
     name: Touro
     description: Este usuário é um Touro!
 albatross:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -3449,6 +3833,7 @@ albatross:
     name: Albatroz
     description: 'Este usuário é um Albatroz! AKA: Piau'
 mystian:
+  realm: prime
   locales:
   - lang: en
     name: Mystian
@@ -3457,6 +3842,7 @@ mystian:
     name: Mystian
     description: 'Este usuário é uma Mystian! [Tags: livre-espécie]'
 swift-fox:
+  realm: prime
   locales:
   - lang: en
     name: Swift Fox
@@ -3465,6 +3851,7 @@ swift-fox:
     name: Raposa-orelhuda
     description: 'Este usuário é uma Raposa-orelhuda! AKA: Raposa-veloz'
 kangaroo-rat:
+  realm: prime
   locales:
   - lang: en
     name: Kangaroo Rat
@@ -3473,6 +3860,7 @@ kangaroo-rat:
     name: Rato-Canguru
     description: 'Este usuário é um Rato-Canguru! AKA: Dipodomys'
 digital-creature:
+  realm: prime
   locales:
   - lang: en
     name: Digital Creature
@@ -3481,6 +3869,7 @@ digital-creature:
     name: Criatura Digital
     description: 'Este usuário é uma Criatura Digital! AKA: Programa de Computador'
 computer-virus:
+  realm: prime
   locales:
   - lang: en
     name: Computer Virus
@@ -3489,6 +3878,7 @@ computer-virus:
     name: Vírus de Computador
     description: 'Este usuário é um Vírus de Computador! AKA: Malware'
 slug:
+  realm: prime
   locales:
   - lang: en
     name: Slug
@@ -3497,6 +3887,7 @@ slug:
     name: Lesma
     description: Este usuário é uma Lesma!
 sea-slug:
+  realm: prime
   locales:
   - lang: en
     name: Sea Slug
@@ -3505,6 +3896,7 @@ sea-slug:
     name: Lesma-marinha
     description: 'Este usuário é uma Lesma-marinha! AKA: Lesma-do-mar'
 eurasian-eagle-owl:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -3516,6 +3908,7 @@ eurasian-eagle-owl:
     name: Bufo-real
     description: 'Este usuário é um Bufo-real! AKA: Bubo bubo'
 flying-fox:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -3527,6 +3920,7 @@ flying-fox:
     name: Raposa-voadora
     description: Este usuário é uma Raposa-voadora!
 guardian-spirit:
+  realm: prime
   locales:
   - lang: en
     name: Spirit (Ori)
@@ -3536,6 +3930,7 @@ guardian-spirit:
     name: Espírito (Ori)
     description: 'Este usuário é um Espírito! AKA: Espírito Guardião. Do game Ori.'
 bernese-mountain-dog:
+  realm: prime
   locales:
   - lang: en
     name: Bernese Mountain Dog
@@ -3544,6 +3939,7 @@ bernese-mountain-dog:
     name: Boiadeiro-bernês
     description: 'Este usuário é um Boiadeiro-bernês! AKA: Boiadeiro de Berna'
 bangaa:
+  realm: prime
   category:
     en: Final Fantasy
     pt-BR: Final Fantasy
@@ -3555,6 +3951,7 @@ bangaa:
     name: Bangaa
     description: Este usuário é um Bangaa! https://finalfantasy.fandom.com/wiki/Bangaa
 wickerbeast:
+  realm: prime
   locales:
   - lang: en
     name: Wickerbeast
@@ -3565,6 +3962,7 @@ wickerbeast:
     description: 'Este usuário é um Wickerbeast! #VRChat https://www.wickercave.net/
       [Tags: livre-espécie]'
 alaskan-malamute:
+  realm: prime
   locales:
   - lang: en
     name: Malamute
@@ -3573,6 +3971,7 @@ alaskan-malamute:
     name: Malamute
     description: Este usuário é um Malamute do Alaska!
 monitor-lizard:
+  realm: prime
   locales:
   - lang: en
     name: Monitor Lizard
@@ -3581,6 +3980,7 @@ monitor-lizard:
     name: Lagarto-monitor
     description: 'Este usuário é um Lagarto-monitor! AKA: Varanus'
 blue-tongued-skink:
+  realm: prime
   locales:
   - lang: en
     name: Blue-Tongued Skink
@@ -3589,6 +3989,7 @@ blue-tongued-skink:
     name: Lagarto-de-língua-azul
     description: Este usuário é um Lagarto-de-língua-azul!
 living-vehicle:
+  realm: prime
   locales:
   - lang: en
     name: Living Vehicle
@@ -3597,6 +3998,7 @@ living-vehicle:
     name: Veículo Vivo
     description: Este usuário é um Veículo Vivo!
 balinese:
+  realm: prime
   locales:
   - lang: en
     name: Balinese
@@ -3605,6 +4007,7 @@ balinese:
     name: Gato Balinês
     description: Este usuário é um gato Balinês!
 siamese:
+  realm: prime
   locales:
   - lang: en
     name: Siamese
@@ -3613,6 +4016,7 @@ siamese:
     name: Gato Siamês
     description: Este usuário é um gato Siamês!
 bison:
+  realm: prime
   locales:
   - lang: en
     name: Bison
@@ -3621,6 +4025,7 @@ bison:
     name: Bisão
     description: 'Este usuário é um Bisão! AKA: búfalo'
 mewlin:
+  realm: prime
   locales:
   - lang: en
     name: Mewlin
@@ -3629,6 +4034,7 @@ mewlin:
     name: Mewlin
     description: 'Este usuário é um Mewlin! #VRChat'
 great-pyrenees:
+  realm: prime
   locales:
   - lang: en
     name: Great Pyrenees
@@ -3639,6 +4045,7 @@ great-pyrenees:
     description: 'Este usuário é um Cão de montanha dos Pirenéus! AKA: Chien de Montagne
       des Pyrénées, Patou'
 charr:
+  realm: prime
   locales:
   - lang: en
     name: Charr
@@ -3647,6 +4054,7 @@ charr:
     name: Charr
     description: Este usuário é um Charr!
 mule:
+  realm: prime
   locales:
   - lang: en
     name: Mule
@@ -3655,6 +4063,7 @@ mule:
     name: Jumento
     description: 'Este usuário é uma Jumento! AKA: burro, asno, mula'
 ender-dragon:
+  realm: prime
   locales:
   - lang: en
     name: Ender Dragon
@@ -3663,6 +4072,7 @@ ender-dragon:
     name: Dragão do Ender
     description: Este usuário é um Dragão do Ender!
 stegosaurus:
+  realm: prime
   category:
     en: Dinosaur
     pt-BR: Dinossauro
@@ -3674,6 +4084,7 @@ stegosaurus:
     name: Estegossauro
     description: 'Este usuário é um Estegossauro! AKA: estegossáurio'
 otherkin:
+  realm: prime
   category:
     en: Meta
     pt-BR: Meta
@@ -3691,6 +4102,7 @@ otherkin:
       As identidades Otherkin são algumas vezes associadas com reencarnação, conexões
       cerebrais ou uma mistura de espécies na alma de alguém.
 alterhuman:
+  realm: prime
   category:
     en: Meta
     pt-BR: Meta
@@ -3708,6 +4120,7 @@ alterhuman:
       identificar como não-humanos ou como humanos de maneiras não convencionais.
       O termo serve como um guarda-chuva para várias identidades únicas.
 spotted-hyena:
+  realm: prime
   locales:
   - lang: en
     name: Spotted Hyena
@@ -3716,6 +4129,7 @@ spotted-hyena:
     name: Hiena-malhada
     description: Este usuário é uma Hiena-malhada!
 swaria:
+  realm: prime
   locales:
   - lang: en
     name: Swaria
@@ -3724,6 +4138,7 @@ swaria:
     name: Swaria
     description: 'Este usuário é um Swaria! #VRChat'
 rikkor:
+  realm: prime
   locales:
   - lang: en
     name: Rikkor
@@ -3732,6 +4147,7 @@ rikkor:
     name: Rikkor
     description: 'Este usuário é um Rikkor! #VRChat'
 potoo:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -3743,6 +4159,7 @@ potoo:
     name: Urutau
     description: Este usuário é um Urutau!
 ampharos:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3754,6 +4171,7 @@ ampharos:
     name: Ampharos
     description: Este usuário é um Ampharos!
 corvid:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -3766,6 +4184,7 @@ corvid:
     description: 'Este usuário é um Corvídeo! AKA: corvo, corvelo, gaio, gralha, gralho,
       cornelha, pega, frouva, choia, chuca e quebra-nozes'
 magpie:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -3777,6 +4196,7 @@ magpie:
     name: Pega
     description: Este usuário é uma Pega!
 scrub-jay:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -3788,6 +4208,7 @@ scrub-jay:
     name: Gaio-da-califórnia
     description: Este usuário é um Gaio-da-califórnia!
 darkrai:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3799,6 +4220,7 @@ darkrai:
     name: Darkrai
     description: Este usuário é um Darkrai!
 zigzagoon:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3810,9 +4232,7 @@ zigzagoon:
     name: Zigzagoon
     description: Este usuário é um Zigzagoon!
 octopus:
-  category:
-    en: Pokemon
-    pt-BR: Pokemon
+  realm: prime
   locales:
   - lang: en
     name: Octopus
@@ -3821,6 +4241,7 @@ octopus:
     name: Polvo
     description: Este usuário é um Polvo!
 qilin:
+  realm: prime
   category:
     en: Folklore
     pt-BR: Folclore
@@ -3832,6 +4253,7 @@ qilin:
     name: Qilin (ou Kirin)
     description: Este usuário é um Qilin (ou Kirin). Também conhecido como (麒麟 qílín).
 kirin-pony:
+  realm: prime
   locales:
   - lang: en
     name: Kirin (Pony)
@@ -3840,6 +4262,7 @@ kirin-pony:
     name: Kirin (Pônei)
     description: Este usuário é um Kirin (My Little Pony)!
 lycanroc:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3851,6 +4274,7 @@ lycanroc:
     name: Lycanroc
     description: Este usuário é um Lycanroc!
 ivysaur:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3862,6 +4286,7 @@ ivysaur:
     name: Ivyssauro
     description: Este usuário é um Ivyssauro!
 zeraora:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3873,6 +4298,7 @@ zeraora:
     name: Zeraora
     description: Este usuário é um Zeraora!
 skitty:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3884,6 +4310,7 @@ skitty:
     name: Skitty
     description: Este usuário é um Skitty!
 liepard:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3895,6 +4322,7 @@ liepard:
     name: Liepard
     description: Este usuário é um Liepard!
 mutt:
+  realm: prime
   locales:
   - lang: en
     name: Mutt
@@ -3903,6 +4331,7 @@ mutt:
     name: Vira-lata
     description: 'Este usuário é um Vira-lata! AKA: SRD'
 typhlosion:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3914,6 +4343,7 @@ typhlosion:
     name: Typhlosion
     description: Este usuário é um Typhlosion!
 dracthyr:
+  realm: prime
   category:
     en: World of Warcraft
     pt-BR: World of Warcraft
@@ -3925,6 +4355,7 @@ dracthyr:
     name: Dracthyr
     description: Este usuário é um Dracthyr!
 aggron:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3936,6 +4367,7 @@ aggron:
     name: Aggron
     description: Este usuário é um Aggron!
 halsanju-or-fecto:
+  realm: prime
   locales:
   - lang: en
     name: Halsanju/Fecto
@@ -3946,6 +4378,7 @@ halsanju-or-fecto:
     description: 'Este usuário é um Halsanju! AKA: Fecto. From Kirby and the Forgotten
       Land (video game).'
 swedish-vallhund:
+  realm: prime
   locales:
   - lang: en
     name: Swedish Vallhund
@@ -3954,6 +4387,7 @@ swedish-vallhund:
     name: Vallhund Sueco
     description: 'Este usuário é um Vallhund Sueco! AKA: Spitz dos Visigodos'
 raichu:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3965,6 +4399,7 @@ raichu:
     name: Raichu
     description: Este usuário é um Raichu!
 pokefusion:
+  realm: prime
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3978,6 +4413,7 @@ pokefusion:
     description: Este usuário é uma Pokefusão! Semelhante ao rótulo Híbrido, mas específico
       para Pokémon; use com rótulos de outras espécies de Pokémon!
 croconaw:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -3989,6 +4425,7 @@ croconaw:
     name: Croconaw
     description: Este usuário é um Croconaw!
 feraligatr:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4000,6 +4437,7 @@ feraligatr:
     name: Feraligatr
     description: Este usuário é um Feraligatr!
 drizzile:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4011,6 +4449,7 @@ drizzile:
     name: Drizzile
     description: Este usuário é um Drizzile!
 serperior:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4022,6 +4461,7 @@ serperior:
     name: Serperior
     description: Este usuário é um Serperior!
 pangoro:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4033,6 +4473,7 @@ pangoro:
     name: Pangoro
     description: Este usuário é um Pangoro!
 miqote:
+  realm: prime
   category:
     en: Final Fantasy
     pt-BR: Final Fantasy
@@ -4044,6 +4485,7 @@ miqote:
     name: Miqo'te
     description: Este usuário é um Miqo'te!
 kemonomimi:
+  realm: prime
   locales:
   - lang: en
     name: Kemonomimi
@@ -4054,6 +4496,7 @@ kemonomimi:
     description: Este usuário é um Kemonomimi! Kemonomimi são personagens que possuem
       orelhas, caudas ou outras características de animais em um corpo humano.
 nekomimi:
+  realm: prime
   locales:
   - lang: en
     name: Nekomimi
@@ -4068,6 +4511,7 @@ nekomimi:
       em um corpo humano) onde o personagem tem orelhas de gato, caudas ou outras
       características felinas em um corpo humano.
 inumimi:
+  realm: prime
   locales:
   - lang: en
     name: Inumimi
@@ -4082,6 +4526,7 @@ inumimi:
       em um corpo humano) onde o personagem tem orelhas de cachorro, caudas ou outras
       características caninas em um corpo humano.
 sandslash:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4093,6 +4538,7 @@ sandslash:
     name: Sandslash
     description: Este usuário é um Sandslash!
 braixen:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4104,6 +4550,7 @@ braixen:
     name: Braixen
     description: Este usuário é um Braixen!
 zangoose:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4115,6 +4562,7 @@ zangoose:
     name: Zangoose
     description: Este usuário é um Zangoose!
 boxer:
+  realm: prime
   locales:
   - lang: en
     name: Boxer
@@ -4123,6 +4571,7 @@ boxer:
     name: Boxer
     description: Este usuário é um Boxer!
 manta-ray:
+  realm: prime
   locales:
   - lang: en
     name: Manta Ray
@@ -4132,6 +4581,7 @@ manta-ray:
     description: 'Este usuário é uma Arraia! AKA: jamanta, manta, maroma, morcego-do-mar,
       peixe-diabo, raia-diabo, juneco'
 goblin:
+  realm: prime
   category:
     en: D&D
     pt-BR: D&D
@@ -4143,6 +4593,7 @@ goblin:
     name: Goblin
     description: Este usuário é um Goblin!
 snorlax:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4154,6 +4605,7 @@ snorlax:
     name: Snorlax
     description: Este usuário é um Snorlax!
 objecthead:
+  realm: prime
   locales:
   - lang: en
     name: Objecthead
@@ -4164,6 +4616,7 @@ objecthead:
     description: Este usuário é um Cabeça de objeto! Refere-se a humanóides ou criaturas
       com objetos no lugar da cabeça; um exemplo comum é um Cabeça de TV.
 skullcreature:
+  realm: prime
   locales:
   - lang: en
     name: Skullcreature
@@ -4174,6 +4627,7 @@ skullcreature:
     description: Este usuário é uma Criatura-Caveira! Semelhante ao Skulldog, mas
       generalizado para todos os tipos de criaturas.
 lalafell:
+  realm: prime
   locales:
   - lang: en
     name: Lalafell
@@ -4182,6 +4636,7 @@ lalafell:
     name: Lalafell
     description: Este usuário é uma Lalafell!
 tiefling:
+  realm: prime
   category:
     en: D&D
     pt-BR: D&D
@@ -4193,6 +4648,7 @@ tiefling:
     name: Tiefling
     description: Este usuário é um Tiefling!
 espeon:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4204,6 +4660,7 @@ espeon:
     name: Espeon
     description: Este usuário é um Espeon!
 gyrfalcon:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -4215,6 +4672,7 @@ gyrfalcon:
     name: Falcão-gerifalte
     description: Este usuário é um Falcão-gerifalte!
 mimiga:
+  realm: prime
   locales:
   - lang: en
     name: Mimiga
@@ -4223,6 +4681,7 @@ mimiga:
     name: Mimiga
     description: Este usuário é um Mimiga! de Cave Story (video game)
 andean-bear:
+  realm: prime
   locales:
   - lang: en
     name: Andean Bear
@@ -4233,6 +4692,7 @@ andean-bear:
       Urso Sul-Americano, Urso Andino, Urso-de-Face-Curta Andino, Urso da Montanha,
       jukumari, ukumari ou ukuku'
 glaceon:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4244,6 +4704,7 @@ glaceon:
     name: Glaceon
     description: Este usuário é um Glaceon!
 finnish-spitz:
+  realm: prime
   locales:
   - lang: en
     name: Finnish Spitz
@@ -4252,6 +4713,7 @@ finnish-spitz:
     name: Spitz finlandês
     description: Este usuário é um Spitz finlandês!
 behemoth:
+  realm: prime
   category:
     en: Final Fantasy
     pt-BR: Final Fantasy
@@ -4263,6 +4725,7 @@ behemoth:
     name: Behemoth
     description: Este usuário é um Behemoth!
 gengar:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4274,6 +4737,7 @@ gengar:
     name: Gengar
     description: Este usuário é um Gengar!
 riolu:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4285,6 +4749,7 @@ riolu:
     name: Riolu
     description: Este usuário é um Riolu!
 scavenger:
+  realm: prime
   locales:
   - lang: en
     name: Scavenger (Rain World)
@@ -4293,6 +4758,7 @@ scavenger:
     name: Scavenger (Rain World)
     description: Este usuário é um Scavenger! de Rain World (video game)
 bald-eagle:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -4304,6 +4770,7 @@ bald-eagle:
     name: Águia Careca
     description: Este usuário é uma Águia Careca!
 poochyena:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4315,6 +4782,7 @@ poochyena:
     name: Poochyena
     description: Este usuário é um Poochyena!
 wolpertinger:
+  realm: prime
   locales:
   - lang: en
     name: Wolpertinger
@@ -4323,6 +4791,7 @@ wolpertinger:
     name: Wolpertinger
     description: Este usuário é um Wolpertinger!
 pichu:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4334,6 +4803,7 @@ pichu:
     name: Pichu
     description: Este usuário é um Pichu!
 highland-cow:
+  realm: prime
   locales:
   - lang: en
     name: Highland Cow
@@ -4342,6 +4812,7 @@ highland-cow:
     name: Vaca das Terras Altas
     description: Este usuário é uma Vaca das Terras Altas!
 abra:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4353,6 +4824,7 @@ abra:
     name: Abra
     description: Este usuário é um Abra!
 novabeast:
+  realm: prime
   locales:
   - lang: en
     name: Novabeast
@@ -4361,6 +4833,7 @@ novabeast:
     name: Novabeast
     description: Este usuário é um Novabeast!
 porygon:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4372,6 +4845,7 @@ porygon:
     name: Porygon
     description: Este usuário é um Porygon!
 imp:
+  realm: prime
   locales:
   - lang: en
     name: Imp
@@ -4380,6 +4854,7 @@ imp:
     name: Imp
     description: Este usuário é um Imp!
 grackle:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -4391,6 +4866,7 @@ grackle:
     name: Graúna
     description: Este usuário é uma Graúna!
 amphiptere:
+  realm: prime
   locales:
   - lang: en
     name: Amphiptere
@@ -4399,6 +4875,7 @@ amphiptere:
     name: Amphiptere
     description: Este usuário é um Amphiptere!
 marmot:
+  realm: prime
   locales:
   - lang: en
     name: Marmot
@@ -4407,6 +4884,7 @@ marmot:
     name: Marmota
     description: Este usuário é uma Marmota!
 pit-bull:
+  realm: prime
   locales:
   - lang: en
     name: Pit Bull
@@ -4415,6 +4893,7 @@ pit-bull:
     name: Pit Bull
     description: Este usuário é um Pit Bull!
 tegu:
+  realm: prime
   locales:
   - lang: en
     name: Tegu
@@ -4423,6 +4902,7 @@ tegu:
     name: Tegu
     description: Este usuário é um Tegu!
 zorua:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4434,6 +4914,7 @@ zorua:
     name: Zorua
     description: Este usuário é um Zorua!
 delphox:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4445,6 +4926,7 @@ delphox:
     name: Delphox
     description: Este usuário é um Delphox!
 caiman:
+  realm: prime
   locales:
   - lang: en
     name: Caiman
@@ -4453,6 +4935,7 @@ caiman:
     name: Jacaré
     description: Este usuário é um Jacaré!
 gorilla:
+  realm: prime
   locales:
   - lang: en
     name: Gorilla
@@ -4461,6 +4944,7 @@ gorilla:
     name: Gorila
     description: Este usuário é um Gorila!
 ankylosaurus:
+  realm: prime
   locales:
   - lang: en
     name: Ankylosaurus
@@ -4469,6 +4953,7 @@ ankylosaurus:
     name: Anquilossauro
     description: Este usuário é um Anquilossauro!
 primarina:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4480,6 +4965,7 @@ primarina:
     name: Primarina
     description: Este usuário é um Primarina!
 dik-dik:
+  realm: prime
   locales:
   - lang: en
     name: Dik-Dik
@@ -4488,6 +4974,7 @@ dik-dik:
     name: Dik-Dik
     description: Este usuário é um Dik Dik!
 nightstalker:
+  realm: prime
   locales:
   - lang: en
     name: Nightstalker
@@ -4496,6 +4983,7 @@ nightstalker:
     name: Nightstalker
     description: Este usuário é um Nightstalker!
 dimetrodon:
+  realm: prime
   locales:
   - lang: en
     name: Dimetrodon
@@ -4504,6 +4992,7 @@ dimetrodon:
     name: Dimetrodon
     description: Este usuário é um Dimetrodon!
 gardevoir:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4515,6 +5004,7 @@ gardevoir:
     name: Gardevoir
     description: Este usuário é um Gardevoir!
 latex:
+  realm: prime
   category:
     en: Modifier
     pt-BR: Modifier
@@ -4526,6 +5016,7 @@ latex:
     name: Látex
     description: Este usuário é feito de Látex!
 rubber:
+  realm: prime
   category:
     en: Modifier
     pt-BR: Modifier
@@ -4537,6 +5028,7 @@ rubber:
     name: Borracha
     description: Este usuário é feito de Borracha!
 goo:
+  realm: prime
   category:
     en: Modifier
     pt-BR: Modifier
@@ -4548,6 +5040,7 @@ goo:
     name: Gosma
     description: Este usuário é feito de Gosma!
 synthetic:
+  realm: prime
   category:
     en: Modifier
     pt-BR: Modifier
@@ -4559,6 +5052,7 @@ synthetic:
     name: Sintético
     description: Este usuário é feito de um material sintético!
 plural-system:
+  realm: prime
   category:
     en: Meta
     pt-BR: Meta
@@ -4572,6 +5066,7 @@ plural-system:
     description: Este perfil do Bluesky é compartilhado entre múltiplas entidades
       dentro de um sistema plural.
 details-in-bio:
+  realm: prime
   category:
     en: Meta
     pt-BR: Meta
@@ -4585,6 +5080,7 @@ details-in-bio:
     description: A espécie/fursona deste usuário é explicada com mais detalhes em
       sua biografia.
 scolipede:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4596,6 +5092,7 @@ scolipede:
     name: Scolipede
     description: Este usuário é um Scolipede!
 aftik:
+  realm: prime
   locales:
   - lang: en
     name: Aftik
@@ -4604,6 +5101,7 @@ aftik:
     name: Aftik
     description: 'Este usuário é um Aftik! [Tags: open-species]'
 azhdarchid:
+  realm: prime
   locales:
   - lang: en
     name: Azhdarchid
@@ -4612,6 +5110,7 @@ azhdarchid:
     name: Azhdarchid
     description: Este usuário é um Azhdarchid!
 gerbil:
+  realm: prime
   locales:
   - lang: en
     name: Gerbil
@@ -4620,6 +5119,7 @@ gerbil:
     name: Gerbil
     description: Este usuário é um Gerbil!
 manul:
+  realm: prime
   locales:
   - lang: en
     name: Manul
@@ -4628,6 +5128,7 @@ manul:
     name: Manul
     description: Este usuário é um Manul!
 regulus:
+  realm: prime
   locales:
   - lang: en
     name: Regulus
@@ -4636,6 +5137,7 @@ regulus:
     name: Regulus
     description: Este usuário é um Regulus! (VRChat)
 octoling:
+  realm: prime
   locales:
   - lang: en
     name: Octoling
@@ -4644,6 +5146,7 @@ octoling:
     name: Octoling
     description: Este usuário é um Octoling! from Splatoon (video game)
 torracat:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4655,6 +5158,7 @@ torracat:
     name: Torracat
     description: Este usuário é um Torracat!
 asiatic-cheetah:
+  realm: prime
   locales:
   - lang: en
     name: Asiatic Cheetah
@@ -4663,6 +5167,7 @@ asiatic-cheetah:
     name: Guepardo Asiático
     description: Este usuário é um Guepardo Asiático!
 mewtwo:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4674,6 +5179,7 @@ mewtwo:
     name: Mewtwo
     description: Este usuário é um Mewtwo!
 ceratosaurus:
+  realm: prime
   locales:
   - lang: en
     name: Ceratosaurus
@@ -4682,6 +5188,7 @@ ceratosaurus:
     name: Ceratossauro
     description: Este usuário é um Ceratossauro!
 secretarybird:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -4693,6 +5200,7 @@ secretarybird:
     name: Secretaria
     description: Este usuário é uma Secretaria!
 collie:
+  realm: prime
   locales:
   - lang: en
     name: Collie
@@ -4701,6 +5209,7 @@ collie:
     name: Collie
     description: Este usuário é um Collie!
 turaco:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -4712,6 +5221,7 @@ turaco:
     name: Turaco
     description: Este usuário é um Turaco!
 great-dane:
+  realm: prime
   locales:
   - lang: en
     name: Great Dane
@@ -4720,6 +5230,7 @@ great-dane:
     name: Dogue Alemão
     description: Este usuário é um Dogue Alemão!
 gila-monster:
+  realm: prime
   locales:
   - lang: en
     name: Gila Monster
@@ -4728,6 +5239,7 @@ gila-monster:
     name: Monstro de Gila
     description: Este usuário é um Monstro de Gila!
 fennekin:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4739,6 +5251,7 @@ fennekin:
     name: Fennekin
     description: Este usuário é um Fennekin!
 pawmot:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4750,6 +5263,7 @@ pawmot:
     name: Pawmot
     description: Este usuário é um Pawmot!
 asura:
+  realm: prime
   locales:
   - lang: en
     name: Asura
@@ -4758,6 +5272,7 @@ asura:
     name: Asura
     description: Este usuário é um Asura! (Guild Wars 2)
 audino:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4769,6 +5284,7 @@ audino:
     name: Audino
     description: Este usuário é um Audino!
 sendaen:
+  realm: prime
   locales:
   - lang: en
     name: Sendaen
@@ -4777,6 +5293,7 @@ sendaen:
     name: Sendaen
     description: 'Este usuário é um Sendaen! [Tags: open-species]'
 firekin:
+  realm: prime
   locales:
   - lang: en
     name: Firekin
@@ -4787,6 +5304,7 @@ firekin:
     name: Firekin
     description: Este usuário é um Firekin!
 kit-fox:
+  realm: prime
   locales:
   - lang: en
     name: Kit Fox
@@ -4795,6 +5313,7 @@ kit-fox:
     name: Raposa do Deserto
     description: Este usuário é uma Raposa do Deserto!
 meowstic:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4806,6 +5325,7 @@ meowstic:
     name: Meowstic
     description: Este usuário é um Meowstic!
 feline:
+  realm: prime
   locales:
   - lang: en
     name: Feline
@@ -4814,6 +5334,7 @@ feline:
     name: Felino
     description: Este usuário é um Felino!
 caprid:
+  realm: prime
   locales:
   - lang: en
     name: Caprid
@@ -4822,6 +5343,7 @@ caprid:
     name: Caprino
     description: Este usuário é um Caprino!
 inkling:
+  realm: prime
   locales:
   - lang: en
     name: Inkling
@@ -4830,6 +5352,7 @@ inkling:
     name: Inkling
     description: Este usuário é um Inkling! from Splatoon (video game)
 undead:
+  realm: prime
   category:
     en: Modifier
     pt-BR: Modifier
@@ -4841,6 +5364,7 @@ undead:
     name: Morto-vivo
     description: Morto-vivo
 crocodile-skink:
+  realm: prime
   locales:
   - lang: en
     name: Crocodile Skink
@@ -4850,6 +5374,7 @@ crocodile-skink:
     name: Lagarto Crocodilo
     description: Este usuário é um Lagarto Crocodilo!
 dalmatian:
+  realm: prime
   locales:
   - lang: en
     name: Dalmatian
@@ -4858,6 +5383,7 @@ dalmatian:
     name: Dálmata
     description: Este usuário é um Dálmata!
 shaymin:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4869,6 +5395,7 @@ shaymin:
     name: Shaymin
     description: Este usuário é um Shaymin!
 floragato:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -4880,6 +5407,7 @@ floragato:
     name: Floragato
     description: Este usuário é um Floragato!
 cockroach:
+  realm: prime
   locales:
   - lang: en
     name: Cockroach
@@ -4888,6 +5416,7 @@ cockroach:
     name: Barata
     description: Este usuário é uma Barata!
 balloon:
+  realm: prime
   category:
     en: Modifier
     pt-BR: Modifier
@@ -4899,6 +5428,7 @@ balloon:
     name: Balão
     description: Balão
 freakhound:
+  realm: prime
   locales:
   - lang: en
     name: Freakhound
@@ -4909,6 +5439,7 @@ freakhound:
     description: 'Este usuário é um Freakhound! http://freakhoundstudios.com/freakhound
       #VRChat'
 hogzilla:
+  realm: prime
   category:
     en: Folklore
     pt-BR: Folclore
@@ -4920,6 +5451,7 @@ hogzilla:
     name: Hogzilla
     description: Este usuário é um Hogzilla!
 malkavian:
+  realm: prime
   locales:
   - lang: en
     name: Malkavian
@@ -4928,6 +5460,7 @@ malkavian:
     name: Malkavian
     description: 'Este usuário é um Malkavian! (Vampire: The Masquerade)'
 barn-owl:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -4939,6 +5472,7 @@ barn-owl:
     name: Coruja de Celeiro
     description: Este usuário é uma Coruja de Celeiro!
 zombie:
+  realm: prime
   category:
     en: Modifier
     pt-BR: Modifier
@@ -4950,6 +5484,7 @@ zombie:
     name: Zumbi
     description: Zumbi
 lumex:
+  realm: prime
   locales:
   - lang: en
     name: Lumex
@@ -4958,6 +5493,7 @@ lumex:
     name: Lumex
     description: 'Este usuário é um Lumex! [Tags: open-species]'
 cozumel-raccoon:
+  realm: prime
   locales:
   - lang: en
     name: Cozumel Raccoon
@@ -4966,6 +5502,7 @@ cozumel-raccoon:
     name: Guaxinim Pigmeu
     description: 'Este usuário é um Guaxinim Pigmeu!  AKA: Cozumel Raccoon'
 ampwave:
+  realm: prime
   locales:
   - lang: en
     name: Ampwave
@@ -4974,6 +5511,7 @@ ampwave:
     name: Ampwave
     description: 'Este usuário é um Ampwave!  [Tags: open-species] https://www.ampwavespecies.com/'
 herbivore:
+  realm: prime
   locales:
   - lang: en
     name: Herbivore
@@ -4982,6 +5520,7 @@ herbivore:
     name: Herbívoro
     description: 'Este usuário é um Herbívoro!  AKA: Herbivore'
 turtle:
+  realm: prime
   locales:
   - lang: en
     name: Turtle
@@ -4990,6 +5529,7 @@ turtle:
     name: Tartaruga
     description: 'Este usuário é uma Tartaruga!  AKA: Turtle'
 troll:
+  realm: prime
   category:
     en: Folklore
     pt-BR: Folclore
@@ -5001,6 +5541,7 @@ troll:
     name: Troll (Folklore)
     description: Este usuário é um Troll!
 southern-ethiopian-wolf:
+  realm: prime
   locales:
   - lang: en
     name: Southern Ethiopian Wolf
@@ -5009,6 +5550,7 @@ southern-ethiopian-wolf:
     name: Lobo Etíope
     description: 'Este usuário é um Lobo Etíope!  AKA: Southern Ethiopian Wolf'
 german-shepherd:
+  realm: prime
   locales:
   - lang: en
     name: German Shepherd
@@ -5017,6 +5559,7 @@ german-shepherd:
     name: Pastor Alemão
     description: 'Este usuário é um Pastor Alemão!  AKA: German Shepherd'
 wererat:
+  realm: prime
   locales:
   - lang: en
     name: Wererat
@@ -5025,6 +5568,7 @@ wererat:
     name: Wererat
     description: Este usuário é um Wererat!
 fanged-wyvern:
+  realm: prime
   category:
     en: Monster Hunter
     pt-BR: Monster Hunter
@@ -5036,6 +5580,7 @@ fanged-wyvern:
     name: Fanged Wyvern
     description: Este usuário é um Fanged Wyvern!
 canterwit:
+  realm: prime
   locales:
   - lang: en
     name: Canterwit
@@ -5044,6 +5589,7 @@ canterwit:
     name: Canterwit
     description: 'Este usuário é um Canterwit!  [Tags: closed-species] https://canterwit.weebly.com/introduction.html'
 koopa:
+  realm: prime
   locales:
   - lang: en
     name: Koopa
@@ -5052,6 +5598,7 @@ koopa:
     name: Koopa
     description: 'Este usuário é um Koopa!  AKA: Elk'
 clown:
+  realm: prime
   locales:
   - lang: en
     name: Clown
@@ -5060,6 +5607,7 @@ clown:
     name: Palhaço
     description: 'Este usuário é um Palhaço!  AKA: Clown'
 piscine-wyvern:
+  realm: prime
   category:
     en: Monster Hunter
     pt-BR: Monster Hunter
@@ -5071,6 +5619,7 @@ piscine-wyvern:
     name: Piscine Wyvern
     description: Este usuário é um Piscine Wyvern!
 brown-hyena:
+  realm: prime
   locales:
   - lang: en
     name: Brown Hyena
@@ -5079,6 +5628,7 @@ brown-hyena:
     name: Hiena Marrom
     description: Este usuário é uma Hiena Marrom!
 skunkbear:
+  realm: prime
   locales:
   - lang: en
     name: Skunkbear
@@ -5087,6 +5637,7 @@ skunkbear:
     name: Urso-gambá
     description: 'Este usuário é um Urso-gambá!  AKA: Skunkbear'
 lizardfolk:
+  realm: prime
   locales:
   - lang: en
     name: Lizardfolk
@@ -5095,6 +5646,7 @@ lizardfolk:
     name: Lizardfolk
     description: Este usuário é um Lizardfolk!
 monster-girl:
+  realm: prime
   locales:
   - lang: en
     name: Monster Girl
@@ -5103,6 +5655,7 @@ monster-girl:
     name: Monster Girl
     description: Este usuário é uma Monster Girl!
 flying-wyvern:
+  realm: prime
   category:
     en: Monster Hunter
     pt-BR: Monster Hunter
@@ -5114,6 +5667,7 @@ flying-wyvern:
     name: Flying Wyvern
     description: Este usuário é um Flying Wyvern!
 manticore:
+  realm: prime
   locales:
   - lang: en
     name: Manticore
@@ -5122,6 +5676,7 @@ manticore:
     name: Manticora
     description: Este usuário é uma Manticora!
 clouded-leopard:
+  realm: prime
   locales:
   - lang: en
     name: Clouded Leopard
@@ -5130,6 +5685,7 @@ clouded-leopard:
     name: Leopardo-Nebuloso
     description: 'Este usuário é um Leopardo-Nebuloso!  AKA: Clouded Leopard'
 jerboa:
+  realm: prime
   locales:
   - lang: en
     name: Jerboa
@@ -5138,6 +5694,7 @@ jerboa:
     name: Jerboa
     description: Este usuário é um Jerboa!
 moth:
+  realm: prime
   locales:
   - lang: en
     name: Moth
@@ -5146,6 +5703,7 @@ moth:
     name: Mariposa
     description: 'Este usuário é uma Mariposa!  AKA: Moth'
 temnoceran:
+  realm: prime
   category:
     en: Monster Hunter
     pt-BR: Monster Hunter
@@ -5157,6 +5715,7 @@ temnoceran:
     name: Temnoceran
     description: Este usuário é um Temnoceran!
 brute-wyvern:
+  realm: prime
   category:
     en: Monster Hunter
     pt-BR: Caçador de Monstros
@@ -5168,6 +5727,7 @@ brute-wyvern:
     name: Wyvern Bruto
     description: Este usuário é um Wyvern Bruto!
 leviathan:
+  realm: prime
   category:
     en: Monster Hunter
     pt-BR: Monster Hunter
@@ -5179,6 +5739,7 @@ leviathan:
     name: Leviathan
     description: Este usuário é um Leviathan!
 fanged-beast:
+  realm: prime
   category:
     en: Monster Hunter
     pt-BR: Monster Hunter
@@ -5190,6 +5751,7 @@ fanged-beast:
     name: Fanged Beast
     description: Este usuário é um Fanged Beast!
 eastern-dragon:
+  realm: prime
   locales:
   - lang: en
     name: Eastern Dragon
@@ -5198,6 +5760,7 @@ eastern-dragon:
     name: Dragão Oriental
     description: 'Este usuário é um Dragão Oriental!  AKA: Eastern Dragon'
 panther:
+  realm: prime
   locales:
   - lang: en
     name: Panther
@@ -5206,6 +5769,7 @@ panther:
     name: Pantera
     description: 'Este usuário é um Pantera!  AKA: Panther'
 sphinx:
+  realm: prime
   locales:
   - lang: en
     name: Sphinx
@@ -5214,6 +5778,7 @@ sphinx:
     name: Gato Sphinx
     description: Este usuário é um Gato Sphinx!
 merfolk:
+  realm: prime
   locales:
   - lang: en
     name: Merfolk
@@ -5222,6 +5787,7 @@ merfolk:
     name: Tritão
     description: 'Este usuário é um Tritão!  AKA: Merfolk'
 robot-dragon:
+  realm: prime
   locales:
   - lang: en
     name: Robot Dragon
@@ -5230,6 +5796,7 @@ robot-dragon:
     name: Dragão-Robô
     description: 'Este usuário é um Dragão Robô!  AKA: Robot Dragon'
 wolfdog:
+  realm: prime
   locales:
   - lang: en
     name: Wolfdog
@@ -5238,6 +5805,7 @@ wolfdog:
     name: Cão-Lobo
     description: 'Este usuário é um Cão-Lobo!  AKA: Wolfdog'
 furred-dragon:
+  realm: prime
   locales:
   - lang: en
     name: Furred Dragon
@@ -5246,6 +5814,7 @@ furred-dragon:
     name: Dragão-Peludo
     description: 'Este usuário é um Dragão-Peludo!  AKA: Furred Dragon'
 sylveon:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -5257,6 +5826,7 @@ sylveon:
     name: Sylveon
     description: Este usuário é um Sylveon!
 synth:
+  realm: prime
   locales:
   - lang: en
     name: Synth
@@ -5265,6 +5835,7 @@ synth:
     name: Synth
     description: Este usuário é um Synth!
 striped-hyena:
+  realm: prime
   locales:
   - lang: en
     name: Striped Hyena
@@ -5273,6 +5844,7 @@ striped-hyena:
     name: Hiena Listrada
     description: Este usuário é uma Hiena Listrada!
 anomalocaris:
+  realm: prime
   locales:
   - lang: en
     name: Anomalocaris
@@ -5281,6 +5853,7 @@ anomalocaris:
     name: Anomalocaris
     description: Este usuário é um Anomalocaris!
 arctic-hare:
+  realm: prime
   locales:
   - lang: en
     name: Arctic Hare
@@ -5289,6 +5862,7 @@ arctic-hare:
     name: Lebre-do-Ártico
     description: 'Este usuário é um Lebre-do-Ártico!  AKA: Arctic Hare'
 neopteron:
+  realm: prime
   category:
     en: Monster Hunter
     pt-BR: Monster Hunter
@@ -5300,6 +5874,7 @@ neopteron:
     name: Neopteron
     description: Este usuário é um Neopteron!
 arcanine:
+  realm: pokemon
   locales:
   - lang: en
     name: Arcanine
@@ -5311,6 +5886,7 @@ arcanine:
     en: Pokemon
     pt-BR: Pokemon
 skaven:
+  realm: prime
   locales:
   - lang: en
     name: Skaven
@@ -5319,6 +5895,7 @@ skaven:
     name: Skaven
     description: Este usuário é um Skaven!
 snake-wyvern:
+  realm: prime
   locales:
   - lang: en
     name: Snake Wyvern
@@ -5330,6 +5907,7 @@ snake-wyvern:
     en: Monster Hunter
     pt-BR: Monster Hunter
 egyptian-cobra:
+  realm: prime
   locales:
   - lang: en
     name: Egyptian Cobra
@@ -5341,6 +5919,7 @@ egyptian-cobra:
     en: Snake
     pt-BR: Cobra
 hare:
+  realm: prime
   locales:
   - lang: en
     name: Hare
@@ -5349,6 +5928,7 @@ hare:
     name: Lebre
     description: 'Este usuário é uma Lebre!  AKA: Hare'
 amphibian:
+  realm: prime
   locales:
   - lang: en
     name: Amphibian
@@ -5357,6 +5937,7 @@ amphibian:
     name: Anfíbio
     description: 'Este usuário é um Anfíbio!  AKA: Amphibian'
 elder-dragon:
+  realm: prime
   locales:
   - lang: en
     name: Elder Dragon
@@ -5368,6 +5949,7 @@ elder-dragon:
     en: Monster Hunter
     pt-BR: Monster Hunter
 wingdrake:
+  realm: prime
   locales:
   - lang: en
     name: Wingdrake
@@ -5379,6 +5961,7 @@ wingdrake:
     en: Monster Hunter
     pt-BR: Monster Hunter
 carapaceon:
+  realm: prime
   locales:
   - lang: en
     name: Carapaceon
@@ -5390,6 +5973,7 @@ carapaceon:
     en: Monster Hunter
     pt-BR: Monster Hunter
 inkblot-toon:
+  realm: prime
   locales:
   - lang: en
     name: Inkblot Toon
@@ -5398,6 +5982,7 @@ inkblot-toon:
     name: Desenho de Manchas de Tinta
     description: Este usuário é um Desenho de Manchas de Tinta!
 lynian:
+  realm: prime
   locales:
   - lang: en
     name: Lynian
@@ -5409,6 +5994,7 @@ lynian:
     en: Monster Hunter
     pt-BR: Monster Hunter
 puffball:
+  realm: prime
   locales:
   - lang: en
     name: Puffball
@@ -5417,6 +6003,7 @@ puffball:
     name: Puffball
     description: Este usuário é um Puffball! (Como o Kirby)
 drake:
+  realm: prime
   locales:
   - lang: en
     name: Drake
@@ -5425,6 +6012,7 @@ drake:
     name: Drake
     description: Este usuário é um Drake!
 malagasy-giant-rat:
+  realm: prime
   locales:
   - lang: en
     name: Malagasy Giant Rat
@@ -5433,6 +6021,7 @@ malagasy-giant-rat:
     name: Rato Gigante Malgaxe
     description: Este usuário é um Rato Gigante Malgaxe!
 scottish-fold-munchkin:
+  realm: prime
   locales:
   - lang: en
     name: Scottish Fold Munchkin
@@ -5441,6 +6030,7 @@ scottish-fold-munchkin:
     name: Scottish Fold Munchkin
     description: Este usuário é um Scottish Fold Munchkin!
 eevee:
+  realm: pokemon
   locales:
   - lang: en
     name: Eevee
@@ -5452,6 +6042,7 @@ eevee:
     en: Pokemon
     pt-BR: Pokemon
 au-ra:
+  realm: prime
   locales:
   - lang: en
     name: Au Ra
@@ -5463,6 +6054,7 @@ au-ra:
     en: Final Fantasy
     pt-BR: Final Fantasy
 nekomata:
+  realm: prime
   locales:
   - lang: en
     name: Nekomata
@@ -5474,6 +6066,7 @@ nekomata:
     en: Folklore
     pt-BR: Folclore
 buneary:
+  realm: pokemon
   locales:
   - lang: en
     name: Buneary
@@ -5485,6 +6078,7 @@ buneary:
     en: Pokemon
     pt-BR: Pokemon
 lopunny:
+  realm: pokemon
   locales:
   - lang: en
     name: Lopunny
@@ -5496,6 +6090,7 @@ lopunny:
     en: Pokemon
     pt-BR: Pokemon
 zinogre:
+  realm: prime
   locales:
   - lang: en
     name: Zinogre
@@ -5507,6 +6102,7 @@ zinogre:
     en: Monster Hunter
     pt-BR: Monster Hunter
 wyrm:
+  realm: prime
   locales:
   - lang: en
     name: Wyrm
@@ -5518,6 +6114,7 @@ wyrm:
     en: Folklore
     pt-BR: Folclore
 brionne:
+  realm: pokemon
   locales:
   - lang: en
     name: Brionne
@@ -5529,6 +6126,7 @@ brionne:
     en: Pokemon
     pt-BR: Pokemon
 schnauzer:
+  realm: prime
   locales:
   - lang: en
     name: Schnauzer
@@ -5537,6 +6135,7 @@ schnauzer:
     name: Schnauzer
     description: Este usuário é um Schnauzer!
 mimic:
+  realm: prime
   category:
     en: D&D
     pt-BR: D&D
@@ -5550,6 +6149,7 @@ mimic:
     description: Este usuário é um baú de tesouro totalmente normal e DEFINITIVAMENTE
       não é um Mímico!
 osprey:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -5561,6 +6161,7 @@ osprey:
     name: Águia-pesqueira
     description: Este usuário é uma Águia-pesqueira!
 karelian-bear-dog:
+  realm: prime
   locales:
   - lang: en
     name: Karelian Bear Dog
@@ -5569,6 +6170,7 @@ karelian-bear-dog:
     name: Cão de Urso da Carélia
     description: Este usuário é um Cão de Urso da Carélia!
 frankenstein:
+  realm: prime
   locales:
   - lang: en
     name: Frankenstein
@@ -5577,6 +6179,7 @@ frankenstein:
     name: Frankenstein
     description: Este usuário é um Frankenstein! (Modificador)
 night-fury:
+  realm: prime
   locales:
   - lang: en
     name: Night Fury
@@ -5585,6 +6188,7 @@ night-fury:
     name: Fúria da Noite
     description: Este usuário é um Fúria da Noite! (HTTYD)
 mamagen:
+  realm: prime
   locales:
   - lang: en
     name: Mamagen
@@ -5593,6 +6197,7 @@ mamagen:
     name: Mamagen
     description: Este usuário é um Mamagen! (VRChat)
 swampling:
+  realm: prime
   locales:
   - lang: en
     name: Swampling
@@ -5601,6 +6206,7 @@ swampling:
     name: Pântanoso
     description: 'Este usuário é um Pântanoso! [Tags: espécie aberta] por meltymoth'
 droukkits:
+  realm: prime
   locales:
   - lang: en
     name: Droukkits
@@ -5611,6 +6217,7 @@ droukkits:
     description: 'Este usuário é um Droukkits (um híbrido radioativo morador de cavernas)!
       [Tags: espécie aberta] por thespecialbeans'
 uxie:
+  realm: pokemon
   locales:
   - lang: en
     name: Uxie
@@ -5622,6 +6229,7 @@ uxie:
     en: Pokemon
     pt-BR: Pokemon
 mesprit:
+  realm: pokemon
   locales:
   - lang: en
     name: Mesprit
@@ -5633,6 +6241,7 @@ mesprit:
     en: Pokemon
     pt-BR: Pokemon
 azelf:
+  realm: pokemon
   locales:
   - lang: en
     name: Azelf
@@ -5644,6 +6253,7 @@ azelf:
     en: Pokemon
     pt-BR: Pokemon
 lake-guardian:
+  realm: pokemon
   locales:
   - lang: en
     name: Lake Spirit
@@ -5657,6 +6267,7 @@ lake-guardian:
     en: Pokemon-Lore
     pt-BR: Pokemon-Lore
 growlithe:
+  realm: pokemon
   locales:
   - lang: en
     name: Growlithe
@@ -5668,6 +6279,7 @@ growlithe:
     en: Pokemon
     pt-BR: Pokemon
 angoramon:
+  realm: prime
   locales:
   - lang: en
     name: Angoramon
@@ -5679,6 +6291,7 @@ angoramon:
     en: Digimon
     pt-BR: Digimon
 antlered:
+  realm: prime
   category:
     en: Modifier
     pt-BR: Modificador
@@ -5690,6 +6303,7 @@ antlered:
     name: Com Chifres
     description: Este usuário tem chifres!
 horned:
+  realm: prime
   category:
     en: Modifier
     pt-BR: Modificador
@@ -5698,6 +6312,7 @@ horned:
     name: Horned
     description: This user has horns!
 akitainu:
+  realm: prime
   locales:
   - lang: en
     name: Akitainu
@@ -5707,6 +6322,7 @@ akitainu:
     description: Este usuário é um Akitainu! Também conhecido como Akita, Akitainu
       Japonês
 american-akita:
+  realm: prime
   locales:
   - lang: en
     name: American Akita
@@ -5716,6 +6332,7 @@ american-akita:
     description: Este usuário é um Akita Americano! Também conhecido como Akita, Akita
       Americano
 silvally:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -5727,6 +6344,7 @@ silvally:
     name: Silvally
     description: Este usuário é um Silvally!
 sprigatito:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -5738,6 +6356,7 @@ sprigatito:
     name: Sprigatito
     description: Este usuário é um Sprigatito!
 alatreon:
+  realm: prime
   category:
     en: Monster Hunter
     pt-BR: Caçador de Monstros
@@ -5749,6 +6368,7 @@ alatreon:
     name: Alatreon
     description: Este usuário é um Alatreon!
 sawsbuck:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -5760,6 +6380,7 @@ sawsbuck:
     name: Sawsbuck
     description: Este usuário é um Sawsbuck!
 jolteon:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -5771,6 +6392,7 @@ jolteon:
     name: Jolteon
     description: Este usuário é um Jolteon!
 flareon:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -5782,6 +6404,7 @@ flareon:
     name: Flareon
     description: Este usuário é um Flareon!
 leafeon:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -5793,6 +6416,7 @@ leafeon:
     name: Flareon
     description: Este usuário é um Leafeon!
 leopard-cat:
+  realm: prime
   locales:
   - lang: en
     name: Leopard Cat
@@ -5801,6 +6425,7 @@ leopard-cat:
     name: Gato-leopardo
     description: Este usuário é um Gato-leopardo!
 popori:
+  realm: prime
   category:
     en: Tera (MMO)
     pt-BR: Tera (MMO)
@@ -5812,6 +6437,7 @@ popori:
     name: Popori
     description: Este usuário é um Popori! de Tera (MMO)
 chinchilla:
+  realm: prime
   locales:
   - lang: en
     name: Chinchilla
@@ -5820,6 +6446,7 @@ chinchilla:
     name: Chinchila
     description: Este usuário é uma Chinchila!
 carolina-dog:
+  realm: prime
   locales:
   - lang: en
     name: Carolina Dog
@@ -5828,6 +6455,7 @@ carolina-dog:
     name: Cão da Carolina
     description: Este usuário é um Cão da Carolina!
 aipom:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokémon
@@ -5839,6 +6467,7 @@ aipom:
     name: Aipom
     description: Este usuário é um Aipom!
 tinkaton:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokémon
@@ -5850,6 +6479,7 @@ tinkaton:
     name: Tinkaton
     description: Este usuário é um Tinkaton!
 kremling:
+  realm: prime
   locales:
   - lang: en
     name: Kremling
@@ -5858,6 +6488,7 @@ kremling:
     name: Kremling
     description: Este usuário é um Kremling! (Donkey Kong)
 king-shepherd:
+  realm: prime
   locales:
   - lang: en
     name: King Shepherd
@@ -5866,6 +6497,7 @@ king-shepherd:
     name: Pastor Rei
     description: Este usuário é um Pastor Rei!
 chinese-crested-dog:
+  realm: prime
   locales:
   - lang: en
     name: Chinese Crested Dog
@@ -5874,6 +6506,7 @@ chinese-crested-dog:
     name: Cão de Crista Chinês
     description: Este usuário é um Cão de Crista Chinês!
 compsognathus:
+  realm: prime
   locales:
   - lang: en
     name: Compsognathus
@@ -5882,6 +6515,7 @@ compsognathus:
     name: Compsognato
     description: Este usuário é um Compsognato!
 maine-coon:
+  realm: prime
   locales:
   - lang: en
     name: Maine Coon
@@ -5890,6 +6524,7 @@ maine-coon:
     name: Maine Coon
     description: Este usuário é um Maine Coon!
 gemsbok:
+  realm: prime
   locales:
   - lang: en
     name: Gemsbok
@@ -5898,6 +6533,7 @@ gemsbok:
     name: Órix
     description: Este usuário é um Órix!
 antelope:
+  realm: prime
   locales:
   - lang: en
     name: Antelope
@@ -5906,6 +6542,7 @@ antelope:
     name: Antílope
     description: Este usuário é um Antílope!
 tak:
+  realm: prime
   locales:
   - lang: en
     name: Tak
@@ -5916,6 +6553,7 @@ tak:
     description: 'Este usuário é um Tak! [Tags: espécie aberta] criado por Itzu.bsky.social
       e moth.gay'
 median-system:
+  realm: prime
   category:
     en: Meta
     pt-BR: Meta
@@ -5929,6 +6567,7 @@ median-system:
     description: Este perfil do Bluesky pertence a alguém/um sistema que faz parte
       de um sistema mediano, experimentando a vida entre ser singular e plural.
 multi-headed:
+  realm: prime
   category:
     en: Modifier
     pt-BR: Modificador
@@ -5940,6 +6579,7 @@ multi-headed:
     name: Múltiplas Cabeças
     description: 'O personagem deste usuário tem múltiplas cabeças (ex.: Cérbero)'
 papillon-dog:
+  realm: prime
   locales:
   - lang: en
     name: Papillon (Dog)
@@ -5949,6 +6589,7 @@ papillon-dog:
     description: 'Este usuário é um Papillon (cachorro)! Também conhecido como: Cachorro
       Borboleta'
 domestic:
+  realm: prime
   category:
     en: Modifier
     pt-BR: Modificador
@@ -5961,6 +6602,7 @@ domestic:
     description: Este usuário é uma variante doméstica de uma espécie (veja suas outras
       etiquetas)!
 aeromorph:
+  realm: prime
   locales:
   - lang: en
     name: Aeromorph
@@ -5970,6 +6612,7 @@ aeromorph:
     description: 'Este usuário é um Aeromorfo! Também conhecido como: Avião/jet/etc.
       antropomorfo.'
 nu-mou:
+  realm: prime
   category:
     en: Final Fantasy
     pt-BR: Final Fantasy
@@ -5981,6 +6624,7 @@ nu-mou:
     name: Nu Mou
     description: Este usuário é um Nu Mou! de Final Fantasy
 bakeneko:
+  realm: prime
   category:
     en: Folklore
     pt-BR: Folclore
@@ -5992,6 +6636,7 @@ bakeneko:
     name: Bakeneko
     description: Este usuário é um Bakeneko!
 sand-cat:
+  realm: prime
   locales:
   - lang: en
     name: Sand Cat
@@ -6000,6 +6645,7 @@ sand-cat:
     name: Gato do Deserto
     description: Este usuário é um Gato do Deserto! (espécie de gato)
 grizzly-bear:
+  realm: prime
   locales:
   - lang: en
     name: Grizzly Bear
@@ -6009,6 +6655,7 @@ grizzly-bear:
     description: 'Este usuário é um Urso Pardo! Também conhecido como: Urso marrom
       da América do Norte, grizzly'
 beetle:
+  realm: prime
   locales:
   - lang: en
     name: Beetle
@@ -6017,6 +6664,7 @@ beetle:
     name: Besouro
     description: Este usuário é um Besouro!
 vernid:
+  realm: prime
   locales:
   - lang: en
     name: Vernid
@@ -6025,6 +6673,7 @@ vernid:
     name: Vernid
     description: 'Este usuário é um Vernid! [Tags: espécie fechada] por lilaira'
 manatee:
+  realm: prime
   locales:
   - lang: en
     name: Manatee
@@ -6033,6 +6682,7 @@ manatee:
     name: Peixe-boi
     description: Este usuário é um Peixe-boi!
 rodent:
+  realm: prime
   locales:
   - lang: en
     name: Rodent
@@ -6041,6 +6691,7 @@ rodent:
     name: Roedor
     description: Este usuário é um Roedor!
 lumistera:
+  realm: prime
   locales:
   - lang: en
     name: Lumistera
@@ -6049,11 +6700,13 @@ lumistera:
     name: Lumistera
     description: 'Este usuário é um Lumistera! #VRChat Sobre: https://corvidcurse.com/vrcavatars'
 siberian-cat:
+  realm: prime
   locales:
   - lang: en
     name: Siberian Cat
     description: 'This user is a Siberian Cat!'
 naga:
+  realm: prime
   locales:
   - lang: en
     name: Naga
@@ -6062,6 +6715,7 @@ naga:
     name: Naga
     description: 'Este usuário é um Naga!'
 bateleur-eagle:
+  realm: prime
   locales:
   - lang: en
     name: Bateleur Eagle
@@ -6070,6 +6724,7 @@ bateleur-eagle:
     name: Águia Bateleur
     description: 'Este usuário é um Bateleur Eagle! Também conhecido como: Bateleur'
 nightbeast:
+  realm: prime
   locales:
   - lang: en
     name: Nightbeast
@@ -6078,6 +6733,7 @@ nightbeast:
     name: Nightbeast
     description: 'Este usuário é um Nightbeast! #VRChat'
 mystimew:
+  realm: prime
   locales:
   - lang: en
     name: Mystimew
@@ -6086,6 +6742,7 @@ mystimew:
     name: Mystimew
     description: 'Este usuário é um Mystimew! https://myvstrica.neocities.org/species/mystimews'
 draksune:
+  realm: prime
   locales:
   - lang: en
     name: Draksune
@@ -6094,6 +6751,7 @@ draksune:
     name: Draksune
     description: 'Este usuário é um Draksune! https://docs.google.com/document/d/1PhWkiB9CSMmd5IRKkck-Nz76IzOBxBhOl9uz8vDC0Yk/edit?tab=t.0 por @azemkek.art'
 chipmunk:
+  realm: prime
   locales:
   - lang: en
     name: Chipmunk
@@ -6102,6 +6760,7 @@ chipmunk:
     name: Esquilo
     description: 'Este usuário é um Esquilo!'
 giratina:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -6113,6 +6772,7 @@ giratina:
     name: Giratina
     description: 'Este usuário é um Giratina!'
 kyrinith:
+  realm: prime
   locales:
   - lang: en
     name: Kyrinith
@@ -6121,6 +6781,7 @@ kyrinith:
     name: Kyrinith
     description: 'Este usuário é um Kyrinith! por Vendryk'
 monferno:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -6132,11 +6793,13 @@ monferno:
     name: Monferno
     description: 'Este usuário é um Giratina!'
 bull-terrier:
+  realm: prime
   locales:
   - lang: en
     name: Bull Terrier
     description: This user is a Bull Terrier!
 dewott:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -6148,6 +6811,7 @@ dewott:
     name: Dewott
     description: 'Este usuário é um Dewott!'
 halonyx:
+  realm: prime
   locales:
   - lang: en
     name: Halonyx
@@ -6156,6 +6820,7 @@ halonyx:
     name: Halonyx
     description: 'Este usuário é um Halonyx! #VRChat'
 verbunny:
+  realm: prime
   locales:
   - lang: en
     name: Verbunny
@@ -6164,6 +6829,7 @@ verbunny:
     name: Verbunny
     description: 'Este usuário é um Verbunny! #VRChat'
 xenomorph:
+  realm: prime
   locales:
   - lang: en
     name: Xenomorph
@@ -6172,11 +6838,13 @@ xenomorph:
     name: Xenomorph
     description: 'Este usuário é um Xenomorph!'
 starrcat:
+  realm: prime
   locales:
   - lang: en
     name: Starrcat
     description: 'This user is a Starrcat! [Tags: open-species] https://docs.google.com/document/d/1b7dRejjc5WtEZ7YIubom9GChJnPQHBA91g7KH3BRPMo/edit'
 odogaron:
+  realm: prime
   category:
     en: Monster Hunter
     pt-BR: Monster Hunter
@@ -6188,6 +6856,7 @@ odogaron:
     name: Odogaron
     description: Este usuário é um Odogaron!
 smeargle:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -6199,11 +6868,13 @@ smeargle:
     name: Smeargle
     description: 'Este usuário é um Smeargle!'
 sea-otter:
+  realm: prime
   locales:
   - lang: en
     name: Sea Otter
     description: This user is a Sea Otter!
 mizutsune:
+  realm: prime
   category:
     en: Monster Hunter
     pt-BR: Monster Hunter
@@ -6215,6 +6886,7 @@ mizutsune:
     name: Mizutsune
     description: Este usuário é um Mizutsune!
 toucan:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -6226,6 +6898,7 @@ toucan:
     name: Tucano
     description: Este usuário é um tucano!
 moogle:
+  realm: prime
   category:
     en: Final Fantasy
     pt-BR: Final Fantasy
@@ -6237,11 +6910,13 @@ moogle:
     name: Moogle
     description: Este usuário é um Moogle! (Final Fantasy)
 scimitar-toothed-cat:
+  realm: prime
   locales:
   - lang: en
     name: Scimitar-Toothed Cat
     description: 'This user is a Scimitar-Toothed Cat! AKA: Homotherium'
 gaomon:
+  realm: prime
   category:
     en: Digimon
     pt-BR: Digimon
@@ -6253,16 +6928,19 @@ gaomon:
     name: Gaomon
     description: Este usuário é um Gaomon!
 boston-terrier:
+  realm: prime
   locales:
   - lang: en
     name: Boston Terrier
     description: This user is a Boston Terrier!
 wallaby:
+  realm: prime
   locales:
   - lang: en
     name: Wallaby
     description: This user is a Wallaby!
 grovyle:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -6274,51 +6952,61 @@ grovyle:
     name: Grovyle
     description: Este usuário é um Grovyle!
 grumpus:
+  realm: prime
   locales:
   - lang: en
     name: Grumpus
     description: This user is a Grumpus! (Bugsnax)
 aardvark:
+  realm: prime
   locales:
   - lang: en
     name: Aardvark
     description: This user is an Aardvark!
 toad:
+  realm: prime
   locales:
   - lang: en
     name: Toad
     description: This user is a Toad!
 anomaly:
+  realm: prime
   locales:
   - lang: en
     name: Anomaly
     description: This user is an Anomaly! Who knows what they really are.
 lunborn:
+  realm: prime
   locales:
   - lang: en
     name: Lunborn
     description: 'This user is a Lunborn! [Tags: closed-species] https://www.furaffinity.net/view/58554149/'
 dragonfly:
+  realm: prime
   locales:
   - lang: en
     name: Dragonfly
     description: 'This user is a Dragonfly!'
 alexander-archipelago-wolf:
+  realm: prime
   locales:
   - lang: en
     name: Alexander Archipelago Wolf
     description: 'This user is an Alexander Archipelago Wolf!'
 beezle:
+  realm: prime
   locales:
   - lang: en
     name: Beezle
     description: 'This user is a Beezle (species by Skully Hellfire)! #VRChat'
 gremlin:
+  realm: prime
   locales:
   - lang: en
     name: Gremlin
     description: 'This user is a Gremlin!'
 joltik:
+  realm: pokemon
   category:
     en: Pokemon
     pt-BR: Pokemon
@@ -6330,11 +7018,13 @@ joltik:
     name: Joltik
     description: Este usuário é um Joltik!
 tigerbee:
+  realm: prime
   locales:
   - lang: en
     name: Tigerbee
     description: 'This user is a Tigerbee! #VRChat'
 cyber:
+  realm: prime
   category:
     en: Modifier
   locales:
@@ -6342,11 +7032,13 @@ cyber:
     name: Cyber
     description: This user is cybernetic (modifier)!
 impim:
+  realm: prime
   locales:
   - lang: en
     name: Impim
     description: 'This user is an Impim! #VRChat'
 material-shifter:
+  realm: prime
   category:
     en: Modifier
   locales:
@@ -6354,6 +7046,7 @@ material-shifter:
     name: Material-Shifter
     description: "This user is able to change their body's material composition"
 hippocamp:
+  realm: prime
   category:
     en: Folklore
     pt-BR: Folclore
@@ -6362,11 +7055,13 @@ hippocamp:
     name: Hippocamp
     description: 'This user is a Hippocampus! AKA: Hippocamp, Sea-Horse'
 geroo:
+  realm: prime
   locales:
   - lang: en
     name: Geroo
     description: 'This user is a Geroo! (Species by Rick Griffin)'
 pandaren:
+  realm: prime
   category:
     en: World of Warcraft
   locales:
@@ -6374,6 +7069,7 @@ pandaren:
     name: Pandaren
     description: 'This user is a Pandaren!'
 bulgae:
+  realm: prime
   category:
     en: Folklore
   locales:
@@ -6381,46 +7077,55 @@ bulgae:
     name: Bulgae
     description: 'This user is a Bulgae!'
 carnotaurus:
+  realm: prime
   locales:
   - lang: en
     name: Carnotaurus
     description: 'This user is a Carnotaurus!'
 furred-raptor:
+  realm: prime
   locales:
   - lang: en
     name: Furred Raptor
     description: 'This user is a Furred Raptor!'
 leopard-seal:
+  realm: prime
   locales:
   - lang: en
     name: Leopard Seal
     description: 'This user is a Leopard Seal! AKA: Sea Leopard'
 bengal-cat:
+  realm: prime
   locales:
   - lang: en
     name: Bengal Cat
     description: 'This user is a Bengal Cat!'
 water-deer:
+  realm: prime
   locales:
   - lang: en
     name: Water Deer
     description: 'This user is a Water Deer!'
 tufted-deer:
+  realm: prime
   locales:
   - lang: en
     name: Tufted Deer
     description: 'This user is a Tufted Deer!'
 centipede:
+  realm: prime
   locales:
   - lang: en
     name: Centipede
     description: 'This user is a Centipede!'
 weevil:
+  realm: prime
   locales:
   - lang: en
     name: Weevil
     description: 'This user is a Weevil!'
 archen:
+  realm: pokemon
   category:
     en: Pokemon
   locales:
@@ -6428,6 +7133,7 @@ archen:
     name: Archen
     description: This user is an Archen!
 armadillomon:
+  realm: prime
   category:
     en: Digimon
   locales:
@@ -6435,11 +7141,13 @@ armadillomon:
     name: Armadillomon
     description: This user is an Armadillomon!
 culpeo:
+  realm: prime
   locales:
   - lang: en
     name: Culpeo
     description: 'This user is a Culpeo! AKA: Culpeo zorro, Andean zorro, Andean fox, Paramo wolf, Andean wolf, and colpeo fox. This is species of South American fox. Despite the name, it is not a true fox, but more closely related to wolves and jackals.'
 greninja:
+  realm: pokemon
   category:
     en: Pokemon
   locales:
@@ -6447,11 +7155,13 @@ greninja:
     name: Greninja
     description: This user is a Greninja!
 anthro-fruit:
+  realm: prime
   locales:
   - lang: en
     name: Anthropomorphic Fruit
     description: This user is an Anthropomorphic Fruit!
 chesnaught:
+  realm: pokemon
   category:
     en: Pokemon
   locales:
@@ -6459,6 +7169,7 @@ chesnaught:
     name: Chesnaught
     description: This user is a Chesnaught!
 puca:
+  realm: prime
   category:
     en: Folklore
   locales:
@@ -6466,6 +7177,7 @@ puca:
     name: Púca
     description: 'This user is a Púca! AKA: Pooka, pwca, phouka, puck'
 bugbear:
+  realm: prime
   category:
     en: D&D
   locales:
@@ -6473,11 +7185,13 @@ bugbear:
     name: Bugbear
     description: This user is a Bugbear!
 iberian-wolf:
+  realm: prime
   locales:
   - lang: en
     name: Iberian Wolf
     description: This user is an Iberian Wolf!
 loon:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -6486,46 +7200,55 @@ loon:
     name: Loon
     description: This user is a Loon!
 sea-angel:
+  realm: prime
   locales:
   - lang: en
     name: Sea Angel
     description: This user is a Sea Angel!
 pterosaur:
+  realm: prime
   locales:
   - lang: en
     name: Pterosaur
     description: This user is a Pterosaur!
 machine:
+  realm: prime
   locales:
   - lang: en
     name: Machine
     description: This user is a Machine!
 peakit:
+  realm: prime
   locales:
   - lang: en
     name: Peakit
     description: 'This user is a Peakit! [Tags: open-species] by Yuyake'
 jex:
+  realm: prime
   locales:
   - lang: en
     name: Jex
     description: 'This user is a Jex! (Second Life)'
 mazzikin:
+  realm: prime
   locales:
   - lang: en
     name: Mazzikin
     description: 'This user is a Mazzikin! (Jewish Mysticism)'
 microchimera:
+  realm: prime
   locales:
   - lang: en
     name: Microchimera
     description: 'This user is a Microchimera! [Tags: open-species] by Micromera'
 sodaroo:
+  realm: prime
   locales:
   - lang: en
     name: Sodaroo
     description: 'This user is a Sodaroo!'
 diamond-dog:
+  realm: prime
   category:
     en: My Little Pony
   locales:
@@ -6533,6 +7256,7 @@ diamond-dog:
     name: Diamond Dog
     description: 'This user is a Diamond Dog! (My Little Pony)'
 puffin:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -6541,6 +7265,7 @@ puffin:
     name: Puffin
     description: This user is a Puffin!
 mimikyu:
+  realm: pokemon
   category:
     en: Pokemon
   locales:
@@ -6548,11 +7273,13 @@ mimikyu:
     name: Mimikyu
     description: This user is a Mimikyu!
 dire-wolf:
+  realm: prime
   locales:
   - lang: en
     name: Dire Wolf
     description: This user is a Dire Wolf!
 ringed-plover:
+  realm: prime
   category:
     en: Avian/Bird
     pt-BR: Ave/Pássaro
@@ -6561,6 +7288,7 @@ ringed-plover:
     name: Ringed Plover
     description: This user is a Ringed Plover!
 capricorn:
+  realm: prime
   category:
     en: Folklore
     pt-BR: Folclore
@@ -6569,6 +7297,7 @@ capricorn:
     name: Capricorn
     description: 'This user is a Capricorn! AKA: sea goat or goat fish'
 ghost:
+  realm: prime
   category:
     en: Modifier
     pt-BR: Modifier
@@ -6577,6 +7306,7 @@ ghost:
     name: Ghost
     description: This user is... a... g-g-g-GHOST!
 # mech:
+#   realm: prime
 #   category:
 #     en: Modifier
 #   locales:
@@ -6584,6 +7314,7 @@ ghost:
 #     name: Mech
 #     description: 'This user is a Mecha/Mech!'
 # valstrax:
+#   realm: prime
 #   category:
 #     en: Monster Hunter
 #   locales:
@@ -6591,26 +7322,31 @@ ghost:
 #     name: Valstrax
 #     description: 'This user is a Valstrax!'
 # shih-tzu:
+#   realm: prime
 #   locales:
 #     - lang: en
 #       name: Shih Tzu
 #       description: 'This user is a Shih Tzu!'
 # gatox:
+#   realm: prime
 #   locales:
 #   - lang: en
 #     name: Gatox
 #     description: 'This user is a Gatox! [Tags: closed-species] by Muzz/Mooz'
 # cavalier-king-charles-spaniel:
+#   realm: prime
 #   locales:
 #   - lang: en
 #     name: Cavalier King Charles Spaniel
 #     description: 'This user is a Cavalier King Charles Spaniel! AKA: Cavalier'
 # parasaurolophus:
+#   realm: prime
 #   locales:
 #   - lang: en
 #     name: Parasaurolophus
 #     description: This user is a Parasaurolophus!
 # pinata:
+#   realm: prime
 #   category:
 #     en: Modifier
 #   locales:
@@ -6618,6 +7354,7 @@ ghost:
 #     name: Piñata
 #     description: This user is a Piñata! (Modifier)
 # zeyzell:
+#   realm: prime
 #   category:
 #     en: Nature of Predators
 #   locales:
@@ -6625,6 +7362,7 @@ ghost:
 #     name: Zeyzell
 #     description: 'This user is a Zeyzell! (from Nature of Predators) [Tags: open-species]'
 # najarala:
+#   realm: prime
 #   category:
 #     en: Monster Hunter
 #     pt-BR: Monster Hunter
