@@ -2053,6 +2053,12 @@ taidum:
   - lang: pt-BR
     name: Taidum
     description: 'Este usuário é um Taidum! #VRChat - https://en.wikifur.com/wiki/Taidum'
+fluffydog:
+  realm: prime
+  locales:
+  - lang: en
+    name: FluffyDog
+    description: 'This user is a FluffyDog! #VRChat'
 bohemian-shepherd:
   realm: prime
   locales:
