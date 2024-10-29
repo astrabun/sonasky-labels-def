@@ -1,3 +1,26 @@
+#####################################################################
+#                                    _          
+#                                   | |         
+#          ___  ___  _ __   __ _ ___| | ___   _ 
+#         / __|/ _ \| '_ \ / _` / __| |/ / | | |
+#         \__ \ (_) | | | | (_| \__ \   <| |_| |
+#         |___/\___/|_| |_|\__,_|___/_|\_\\__, |
+#                                         __/ |
+#                                         |___/   Label Definitions
+#####################################################################
+# FLAG MEANINGS
+#   NOT_USED_AFTER_LONG_TIME: Someone requested the label, it was
+#                             approved and created, and then no one
+#                             used the label for months. These are
+#                             kept for historical purposes but will
+#                             not be available in the web app or
+#                             on the labeler on Bluesky.
+#
+#   POTENTIAL_LOW_USE__NO_INTERACTIONS_ONE_WEEK_OUT: Similar to
+#                             above, but on a smaller scale. May be
+#                             flagged for removal in the future if
+#                             still not used after some time.
+#####################################################################
 rabbit:
   post: 3kz6o6jki4l2d
   realm: prime
@@ -212,6 +235,7 @@ protogen:
     name: Protogen
     description: "Este usu\xE1rio \xE9 um Protogen! AKA: Torradeira."
 kanvi:
+  post: 3kzatn4cq7c25
   realm: prime
   locales:
   - lang: en
@@ -1289,6 +1313,7 @@ cardinal:
     name: 'Cardeal '
     description: "Este usu\xE1rio \xE9 um Cardeal!"
 robin:
+  post: 3kzd2r56jmz2p
   realm: prime
   category:
     en: Avian/Bird
@@ -1311,6 +1336,7 @@ gecko:
     name: 'Gecko '
     description: "Este usu\xE1rio \xE9 um Gecko!"
 quox:
+  post: 3kzd2w7tgc22p
   realm: prime
   locales:
   - lang: en
@@ -1549,6 +1575,7 @@ gnoll:
     name: Gnoll
     description: "Este usu\xE1rio \xE9 um Gnoll!"
 african-crested-porcupine:
+  post: 3kzemyagimk2j
   realm: prime
   locales:
   - lang: en
@@ -1803,6 +1830,7 @@ meerkat:
     name: Suricate
     description: "Este usu\xE1rio \xE9 um Suricate!  AKA: Meerkat"
 kudu:
+  post: 3kzfxgwltbb25
   realm: prime
   locales:
   - lang: en
@@ -1812,6 +1840,7 @@ kudu:
     name: "Cudo / Ant\xEDlope"
     description: "Este usu\xE1rio \xE9 um Cudo!  AKA: Kudu"
 gorgonopsid:
+  post: 3kzfxomhbzh2k
   realm: prime
   locales:
   - lang: en
@@ -2024,6 +2053,7 @@ toon:
     name: Desenho Animado
     description: "Este usu\xE1rio \xE9 um Desenho Animado!  AKA: Toon"
 coral-reef:
+  post: 3kzgecbkvyr2i
   realm: prime
   locales:
   - lang: en
@@ -2139,6 +2169,7 @@ beaver:
     name: Castor
     description: "Este usu\xE1rio \xE9 um Castor!  AKA: Beaver"
 tayra:
+  post: 3kzhijx6vyx2k
   realm: prime
   category:
     en: Mustelid
@@ -2161,6 +2192,7 @@ golden-jackal:
     name: Chacal Dourado
     description: "Este usu\xE1rio \xE9 um Chacal Dourado!  AKA: Golden Jackal"
 teshari:
+  post: 3kzhil7zkeq23
   realm: prime
   locales:
   - lang: en
@@ -2417,6 +2449,7 @@ digimon:
     name: Digimon
     description: "Este usu\xE1rio \xE9 um Digimon!"
 slipfin:
+  post: 3kzmk3nluk42p
   realm: prime
   locales:
   - lang: en
@@ -2449,16 +2482,8 @@ bat-eared-fox:
     name: Raposa Orelha-de-Morcego
     description: "Este usu\xE1rio \xE9 um Raposa Orelha-de-Morcego ou Raposa-Orelhuda!
       \ AKA: Bat-Eared Fox"
-werefox:
-  realm: prime
-  locales:
-  - lang: en
-    name: Werefox
-    description: This user is a Werefox!
-  - lang: pt-BR
-    name: Alce
-    description: "Este usu\xE1rio \xE9 um Werefox!  AKA: Werefox"
 orangutan:
+  post: 3kzn7niueot23
   realm: prime
   locales:
   - lang: en
@@ -2537,6 +2562,7 @@ ringtail:
     name: Alce
     description: "Este usu\xE1rio \xE9 um Bassarisco!"
 kingfisher:
+  post: 3kzpxxfz7uh2v
   realm: prime
   category:
     en: Avian/Bird
@@ -2562,6 +2588,7 @@ fisher:
     name: Marta-Pescadora
     description: "Este usu\xE1rio \xE9 uma Marta-Pescadora!  AKA: Fisher"
 stellers-jay:
+  post: 3kzyyj6uhvb2k
   realm: prime
   category:
     en: Avian/Bird
@@ -2691,6 +2718,7 @@ cobra:
     name: Cobra
     description: "Este usu\xE1rio \xE9 uma Cobra!"
 boa-constrictor:
+  post: 3kzzgzkqgws2d
   realm: prime
   category:
     en: Snake
@@ -2890,6 +2918,7 @@ vaporeon:
     name: Vaporeon
     description: "Este usu\xE1rio \xE9 um Vaporeon!"
 stingray:
+  post: 3l23johuf722m
   realm: prime
   locales:
   - lang: en
@@ -3014,6 +3043,7 @@ koala:
     name: Coala
     description: "Este usu\xE1rio \xE9 um Coala!"
 potoroo:
+  post: 3l23ojhvnfg26
   realm: prime
   category:
     en: Marsupial
@@ -3062,6 +3092,7 @@ buizel:
     name: Buizel
     description: "Este usu\xE1rio \xE9 um Buizel!"
 lupe:
+  post: 3l23po2zzki2z
   realm: prime
   category:
     en: Neopet
@@ -3113,6 +3144,9 @@ ixi:
     name: Ixi
     description: "Este usu\xE1rio \xE9 um Ixi!"
 kougra:
+  flags:
+    - NOT_USED_AFTER_LONG_TIME
+  post: 3l23povyg7o26
   realm: prime
   category:
     en: Neopet
@@ -3221,6 +3255,9 @@ gray-fox:
     name: Raposa-cinzenta
     description: "Este usu\xE1rio \xE9 uma Raposa-cinzenta!"
 island-fox:
+  flags:
+    - NOT_USED_AFTER_LONG_TIME
+  post: 3l243g5ulhy2r
   realm: prime
   locales:
   - lang: en
@@ -3260,6 +3297,7 @@ radioactive:
     name: Radioativo
     description: "\u2622\uFE0FEste usu\xE1rio \xE9 Radioativo!\u2622\uFE0F"
 dovekie:
+  post: 3l24ox6vtzq2y
   realm: prime
   category:
     en: Avian/Bird
@@ -3297,6 +3335,7 @@ chocobo:
     name: Chocobo
     description: "Este usu\xE1rio \xE9 um Chocobo!"
 chao:
+  post: 3l24pju2pd62v
   realm: prime
   category:
     en: Sonic the Hedgehog
@@ -3380,6 +3419,7 @@ slugcat:
     name: Lesgato
     description: "Este usu\xE1rio \xE9 um Lesgato!"
 cape-fox:
+  post: 3l264hm5hqq25
   realm: prime
   locales:
   - lang: en
@@ -3389,6 +3429,7 @@ cape-fox:
     name: Raposa-do-cabo
     description: "Este usu\xE1rio \xE9 uma Raposa-do-cabo!"
 salmonid:
+  post: 3l264jxrsuv2v
   realm: prime
   locales:
   - lang: en
@@ -3466,6 +3507,9 @@ caitian:
     name: Caitian
     description: "Este usu\xE1rio \xE9 um Caitian!"
 gorn:
+  flags:
+    - NOT_USED_AFTER_LONG_TIME
+  post: 3l26skhr6ub2l
   realm: prime
   category:
     en: Star Trek
@@ -3478,6 +3522,7 @@ gorn:
     name: Gorn
     description: "Este usu\xE1rio \xE9 um Gorn!"
 zora:
+  post: 3l26smregz22g
   realm: prime
   category:
     en: The Legend of Zelda
@@ -3533,6 +3578,9 @@ soundbyte:
     name: Soundbyte
     description: "Este usu\xE1rio \xE9 um Soundbyte! #VRChat"
 purobyte:
+  flags:
+    - NOT_USED_AFTER_LONG_TIME
+  post: 3l26t2awroc2s
   realm: prime
   locales:
   - lang: en
@@ -3585,6 +3633,7 @@ pronghorn:
     name: Antilocapra
     description: "Este usu\xE1rio \xE9 um Antilocapra! AKA: ant\xEDlope-americano"
 pudu:
+  post: 3l2an2uqxud2v
   realm: prime
   locales:
   - lang: en
@@ -3604,6 +3653,7 @@ orc:
     name: Orque
     description: "Este usu\xE1rio \xE9 um Orque! AKA: orc, ork, orco"
 skiltaire:
+  post: 3l2an6sxfd42g
   realm: prime
   locales:
   - lang: en
@@ -3847,6 +3897,7 @@ incubus:
     name: "\xCDncubo"
     description: "Este usu\xE1rio \xE9 um \xCDncubo!"
 dramster:
+  post: 3l2i4fjkx5b25
   realm: prime
   locales:
   - lang: en
@@ -3947,6 +3998,9 @@ sable:
     name: Zibelina
     description: "Este usu\xE1rio \xE9 uma Zibelina! AKA: Marta-zibelina"
 inca-ren:
+  flags:
+    - NOT_USED_AFTER_LONG_TIME
+  post: 3l2lhwyku6n27
   realm: prime
   locales:
   - lang: en
@@ -4012,6 +4066,7 @@ werecreature:
     name: Homem-criatura
     description: "Este usu\xE1rio \xE9 um Homem-criatura!"
 burmecian:
+  post: 3l2nrqa26fb2v
   realm: prime
   category:
     en: Final Fantasy
@@ -4070,6 +4125,7 @@ albatross:
     name: Albatroz
     description: "Este usu\xE1rio \xE9 um Albatroz! AKA: Piau"
 mystian:
+  post: 3l2nwrfnf4y2l
   realm: prime
   locales:
   - lang: en
@@ -4187,6 +4243,7 @@ bernese-mountain-dog:
     name: "Boiadeiro-bern\xEAs"
     description: "Este usu\xE1rio \xE9 um Boiadeiro-bern\xEAs! AKA: Boiadeiro de Berna"
 bangaa:
+  post: 3l2qc74ayzp2e
   realm: prime
   category:
     en: Final Fantasy
@@ -4251,6 +4308,7 @@ living-vehicle:
     name: "Ve\xEDculo Vivo"
     description: "Este usu\xE1rio \xE9 um Ve\xEDculo Vivo!"
 balinese:
+  post: 3l2qdh27qxl27
   realm: prime
   locales:
   - lang: en
@@ -4280,6 +4338,7 @@ bison:
     name: "Bis\xE3o"
     description: "Este usu\xE1rio \xE9 um Bis\xE3o! AKA: b\xFAfalo"
 mewlin:
+  post: 3l2s2sqe5n22g
   realm: prime
   locales:
   - lang: en
@@ -5876,6 +5935,9 @@ zombie:
     name: Zumbi
     description: Zumbi
 lumex:
+  flags:
+    - NOT_USED_AFTER_LONG_TIME
+  post: 3kzrrd6mzfr2c
   realm: prime
   locales:
   - lang: en
@@ -5958,15 +6020,6 @@ german-shepherd:
   - lang: pt-BR
     name: "Pastor Alem\xE3o"
     description: "Este usu\xE1rio \xE9 um Pastor Alem\xE3o!  AKA: German Shepherd"
-wererat:
-  realm: prime
-  locales:
-  - lang: en
-    name: Wererat
-    description: This user is a Wererat!
-  - lang: pt-BR
-    name: Wererat
-    description: "Este usu\xE1rio \xE9 um Wererat!"
 fanged-wyvern:
   post: 3kzzhpo2f322b
   realm: prime
@@ -5981,6 +6034,7 @@ fanged-wyvern:
     name: Fanged Wyvern
     description: "Este usu\xE1rio \xE9 um Fanged Wyvern!"
 canterwit:
+  post: 3kzzlo4yoe52z
   realm: prime
   locales:
   - lang: en
@@ -6010,6 +6064,9 @@ clown:
     name: "Palha\xE7o"
     description: "Este usu\xE1rio \xE9 um Palha\xE7o!  AKA: Clown"
 piscine-wyvern:
+  flags:
+    - NOT_USED_AFTER_LONG_TIME
+  post: 3kzzhrtguqc2n
   realm: prime
   category:
     en: Monster Hunter
@@ -6032,6 +6089,7 @@ brown-hyena:
     name: Hiena Marrom
     description: "Este usu\xE1rio \xE9 uma Hiena Marrom!"
 skunkbear:
+  post: 3kzz2m7xlvg2o
   realm: prime
   locales:
   - lang: en
@@ -6114,6 +6172,9 @@ moth:
     name: Mariposa
     description: "Este usu\xE1rio \xE9 uma Mariposa!  AKA: Moth"
 temnoceran:
+  flags:
+    - NOT_USED_AFTER_LONG_TIME
+  post: 3kzzhsh3b522d
   realm: prime
   category:
     en: Monster Hunter
@@ -6126,6 +6187,9 @@ temnoceran:
     name: Temnoceran
     description: "Este usu\xE1rio \xE9 um Temnoceran!"
 brute-wyvern:
+  flags:
+    - NOT_USED_AFTER_LONG_TIME
+  post: 3kzzhofwi4c2u
   realm: prime
   category:
     en: Monster Hunter
@@ -6151,6 +6215,9 @@ leviathan:
     name: Leviathan
     description: "Este usu\xE1rio \xE9 um Leviathan!"
 fanged-beast:
+  flags:
+    - NOT_USED_AFTER_LONG_TIME
+  post: 3kzzhpc7h4o24
   realm: prime
   category:
     en: Monster Hunter
@@ -6266,6 +6333,7 @@ striped-hyena:
     name: Hiena Listrada
     description: "Este usu\xE1rio \xE9 uma Hiena Listrada!"
 anomalocaris:
+  post: 3l22eecid552b
   realm: prime
   locales:
   - lang: en
@@ -6285,6 +6353,9 @@ arctic-hare:
     name: "Lebre-do-\xC1rtico"
     description: "Este usu\xE1rio \xE9 um Lebre-do-\xC1rtico!  AKA: Arctic Hare"
 neopteron:
+  flags:
+    - NOT_USED_AFTER_LONG_TIME
+  post: 3kzzhrkm3wu2s
   realm: prime
   category:
     en: Monster Hunter
@@ -6320,6 +6391,9 @@ skaven:
     name: Skaven
     description: "Este usu\xE1rio \xE9 um Skaven!"
 snake-wyvern:
+  flags:
+    - NOT_USED_AFTER_LONG_TIME
+  post: 3kzzhs6kkl223
   realm: prime
   locales:
   - lang: en
@@ -6332,6 +6406,7 @@ snake-wyvern:
     en: Monster Hunter
     pt-BR: Monster Hunter
 egyptian-cobra:
+  post: 3kzzfzub3s22h
   realm: prime
   locales:
   - lang: en
@@ -6377,6 +6452,9 @@ elder-dragon:
     en: Monster Hunter
     pt-BR: Monster Hunter
 wingdrake:
+  flags:
+    - NOT_USED_AFTER_LONG_TIME
+  post: 3kzzhspzjc22o
   realm: prime
   locales:
   - lang: en
@@ -6389,6 +6467,9 @@ wingdrake:
     en: Monster Hunter
     pt-BR: Monster Hunter
 carapaceon:
+  flags:
+    - NOT_USED_AFTER_LONG_TIME
+  post: 3kzzhoyn3f22o
   realm: prime
   locales:
   - lang: en
@@ -6401,6 +6482,7 @@ carapaceon:
     en: Monster Hunter
     pt-BR: Monster Hunter
 inkblot-toon:
+  post: 3l22cz3qmes27
   realm: prime
   locales:
   - lang: en
@@ -6410,6 +6492,9 @@ inkblot-toon:
     name: Desenho de Manchas de Tinta
     description: "Este usu\xE1rio \xE9 um Desenho de Manchas de Tinta!"
 lynian:
+  flags:
+    - NOT_USED_AFTER_LONG_TIME
+  post: 3kzzhrarmgk2v
   realm: prime
   locales:
   - lang: en
@@ -6442,6 +6527,7 @@ drake:
     name: Drake
     description: "Este usu\xE1rio \xE9 um Drake!"
 malagasy-giant-rat:
+  post: 3l22cncdcqt2r
   realm: prime
   locales:
   - lang: en
@@ -6666,6 +6752,7 @@ droukkits:
     description: "Este usu\xE1rio \xE9 um Droukkits (um h\xEDbrido radioativo morador
       de cavernas)! [Tags: esp\xE9cie aberta] por thespecialbeans"
 uxie:
+  post: 3l6w7fmnfcw2t
   realm: pokemon
   locales:
   - lang: en
@@ -6678,6 +6765,7 @@ uxie:
     en: Pokemon
     pt-BR: Pokemon
 mesprit:
+  post: 3l6w7g2fexk2b
   realm: pokemon
   locales:
   - lang: en
@@ -6690,6 +6778,7 @@ mesprit:
     en: Pokemon
     pt-BR: Pokemon
 azelf:
+  post: 3l6w7gf4xkh2o
   realm: pokemon
   locales:
   - lang: en
@@ -7018,6 +7107,9 @@ antelope:
     name: "Ant\xEDlope"
     description: "Este usu\xE1rio \xE9 um Ant\xEDlope!"
 tak:
+  flags:
+    - POTENTIAL_LOW_USE__NO_INTERACTIONS_ONE_WEEK_OUT
+  post: 3l6xjh5m2ip27
   realm: prime
   locales:
   - lang: en
@@ -7487,6 +7579,9 @@ aardvark:
     name: Aardvark
     description: This user is an Aardvark!
 toad:
+  flags:
+    - POTENTIAL_LOW_USE__NO_INTERACTIONS_ONE_WEEK_OUT
+  post: 3l72wxqao2t2b
   realm: prime
   locales:
   - lang: en
@@ -7590,6 +7685,9 @@ hippocamp:
     name: Hippocamp
     description: 'This user is a Hippocampus! AKA: Hippocamp, Sea-Horse'
 geroo:
+  flags:
+    - POTENTIAL_LOW_USE__NO_INTERACTIONS_ONE_WEEK_OUT
+  post: 3l75ksp4t2s25
   realm: prime
   locales:
   - lang: en
