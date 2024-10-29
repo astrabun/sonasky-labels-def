@@ -11,7 +11,10 @@ export const generateBskyDefs = (realm?: string, englishOnly?: boolean) => {
             "utf8"
         )
     )
-    let labelValues = Object.keys(onDiskDefs).filter(i => onDiskDefs[i].realm === useRealm);
+    let labelValues = Object.keys(onDiskDefs)
+        .filter(i => onDiskDefs[i].realm === useRealm)
+        .filter(i => onDiskDefs[i].flags === undefined ? true : onDiskDefs[i].flags.includes("NOT_USED_AFTER_LONG_TIME") === false) // exclude items that haven't been used since creation; e.g., someone requested the label and then never used it
+    ;
     let labelValueDefinitions = labelValues.map((id) => ({
         "blurs": "none",
         "locales": englishOnly === true ? onDiskDefs[id].locales.filter((i: { lang: string; }) => i.lang == "en") : onDiskDefs[id].locales,
