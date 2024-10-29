@@ -1819,10 +1819,12 @@ skulldog:
   locales:
   - lang: en
     name: Skulldog
-    description: 'This user is a Skulldog! [Tags: open-species] https://www.deviantart.com/skulldog/art/Ultimate-Guide-to-Skulldogs-693728429'
+    # description: 'This user is a Skulldog! [Tags: open-species] https://www.deviantart.com/skulldog/art/Ultimate-Guide-to-Skulldogs-693728429'
+    description: 'This user is a Skulldog! [Tags: open-species]'
   - lang: pt-BR
     name: Skulldog
-    description: 'Este usuário é um Skulldog! [Tags: open-species] https://www.deviantart.com/skulldog/art/Ultimate-Guide-to-Skulldogs-693728429'
+    # description: 'Este usuário é um Skulldog! [Tags: open-species] https://www.deviantart.com/skulldog/art/Ultimate-Guide-to-Skulldogs-693728429'
+    description: 'Este usuário é um Skulldog! [Tags: open-species]'
 toon:
   realm: prime
   locales:
