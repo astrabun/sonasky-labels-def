@@ -6,12 +6,13 @@ async function main() {
   const realms = generateRealmsOptions();
   let success = true;
   let failureError;
-  // realms.forEach(async (realm: string) => {
+
   for (const realm of realms) {
     const defs = generateBskyDefsEnglish(realm);
     const ozone_service_user_did = process.env[
       `${realm.toUpperCase()}_OZONE_SERVICE_USER_DID`
     ] as string;
+
     const agent = new BskyAgent({
       service: "https://bsky.social",
     });
@@ -21,6 +22,7 @@ async function main() {
         process.env[`${realm.toUpperCase()}_OZONE_SERVICE_USER_DID`] ?? "",
       ],
     });
+
     try {
       await agent.login({
         identifier: (
@@ -55,25 +57,27 @@ async function main() {
         );
       };
 
-      uploadLocalizationLabels()
-        .then(() => {
-          return "DONE";
-        })
-        .catch((err) => {
-          throw Error(`${err}`);
-        });
+      // Await the uploadLocalizationLabels function to properly handle errors
+      await uploadLocalizationLabels();
+
     } catch (err) {
       success = false;
+      console.error(`Error processing realm ${realm}:`, err);
+      // Store the error, but don't break the loop
       failureError = err;
     }
-  } //);
-  if(!success){
+  }
+
+  // After looping through all realms, if any failed, throw the failureError
+  if (!success) {
     throw failureError;
   }
 }
 
 main()
-  .then(() => {})
+  .then(() => {
+    console.log("All realms processed successfully.");
+  })
   .catch((err) => {
-    throw Error(`${err}`);
+    console.error("An error occurred during processing:", err);
   });
