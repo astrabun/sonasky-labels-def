@@ -4,7 +4,8 @@ import { generateRealmsOptions } from "./generateRealmsOptions";
 
 async function main() {
   const realms = generateRealmsOptions();
-  realms.forEach(async (realm: string) => {
+  // realms.forEach(async (realm: string) => {
+  for (const realm of realms) {
     const defs = generateBskyDefsEnglish(realm);
     const ozone_service_user_did = process.env[`${realm.toUpperCase()}_OZONE_SERVICE_USER_DID`] as string;
     const agent = new BskyAgent({
@@ -45,7 +46,7 @@ async function main() {
     }).catch((err) => {
       throw Error(`${err}`);
     });
-  });
+  };//);
 }
 
 main().then(() => {
