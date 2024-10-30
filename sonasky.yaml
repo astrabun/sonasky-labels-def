@@ -2731,6 +2731,8 @@ boa-constrictor:
     name: Jiboia-constritora
     description: "Este usu\xE1rio \xE9 uma Jiboia-constritora!  AKA: Jiboia-constritora"
 bird-wyvern:
+  flags:
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3kzzhnyq5hk2d
   realm: prime
   category:
@@ -2879,6 +2881,8 @@ lombax:
     name: Lombax
     description: "Este usu\xE1rio \xE9 um Lombax!"
 nargacuga:
+  flags:
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3l23jdrkujq22
   realm: prime
   category:
@@ -3145,7 +3149,7 @@ ixi:
     description: "Este usu\xE1rio \xE9 um Ixi!"
 kougra:
   flags:
-    - NOT_USED_AFTER_LONG_TIME
+  - NOT_USED_AFTER_LONG_TIME
   post: 3l23povyg7o26
   realm: prime
   category:
@@ -3256,7 +3260,7 @@ gray-fox:
     description: "Este usu\xE1rio \xE9 uma Raposa-cinzenta!"
 island-fox:
   flags:
-    - NOT_USED_AFTER_LONG_TIME
+  - NOT_USED_AFTER_LONG_TIME
   post: 3l243g5ulhy2r
   realm: prime
   locales:
@@ -3508,7 +3512,7 @@ caitian:
     description: "Este usu\xE1rio \xE9 um Caitian!"
 gorn:
   flags:
-    - NOT_USED_AFTER_LONG_TIME
+  - NOT_USED_AFTER_LONG_TIME
   post: 3l26skhr6ub2l
   realm: prime
   category:
@@ -3579,7 +3583,7 @@ soundbyte:
     description: "Este usu\xE1rio \xE9 um Soundbyte! #VRChat"
 purobyte:
   flags:
-    - NOT_USED_AFTER_LONG_TIME
+  - NOT_USED_AFTER_LONG_TIME
   post: 3l26t2awroc2s
   realm: prime
   locales:
@@ -3999,7 +4003,7 @@ sable:
     description: "Este usu\xE1rio \xE9 uma Zibelina! AKA: Marta-zibelina"
 inca-ren:
   flags:
-    - NOT_USED_AFTER_LONG_TIME
+  - NOT_USED_AFTER_LONG_TIME
   post: 3l2lhwyku6n27
   realm: prime
   locales:
@@ -5936,7 +5940,7 @@ zombie:
     description: Zumbi
 lumex:
   flags:
-    - NOT_USED_AFTER_LONG_TIME
+  - NOT_USED_AFTER_LONG_TIME
   post: 3kzrrd6mzfr2c
   realm: prime
   locales:
@@ -6021,6 +6025,8 @@ german-shepherd:
     name: "Pastor Alem\xE3o"
     description: "Este usu\xE1rio \xE9 um Pastor Alem\xE3o!  AKA: German Shepherd"
 fanged-wyvern:
+  flags:
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3kzzhpo2f322b
   realm: prime
   category:
@@ -6065,7 +6071,8 @@ clown:
     description: "Este usu\xE1rio \xE9 um Palha\xE7o!  AKA: Clown"
 piscine-wyvern:
   flags:
-    - NOT_USED_AFTER_LONG_TIME
+  - NOT_USED_AFTER_LONG_TIME
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3kzzhrtguqc2n
   realm: prime
   category:
@@ -6119,6 +6126,8 @@ monster-girl:
     name: Monster Girl
     description: "Este usu\xE1rio \xE9 uma Monster Girl!"
 flying-wyvern:
+  flags:
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3kzzhq6t3us2o
   realm: prime
   category:
@@ -6173,7 +6182,8 @@ moth:
     description: "Este usu\xE1rio \xE9 uma Mariposa!  AKA: Moth"
 temnoceran:
   flags:
-    - NOT_USED_AFTER_LONG_TIME
+  - NOT_USED_AFTER_LONG_TIME
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3kzzhsh3b522d
   realm: prime
   category:
@@ -6188,7 +6198,8 @@ temnoceran:
     description: "Este usu\xE1rio \xE9 um Temnoceran!"
 brute-wyvern:
   flags:
-    - NOT_USED_AFTER_LONG_TIME
+  - NOT_USED_AFTER_LONG_TIME
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3kzzhofwi4c2u
   realm: prime
   category:
@@ -6202,6 +6213,8 @@ brute-wyvern:
     name: Wyvern Bruto
     description: "Este usu\xE1rio \xE9 um Wyvern Bruto!"
 leviathan:
+  flags:
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3kzzhqzt4cs2o
   realm: prime
   category:
@@ -6216,7 +6229,8 @@ leviathan:
     description: "Este usu\xE1rio \xE9 um Leviathan!"
 fanged-beast:
   flags:
-    - NOT_USED_AFTER_LONG_TIME
+  - NOT_USED_AFTER_LONG_TIME
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3kzzhpc7h4o24
   realm: prime
   category:
@@ -6354,7 +6368,8 @@ arctic-hare:
     description: "Este usu\xE1rio \xE9 um Lebre-do-\xC1rtico!  AKA: Arctic Hare"
 neopteron:
   flags:
-    - NOT_USED_AFTER_LONG_TIME
+  - NOT_USED_AFTER_LONG_TIME
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3kzzhrkm3wu2s
   realm: prime
   category:
@@ -6392,7 +6407,8 @@ skaven:
     description: "Este usu\xE1rio \xE9 um Skaven!"
 snake-wyvern:
   flags:
-    - NOT_USED_AFTER_LONG_TIME
+  - NOT_USED_AFTER_LONG_TIME
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3kzzhs6kkl223
   realm: prime
   locales:
@@ -6439,6 +6455,8 @@ amphibian:
     name: "Anf\xEDbio"
     description: "Este usu\xE1rio \xE9 um Anf\xEDbio!  AKA: Amphibian"
 elder-dragon:
+  flags:
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3kzzhswafle2s
   realm: prime
   locales:
@@ -6453,7 +6471,8 @@ elder-dragon:
     pt-BR: Monster Hunter
 wingdrake:
   flags:
-    - NOT_USED_AFTER_LONG_TIME
+  - NOT_USED_AFTER_LONG_TIME
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3kzzhspzjc22o
   realm: prime
   locales:
@@ -6468,7 +6487,8 @@ wingdrake:
     pt-BR: Monster Hunter
 carapaceon:
   flags:
-    - NOT_USED_AFTER_LONG_TIME
+  - NOT_USED_AFTER_LONG_TIME
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3kzzhoyn3f22o
   realm: prime
   locales:
@@ -6493,7 +6513,8 @@ inkblot-toon:
     description: "Este usu\xE1rio \xE9 um Desenho de Manchas de Tinta!"
 lynian:
   flags:
-    - NOT_USED_AFTER_LONG_TIME
+  - NOT_USED_AFTER_LONG_TIME
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3kzzhrarmgk2v
   realm: prime
   locales:
@@ -6612,6 +6633,8 @@ lopunny:
     en: Pokemon
     pt-BR: Pokemon
 zinogre:
+  flags:
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3l6w4hszsq62y
   realm: prime
   locales:
@@ -6903,6 +6926,8 @@ sprigatito:
     name: Sprigatito
     description: "Este usu\xE1rio \xE9 um Sprigatito!"
 alatreon:
+  flags:
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3l6xj3slk5t2k
   realm: prime
   category:
@@ -7108,7 +7133,7 @@ antelope:
     description: "Este usu\xE1rio \xE9 um Ant\xEDlope!"
 tak:
   flags:
-    - POTENTIAL_LOW_USE__NO_INTERACTIONS_ONE_WEEK_OUT
+  - POTENTIAL_LOW_USE__NO_INTERACTIONS_ONE_WEEK_OUT
   post: 3l6xjh5m2ip27
   realm: prime
   locales:
@@ -7446,6 +7471,8 @@ starrcat:
     name: Starrcat
     description: 'This user is a Starrcat! [Tags: open-species] https://docs.google.com/document/d/1b7dRejjc5WtEZ7YIubom9GChJnPQHBA91g7KH3BRPMo/edit'
 odogaron:
+  flags:
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3l72ws4w2ju2s
   realm: prime
   category:
@@ -7479,6 +7506,8 @@ sea-otter:
     name: Sea Otter
     description: This user is a Sea Otter!
 mizutsune:
+  flags:
+  - REMOVAL_DUE_TO_CATEGORY__MONSTER_HUNTER
   post: 3l72wtxlrsw2b
   realm: prime
   category:
@@ -7580,7 +7609,7 @@ aardvark:
     description: This user is an Aardvark!
 toad:
   flags:
-    - POTENTIAL_LOW_USE__NO_INTERACTIONS_ONE_WEEK_OUT
+  - POTENTIAL_LOW_USE__NO_INTERACTIONS_ONE_WEEK_OUT
   post: 3l72wxqao2t2b
   realm: prime
   locales:
@@ -7686,7 +7715,7 @@ hippocamp:
     description: 'This user is a Hippocampus! AKA: Hippocamp, Sea-Horse'
 geroo:
   flags:
-    - POTENTIAL_LOW_USE__NO_INTERACTIONS_ONE_WEEK_OUT
+  - POTENTIAL_LOW_USE__NO_INTERACTIONS_ONE_WEEK_OUT
   post: 3l75ksp4t2s25
   realm: prime
   locales:
