@@ -2,10 +2,11 @@ import { BskyAgent } from "@atproto/api";
 import { generateBskyDefsEnglish } from "./generateBskyDefs";
 import { generateRealmsOptions } from "./generateRealmsOptions";
 
+let success = true;
+let failureError;
+
 async function main() {
   const realms = generateRealmsOptions();
-  let success = true;
-  let failureError;
 
   for (const realm of realms) {
     const defs = generateBskyDefsEnglish(realm);
@@ -69,7 +70,7 @@ async function main() {
   }
 
   // After looping through all realms, if any failed, throw the failureError
-  if (!success) {
+  if (success === false) {
     throw failureError;
   }
 }
@@ -77,7 +78,15 @@ async function main() {
 main()
   .then(() => {
     console.log("All realms processed successfully.");
+    // After looping through all realms, if any failed, throw the failureError
+    if (success === false) {
+      throw failureError;
+    }
   })
   .catch((err) => {
     console.error("An error occurred during processing:", err);
+    // After looping through all realms, if any failed, throw the failureError
+    if (success === false) {
+      throw failureError;
+    }
   });
