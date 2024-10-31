@@ -8005,3 +8005,21 @@ ghost:
   - lang: en
     name: Ghost
     description: This user is... a... g-g-g-GHOST!
+celebi:
+  post: 3l7tpdzig4n2x
+  realm: pokemon
+  category:
+    en: Pokemon
+  locales:
+  - lang: en
+    name: Celebi
+    description: This user is a Celebi!
+pidgeot:
+  post: 3l7tpeupieq2w
+  realm: pokemon
+  category:
+    en: Pokemon
+  locales:
+  - lang: en
+    name: Pidgeot
+    description: This user is a Pidgeot!
