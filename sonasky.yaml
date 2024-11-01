@@ -8023,3 +8023,73 @@ pidgeot:
   - lang: en
     name: Pidgeot
     description: This user is a Pidgeot!
+mantis:
+  post: TBD
+  realm: prime
+  locales:
+  - lang: en
+    name: Mantis
+    description: 'This user is a Mantis! AKA: Mantid, Praying Mantis'
+decidueye:
+  post: TBD
+  realm: pokemon
+  category:
+    en: Pokemon
+  locales:
+  - lang: en
+    name: Decidueye
+    description: This user is a Decidueye!
+emolga:
+  post: TBD
+  realm: pokemon
+  category:
+    en: Pokemon
+  locales:
+  - lang: en
+    name: Emolga
+    description: This user is an Emolga!
+biyomon:
+  post: TBD
+  realm: prime
+  category:
+    en: Digimon
+  locales:
+  - lang: en
+    name: Biyomon
+    description: This user is a Biyomon!
+squawkabilly:
+  post: TBD
+  realm: pokemon
+  category:
+    en: Pokemon
+  locales:
+  - lang: en
+    name: Squawkabilly
+    description: This user is a Squawkabilly!
+latias:
+  post: TBD
+  realm: pokemon
+  category:
+    en: Pokemon
+  locales:
+  - lang: en
+    name: Latias
+    description: This user is a Latias!
+miraidon:
+  post: TBD
+  realm: pokemon
+  category:
+    en: Pokemon
+  locales:
+  - lang: en
+    name: Miraidon
+    description: This user is a Miraidon!
+quilava:
+  post: TBD
+  realm: pokemon
+  category:
+    en: Pokemon
+  locales:
+  - lang: en
+    name: Quilava
+    description: This user is a Quilava!
