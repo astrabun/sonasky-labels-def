@@ -12,6 +12,16 @@ Note: As described in https://github.com/bluesky-social/atproto/issues/2803, pus
 
 This also allows me to free up some space in the Bluesky-format label definitions as I can make categories/tags fields available for the Browse site without needing them in the localization description.
 
+## Multi-Labeler Architecture
+
+To continue to offer additional label options, SonaSky has scaled into multiple labelers based on "realm". At the time of writing, there are two realms: 1) prime, and 2) pokemon. This moves all Pokemon labelers onto a separate Ozone/labeler instance (@pokemon.sonasky.app).
+
+![SonaSky multi-labeler workflow](./img/sonasky_flow.png)
+
+A single bot listens to the Bluesky Jetstream for in-scope like events and uses the appropriate labeler (based on the "realm" property) to apply the label to the account.
+
+As a result, users should subscribe to both available labelers to see all labels applied by this system.
+
 ## Automation
 
 This repo automatically syncs labels from the repo to the SonaSky labeler on new commits to the `main` branch. 
@@ -35,6 +45,7 @@ Example Species:
 
 ```yaml
 rabbit:
+  realm: prime
   locales:
     - lang: en
       name: Rabbit
@@ -48,6 +59,7 @@ Example Species that has a category:
 
 ```yaml
 stoat:
+  realm: prime
   category:
     en: Mustelid
     pt-BR: Mustelídeo
