@@ -45,6 +45,7 @@ Example Species:
 
 ```yaml
 rabbit:
+  post: 3kz6o6jki4l2d
   realm: prime
   locales:
     - lang: en
@@ -59,6 +60,7 @@ Example Species that has a category:
 
 ```yaml
 stoat:
+  post: 3kzbz76vei22v
   realm: prime
   category:
     en: Mustelid
