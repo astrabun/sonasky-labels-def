@@ -8606,3 +8606,22 @@ tyranitar:
   - lang: en
     name: Tyranitar
     description: This user is a Tyranitar!
+dialga:
+  post: 3lape4br74f2z
+  realm: pokemon
+  category:
+    en: Pokemon
+  locales:
+  - lang: en
+    name: Dialga
+    description: This user is a Dialga!
+wooper:
+  post: 3lape4chc5d2v
+  realm: pokemon
+  category:
+    en: Pokemon
+  locales:
+  - lang: en
+    name: Wooper
+    description: This user is a Wooper!
+
