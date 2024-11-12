@@ -8624,4 +8624,628 @@ wooper:
   - lang: en
     name: Wooper
     description: This user is a Wooper!
-
+canada-lynx:
+  post: 3lapo25rqbv2e
+  realm: prime
+  locales:
+  - lang: en
+    name: Canada Lynx
+    description: This user is a Canada Lynx!
+anglerfish:
+  post: 3lapo26hxe622
+  realm: prime
+  locales:
+  - lang: en
+    name: Anglerfish
+    description: This user is an Anglerfish!
+ant:
+  post: 3lapo27bo4q2u
+  realm: prime
+  locales:
+  - lang: en
+    name: Ant
+    description: This user is an Ant!
+armadillo:
+  post: 3lapo2acuxh24
+  realm: prime
+  locales:
+  - lang: en
+    name: Armadillo
+    description: This user is an Armadillo!
+australian-magpie:
+  post: 3lapo2b2c2u23
+  realm: prime
+  category:
+    en: Avian/Bird
+    pt-BR: "Ave/P\xE1ssaro"
+  locales:
+  - lang: en
+    name: Australian Magpie
+    description: This user is an Australian Magpie!
+betelgammamon:
+  post: 3lapo2bqdmc2g
+  realm: prime
+  category:
+    en: Digimon
+  locales:
+  - lang: en
+    name: BetelGammamon
+    description: This user is a BetelGammamon!
+california-quail:
+  post: 3lapo2cg4bi2v
+  realm: prime
+  category:
+    en: Avian/Bird
+    pt-BR: "Ave/P\xE1ssaro"
+  locales:
+  - lang: en
+    name: California Quail
+    description: This user is a California Quail!
+camel:
+  post: 3lapo2d3vze2x
+  realm: prime
+  locales:
+  - lang: en
+    name: Camel
+    description: This user is a Camel!
+canary:
+  post: 3lapo2dzfjc2w
+  realm: prime
+  category:
+    en: Avian/Bird
+    pt-BR: "Ave/P\xE1ssaro"
+  locales:
+  - lang: en
+    name: Canary
+    description: This user is a Canary!
+capercaillie:
+  post: 3lapo2eqp2w2a
+  realm: prime
+  category:
+    en: Avian/Bird
+    pt-BR: "Ave/P\xE1ssaro"
+  locales:
+  - lang: en
+    name: Capercaillie
+    description: This user is a Capercaillie!
+cetacean:
+  post: 3lapo2fgn6x24
+  realm: prime
+  locales:
+  - lang: en
+    name: Cetacean
+    description: This user is a Cetacean!
+changeling:
+  post: 3lapo2gju2n2j
+  realm: prime
+  locales:
+  - lang: en
+    name: Changeling
+    description: This user is a Changeling!
+chimpanzee:
+  post: 3lapo2hhcme23
+  realm: prime
+  locales:
+  - lang: en
+    name: Chimpanzee
+    description: This user is a Chimpanzee!
+chow-chow:
+  post: 3lapo2i57mf2j
+  realm: prime
+  locales:
+  - lang: en
+    name: Chow Chow
+    description: This user is a Chow Chow!
+civet:
+  post: 3lapo2isrc622
+  realm: prime
+  locales:
+  - lang: en
+    name: Civet
+    description: This user is a Civet!
+cockatrice:
+  post: 3lapo2jpco42x
+  realm: prime
+  category:
+    en: Folklore
+    pt-BR: Folclore
+  locales:
+  - lang: en
+    name: Cockatrice
+    description: This user is a Cockatrice!
+coeurl:
+  post: 3lapo2kptjn2n
+  realm: prime
+  locales:
+  - lang: en
+    name: Coeurl
+    description: This user is a Coeurl!
+concubus:
+  post: 3lapo2lfzrc2g
+  realm: prime
+  category:
+    en: Folklore
+    pt-BR: Folclore
+  locales:
+  - lang: en
+    name: Concubus
+    description: This user is a Concubus!
+couatl:
+  post: 3lapo2m4cqq2u
+  realm: prime
+  locales:
+  - lang: en
+    name: Couatl
+    description: This user is a Couatl!
+gazelle:
+  post: 3lapo2mzl6k2g
+  realm: prime
+  locales:
+  - lang: en
+    name: Gazelle
+    description: This user is a Gazelle!
+dhole:
+  post: 3lapo2nsw3y2v
+  realm: prime
+  locales:
+  - lang: en
+    name: Dhole
+    description: This user is a Dhole!
+english-springer-spaniel:
+  post: 3lapo2oiopn2n
+  realm: prime
+  locales:
+  - lang: en
+    name: English Springer Spaniel
+    description: This user is an English Springer Spaniel!
+fallow-deer:
+  post: 3lapo2p74ag2a
+  realm: prime
+  locales:
+  - lang: en
+    name: Fallow Deer
+    description: This user is a Fallow Deer!
+feyri:
+  post: 3lapo2pulyf2n
+  realm: prime
+  category:
+    en: D&D
+  locales:
+  - lang: en
+    name: Fey'ri
+    description: This user is a Fey'ri!
+fishing-cat:
+  post: 3lapo2qsuev2j
+  realm: prime
+  locales:
+  - lang: en
+    name: Fishing Cat
+    description: This user is a Fishing Cat!
+furby:
+  post: 3lapo2rlrya2u
+  realm: prime
+  locales:
+  - lang: en
+    name: Furby
+    description: This user is a Furby!
+anteater:
+  post: 3lapo2sbxgq2k
+  realm: prime
+  locales:
+  - lang: en
+    name: Anteater
+    description: This user is an Anteater!
+cormorant:
+  post: 3lapo2sy3dd2k
+  realm: prime
+  category:
+    en: Avian/Bird
+    pt-BR: "Ave/P\xE1ssaro"
+  locales:
+  - lang: en
+    name: Cormorant
+    description: This user is a Cormorant!
+harpy-eagle:
+  post: 3lapo2tnsvf2n
+  realm: prime
+  category:
+    en: Avian/Bird
+    pt-BR: "Ave/P\xE1ssaro"
+  locales:
+  - lang: en
+    name: Harpy Eagle
+    description: This user is a Harpy Eagle!
+hippopotamus:
+  post: 3lapo2unuyn2e
+  realm: prime
+  locales:
+  - lang: en
+    name: Hippopotamus
+    description: This user is a Hippopotamus!
+jack-russel-terrier:
+  post: 3lapo2vegwv2n
+  realm: prime
+  locales:
+  - lang: en
+    name: Jack Russel Terrier
+    description: This user is a Jack Russel Terrier!
+kodkod:
+  post: 3lapo2w2zbi2v
+  realm: prime
+  locales:
+  - lang: en
+    name: Kodkod
+    description: This user is a Kodkod!
+ladybug:
+  post: 3lapo2wynpg22
+  realm: prime
+  locales:
+  - lang: en
+    name: Ladybug
+    description: This user is a Ladybug!
+lobster:
+  post: 3lapo2xrhx52p
+  realm: prime
+  locales:
+  - lang: en
+    name: Lobster
+    description: This user is a Lobster!
+louie:
+  post: 3lapo2yhae22g
+  realm: prime
+  locales:
+  - lang: en
+    name: Louie
+    description: This user is a Louie! (kangaroo-esque animals from Bomberman)
+magpie-duck:
+  post: 3lapo2z4z7g22
+  realm: prime
+  category:
+    en: Avian/Bird
+    pt-BR: "Ave/P\xE1ssaro"
+  locales:
+  - lang: en
+    name: Magpie Duck
+    description: This user is a Magpie Duck!
+manx-cat:
+  post: 3lapo2zycaw22
+  realm: prime
+  locales:
+  - lang: en
+    name: Manx Cat
+    description: This user is a Manx Cat!
+mermaid:
+  post: 3lapo32rlbw2h
+  realm: prime
+  locales:
+  - lang: en
+    name: Mermaid
+    description: This user is a Mermaid!
+mexican-wolf:
+  post: 3lapo33hffa2x
+  realm: prime
+  locales:
+  - lang: en
+    name: Mexican Wolf
+    description: This user is a Mexican Wolf!
+microraptor:
+  post: 3lapo34ethq2k
+  realm: prime
+  locales:
+  - lang: en
+    name: Microraptor
+    description: This user is a Microraptor!
+mink:
+  post: 3lapo35axpx24
+  realm: prime
+  category:
+    en: Mustelid
+    pt-BR: "Mustel\xEDdeo"
+  locales:
+  - lang: en
+    name: Mink
+    description: This user is a Mink!
+moki:
+  post: 3lapo35wtjg2h
+  realm: prime
+  locales:
+  - lang: en
+    name: Moki
+    description: This user is a Moki! From the Ori video games
+nanachi:
+  post: 3lapo36mz2622
+  realm: prime
+  locales:
+  - lang: en
+    name: Nanachi
+    description: This user is a Nanachi! (Made in Abyss)
+okapi:
+  post: 3lapo37ibxw2a
+  realm: prime
+  locales:
+  - lang: en
+    name: Okapi
+    description: This user is an Okapi!
+persian-fallow-deer:
+  post: 3lapo3a7xrw2a
+  realm: prime
+  locales:
+  - lang: en
+    name: Persian Fallow Deer
+    description: This user is a Persian Fallow Deer!
+pikmin:
+  post: 3lapo3avutv2j
+  realm: prime
+  locales:
+  - lang: en
+    name: Pikmin
+    description: This user is a Pikmin!
+pine-marten:
+  post: 3lapo3bln7x24
+  realm: prime
+  category:
+    en: Mustelid
+    pt-BR: "Mustel\xEDdeo"
+  locales:
+  - lang: en
+    name: Pine Marten
+    description: This user is a Pine Marten!
+poodle:
+  post: 3lapo3cgz7w2a
+  realm: prime
+  locales:
+  - lang: en
+    name: Poodle
+    description: This user is a Poodle!
+prairie-dog:
+  post: 3lapo3dyirw2h
+  realm: prime
+  locales:
+  - lang: en
+    name: Prairie Dog
+    description: This user is a Prairie Dog!
+pteromon:
+  post: 3lapo3eoyua2v
+  realm: prime
+  category:
+    en: Digimon
+  locales:
+  - lang: en
+    name: Pteromon
+    description: This user is a Pteromon!
+quokka:
+  post: 3lapo3fm5kd2k
+  realm: prime
+  locales:
+  - lang: en
+    name: Quokka
+    description: This user is a Quokka!
+ragdoll:
+  post: 3lapo3gdzdo22
+  realm: prime
+  locales:
+  - lang: en
+    name: Ragdoll
+    description: This user is a Ragdoll! (cat)
+renamon:
+  post: 3lapo3h23tg2h
+  realm: prime
+  category:
+    en: Digimon
+  locales:
+  - lang: en
+    name: Renamon
+    description: This user is a Renamon!
+sand-fox:
+  post: 3lapo3hqy4i2x
+  realm: prime
+  locales:
+  - lang: en
+    name: Sand Fox
+    description: "This user is a Sand Fox! AKA R\xFCppell's sand fox, R\xFCppell's
+      fox"
+ryukyu-robin:
+  post: 3lapo3ihnbw2a
+  realm: prime
+  category:
+    en: Avian/Bird
+    pt-BR: "Ave/P\xE1ssaro"
+  locales:
+  - lang: en
+    name: Ryukyu Robin
+    description: This user is a Ryukyu Robin!
+saluki:
+  post: 3lapo3j5gkd2k
+  realm: prime
+  locales:
+  - lang: en
+    name: Saluki
+    description: This user is a Saluki!
+scorpion:
+  post: 3lapo3jtsia2k
+  realm: prime
+  locales:
+  - lang: en
+    name: Scorpion
+    description: This user is a Scorpion!
+snowy-owl:
+  post: 3lapo3kjyv62h
+  realm: prime
+  category:
+    en: Avian/Bird
+    pt-BR: "Ave/P\xE1ssaro"
+  locales:
+  - lang: en
+    name: Snowy Owl
+    description: This user is a Snowy Owl!
+sparrow:
+  post: 3lapo3los2w2a
+  realm: prime
+  category:
+    en: Avian/Bird
+    pt-BR: "Ave/P\xE1ssaro"
+  locales:
+  - lang: en
+    name: Sparrow
+    description: This user is a Sparrow!
+house-sparrow:
+  post: 3lapo3meujy2x
+  realm: prime
+  category:
+    en: Avian/Bird
+    pt-BR: "Ave/P\xE1ssaro"
+  locales:
+  - lang: en
+    name: House Sparrow
+    description: This user is a House Sparrow!
+spectacled-bear:
+  post: 3lapo3n3qjn2e
+  realm: prime
+  locales:
+  - lang: en
+    name: Spectacled Bear
+    description: This user is a Spectacled Bear!
+stickbug:
+  post: 3lapo3nuyl52p
+  realm: prime
+  locales:
+  - lang: en
+    name: Stickbug
+    description: This user is a Stickbug!
+sturgeon:
+  post: 3lapo3onb322w
+  realm: prime
+  locales:
+  - lang: en
+    name: Sturgeon
+    description: This user is a Sturgeon!
+tarantula:
+  post: 3lapo3pekpg23
+  realm: prime
+  locales:
+  - lang: en
+    name: Tarantula
+    description: This user is a Tarantula!
+thai-bangkaew-dog:
+  post: 3lapo3q2wgf2e
+  realm: prime
+  locales:
+  - lang: en
+    name: Thai Bangkaew Dog
+    description: This user is a Thai Bangkaew Dog!
+thylacoleo:
+  post: 3lapo3qqyga2v
+  realm: prime
+  locales:
+  - lang: en
+    name: Thylacoleo
+    description: This user is a Thylacoleo!
+tiger-shark:
+  post: 3lapo3ro2gn2n
+  realm: prime
+  locales:
+  - lang: en
+    name: Tiger Shark
+    description: This user is a Tiger Shark!
+timber-wolf:
+  post: 3lapo3seezl2k
+  realm: prime
+  locales:
+  - lang: en
+    name: Timber Wolf
+    description: This user is a Timber Wolf!
+tyrannosaur:
+  post: 3lapo3t5w2i2u
+  realm: prime
+  locales:
+  - lang: en
+    name: Tyrannosaur
+    description: This user is a Tyrannosaur!
+vulpera:
+  post: 3lapo3u32cf2n
+  realm: prime
+  category:
+    en: World of Warcraft
+    pt-BR: World of Warcraft
+  locales:
+  - lang: en
+    name: Vulpera
+    description: This user is a Vulpera!
+white-shepherd:
+  post: 3lapo3uriek2w
+  realm: prime
+  locales:
+  - lang: en
+    name: White Shepherd
+    description: This user is a White Shepherd!
+white-swiss-shepherd:
+  post: 3lapo3vht3i2x
+  realm: prime
+  locales:
+  - lang: en
+    name: White Swiss Shepherd
+    description: This user is a White Swiss Shepherd!
+wildcat:
+  post: 3lapo3wepzo2h
+  realm: prime
+  locales:
+  - lang: en
+    name: Wildcat
+    description: This user is a Wildcat!
+worm:
+  post: 3lapo3x3j3g22
+  realm: prime
+  locales:
+  - lang: en
+    name: Worm
+    description: This user is a Worm!
+zonai:
+  post: 3lapo3xrmvi2v
+  realm: prime
+  category:
+    en: The Legend of Zelda
+    pt-BR: The Legend of Zelda
+  locales:
+  - lang: en
+    name: Zonai
+    description: This user is a Zonai!
+hakamoo:
+  post: 3lapo3yhviy2u
+  realm: pokemon
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+  locales:
+  - lang: en
+    name: Hakamo-o
+    description: This user is a Hakamo-o!
+dragapult:
+  post: 3lapo3z5vx52e
+  realm: pokemon
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+  locales:
+  - lang: en
+    name: Dragapult
+    description: This user is a Dragapult!
+chandelure:
+  post: 3lapo42bxbt2k
+  realm: pokemon
+  category:
+    en: Pokemon
+    pt-BR: Pokemon
+  locales:
+  - lang: en
+    name: Chandelure
+    description: This user is a Chandelure!
+selkie:
+  post: 3lapo42ylrv2j
+  realm: prime
+  category:
+    en: Folklore
+    pt-BR: Folclore
+  locales:
+  - lang: en
+    name: Selkie
+    description: This user is a Selkie! AKA Silkie
