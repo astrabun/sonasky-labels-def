@@ -3609,10 +3609,10 @@ felkin:
   locales:
   - lang: en
     name: Felkin
-    description: 'This user is a Felkin! [Tags: closed-species] https://www.deviantart.com/leachymonster/art/Official-Felkin-Species-Guide-522020670'
+    description: 'This user is a Felkin! [Tags: open-species] https://www.furaffinity.net/view/34178163/'
   - lang: pt-BR
     name: Felkin
-    description: "Este usu\xE1rio \xE9 um Felkin! [Tags: esp\xE9cie-fechada] https://www.deviantart.com/leachymonster/art/Official-Felkin-Species-Guide-522020670"
+    description: "Este usu\xE1rio \xE9 um Felkin! [Tags: livre-esp\xE9cie] https://www.furaffinity.net/view/34178163/"
 cockatiel:
   post: 3l2amxw2r322q
   realm: prime
