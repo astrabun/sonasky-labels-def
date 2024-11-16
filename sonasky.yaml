@@ -9249,3 +9249,13 @@ selkie:
   - lang: en
     name: Selkie
     description: This user is a Selkie! AKA Silkie
+monster-hunter-creature:
+  post: 3lb3q3koxms2a
+  realm: prime
+  category:
+    en: Monster Hunter
+    pt-BR: Monster Hunter
+  locales:
+  - lang: en
+    name: Monster Hunter Creature
+    description: This user is a monster from Monster Hunter! You may be able to check their bio for more details.
