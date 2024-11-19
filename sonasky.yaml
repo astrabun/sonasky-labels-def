@@ -5473,13 +5473,11 @@ plural-system:
     pt-BR: Meta
   locales:
   - lang: en
-    name: Plural System
-    description: This Bluesky profile is shared between multiple entities within a
-      plural system.
+    name: Plural
+    description: This Bluesky user identifies as plural, or the profile is shared between multiple entities within a plural system.
   - lang: pt-BR
-    name: Sistema Plural
-    description: "Este perfil do Bluesky \xE9 compartilhado entre m\xFAltiplas entidades
-      dentro de um sistema plural."
+    name: Plural
+    description: "Este usuário do Bluesky se identifica como plural ou o perfil é compartilhado entre várias entidades dentro de um sistema plural."
 details-in-bio:
   post: 3l6tiufub222b
   realm: prime
