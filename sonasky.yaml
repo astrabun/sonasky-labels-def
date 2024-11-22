@@ -4415,16 +4415,10 @@ otherkin:
   locales:
   - lang: en
     name: Otherkin
-    description: "This user is Otherkin! Otherkin are people who identify as nonhuman
-      in a nonphysical way, often involuntarily. Otherkin identities are sometimes
-      associated with reincarnation, brain wiring, or a mix of species in one\u2019s
-      soul. https://otherkin.fandom.com/wiki/Otherkin"
+    description: "This user is Otherkin! Otherkin are a subculture of people who identify as nonhuman. https://otherkin.wiki/wiki/Otherkin"
   - lang: pt-BR
     name: Otherkin
-    description: "Este usu\xE1rio \xE9 Otherkin! Otherkin s\xE3o pessoas que se identificam
-      como n\xE3o humanas de forma n\xE3o f\xEDsica, muitas vezes de maneira involunt\xE1ria.
-      As identidades Otherkin s\xE3o algumas vezes associadas com reencarna\xE7\xE3o,
-      conex\xF5es cerebrais ou uma mistura de esp\xE9cies na alma de algu\xE9m."
+    description: "Este usuário é Otherkin! Otherkin é uma subcultura de pessoas que se identificam como não humanas. https://otherkin.wiki/wiki/Otherkin"
 alterhuman:
   post: 3l3epk2qox52b
   realm: prime
@@ -4434,17 +4428,10 @@ alterhuman:
   locales:
   - lang: en
     name: Alterhuman
-    description: This user is Alterhuman! Alterhuman refers to individuals whose identities
-      extend beyond traditional human norms. They may identify as non-human or as
-      human in unconventional ways. The term serves as an umbrella for various unique
-      identities. https://otherkin.fandom.com/wiki/Alterhuman
+    description: This user is Alterhuman! Alterhumans are individuals who have identities beyond what is traditionally considered human. An alterhuman can identify as non-human, or they can identify as being human in ways alternate to what is societally common. The word "alterhuman" can be used as an umbrella term for otherkin, therians, fictionkin, etc. https://otherkin.wiki/wiki/Alterhuman
   - lang: pt-BR
     name: Alterhumano
-    description: "Este usu\xE1rio \xE9 Alterhumano! Alterhumano se refere a indiv\xEDduos
-      cujas identidades se estendem al\xE9m das normas humanas tradicionais. Eles
-      podem se identificar como n\xE3o-humanos ou como humanos de maneiras n\xE3o
-      convencionais. O termo serve como um guarda-chuva para v\xE1rias identidades
-      \xFAnicas."
+    description: Este usuário é Alterhuman! Alterhumans são indivíduos que têm identidades além do que é tradicionalmente considerado humano. Um alterhuman pode se identificar como não humano, ou pode se identificar como humano de maneiras alternativas ao que é socialmente comum. A palavra "alterhuman" pode ser usada como um termo genérico para otherkin, therians, fictionkin, etc. https://otherkin.wiki/wiki/Alterhuman
 spotted-hyena:
   post: 3l2xwhl3ty426
   realm: prime
