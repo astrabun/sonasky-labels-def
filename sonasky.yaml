@@ -3797,11 +3797,11 @@ dobermann:
   realm: prime
   locales:
   - lang: en
-    name: Dobermann
-    description: This user is a Dobermann!
+    name: Doberman
+    description: This user is a Doberman!
   - lang: pt-BR
-    name: Dobermann
-    description: "Este usu\xE1rio \xE9 um Dobermann!"
+    name: Doberman
+    description: "Este usu\xE1rio \xE9 um Doberman!"
 samoyed:
   post: 3l2dlximqyt27
   realm: prime
