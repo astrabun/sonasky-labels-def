@@ -7696,8 +7696,8 @@ hippocamp:
     pt-BR: Folclore
   locales:
   - lang: en
-    name: Hippocamp
-    description: 'This user is a Hippocampus! AKA: Hippocamp, Sea-Horse'
+    name: Sea Horse
+    description: 'This user is a Hippocampus! AKA: Hippocamp, Sea-Horse, Sea Horse'
 geroo:
   flags:
   - POTENTIAL_LOW_USE__NO_INTERACTIONS_ONE_WEEK_OUT
