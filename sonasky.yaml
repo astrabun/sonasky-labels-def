@@ -9244,3 +9244,12 @@ monster-hunter-creature:
   - lang: en
     name: Monster Hunter Creature
     description: This user is a monster from Monster Hunter! You may be able to check their bio for more details.
+t-rex:
+  post: 3lefw3wniv22c
+  realm: prime
+  category:
+    en: Dinosaur
+  locales:
+  - lang: en
+    name: Tyrannosaurus Rex
+    description: "This user is a Tyrannosaurus Rex! (AKA: T-Rex, Rex)"
