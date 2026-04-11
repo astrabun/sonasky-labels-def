@@ -80,10 +80,10 @@ dog:
   locales:
   - lang: en
     name: Dog
-    description: 'This user is a Dog! (AKA: puppy, doggo, pupper)'
+    description: 'This user is a Dog!'
   - lang: pt-BR
     name: Cachorro
-    description: "Este usu\xE1rio \xE9 um Cachorro! AKA: Cachorrinho, Doguinho."
+    description: "Este usu\xE1rio \xE9 um Cachorro!"
 dragon:
   post: 3kz6oax5bd22f
   realm: prime
