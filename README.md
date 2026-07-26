@@ -1,3 +1,5 @@
+<div style="font-size: 2rem;">⚠️⚠️⚠️ MOVED to <a href="https://github.com/astrabun/sonasky/tree/main/packages/labels-def">@sonasky/labels-def</a></div>
+
 # SonaSky Labels
 
 This repo is for storing species labels within [SonaSky](https://bsky.app/profile/sonasky.bsky.social) [[Github]](https://github.com/astrabun/sonasky) | [[Browse Labels]](https://sonasky-browse.bunnys.ky/) | [[Blog]](https://astrabun.com/projects/sonasky/). It replaces the now-archived repo, [sonasky-labels-localization](https://github.com/astrabun/sonasky-labels-localization). 
