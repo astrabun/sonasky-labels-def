@@ -1,4 +1,4 @@
-<div style="font-size: 2rem;">⚠️⚠️⚠️ MOVED to <a href="https://github.com/astrabun/sonasky/tree/main/packages/labels-def">@sonasky/labels-def</a></div>
+<h1 style="font-size: 2rem;">⚠️⚠️⚠️ MOVED to <a href="https://github.com/astrabun/sonasky/tree/main/packages/labels-def">@sonasky/labels-def</a></h1>
 
 # SonaSky Labels
 
